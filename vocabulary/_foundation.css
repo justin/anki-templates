@@ -1,0 +1,92 @@
+/**
+  Foundation CSS file + styling for my anki templates.
+*/
+body {
+    background-color: #ececec;
+    font-family: IPAexGothic, 'Helvetica Neue', 'メイリオ', 'Meiryo', 'Osaka', 'ＭＳ Ｐゴシック', 'MS PGothic', "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Helvetica, Arial, sans-serif;
+    font-size: 30pt;
+    color: #333333;
+
+    @font-face {
+        font-family: IPAexGothic;
+        src: url('__ipaex_gothic.ttf');
+    }
+  }
+  
+  .card {
+    font-size: 17pt;
+    line-height: 34pt;
+    text-align: center;
+  }
+  
+  hr {
+      height: 1px;
+      color: #333333;
+      background: #333333;
+  }
+  
+  .jp { margin: auto; }
+  
+  #typeans {
+      font-size: 30pt;
+  }
+  
+  .caption1 {
+    font-size: 11pt;
+    font-weight: bold;
+  }
+  
+  .title1 {
+     font-size: 48pt;
+  }
+  
+  .iphone .title1 {
+    font-size: 24pt;
+  }
+  
+  .title2 {
+     font-size: 32pt;
+  }
+  
+  .iphone .title2 {
+     font-size: 20pt;
+  }
+  
+  .title3 {
+     font-size: 16pt;
+  }
+  
+  .audio span svg {
+      fill: #000;
+  }
+  
+  p.kanji {
+      text-shadow: 0px 1px 5px rgba(0,0,0, 0.5);
+  }
+  
+  div.header {
+    background-color: #000;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 5px;
+  }
+  
+  div.header.sentence {
+      background-color: #F49D37;
+  }
+  
+  div.header.kana {
+      background-color: #D72638;
+  }
+  
+  div.header.vocab {
+      background-color: #3F88C5;
+  }
+  
+  div.header.kanji {
+      background-color: #FF4D80;
+  }
+  
+  
