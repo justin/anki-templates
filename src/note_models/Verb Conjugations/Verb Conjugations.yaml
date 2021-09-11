@@ -1,0 +1,62 @@
+name: Verb Conjugations
+id: eb2465a0-1325-11ec-813b-acde48001122
+css_file: src/shared/_foundation.css
+fields:
+- name: Expression
+  font: IPAexGothic
+- name: Meaning
+  font: SF Pro
+- name: Kana
+  font: IPAexGothic
+- name: Stem
+  font: IPAexGothic
+- name: Dictionary Form
+  font: IPAexGothic
+- name: Present Affirmative
+  font: IPAexGothic
+- name: Present Negative
+  font: IPAexGothic
+- name: Past Affirmative
+  font: IPAexGothic
+- name: Past Negative
+  font: IPAexGothic
+- name: Volitional Form
+  font: IPAexGothic
+- name: Te Form
+  font: IPAexGothic
+- name: Mnemonic
+  font: SF Pro
+- name: Notes
+  font: SF Pro
+templates:
+- name: Dictionary Form
+  html_file: src/note_models/Verb Conjugations/Dictionary Form.html
+- name: Present Tense (Affirmative)
+  html_file: src/note_models/Verb Conjugations/Present Tense (Affirmative).html
+- name: Present Tense (Negative)
+  html_file: src/note_models/Verb Conjugations/Present Tense (Negative).html
+- name: Past Tense (Affirmative)
+  html_file: src/note_models/Verb Conjugations/Past Tense (Affirmative).html
+- name: Past Tense (Negative)
+  html_file: src/note_models/Verb Conjugations/Past Tense (Negative).html
+- name: Te Form
+  html_file: src/note_models/Verb Conjugations/Te Form.html
+- name: Volitional Form
+  html_file: src/note_models/Verb Conjugations/Volitional Form.html
+
+required_fields_per_template:
+- - 0
+  - any
+  - - 1
+- - 1
+  - any
+  - - 1
+- - 2
+  - any
+  - - 1
+- - 3
+  - any
+  - - 1
+- - 4
+  - any
+  - - 1

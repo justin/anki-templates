@@ -1,0 +1,26 @@
+name: Japanese - Kanji
+id: eb21a72a-1325-11ec-813b-acde48001122
+css_file: src/shared/_foundation.css
+sort_field_num: 6
+fields:
+- name: Character
+  font: IPAexGothic
+- name: Meaning
+  font: SF Pro
+- name: Onyomi
+  font: IPAexGothic
+- name: Kunyomi
+  font: IPAexGothic
+- name: Mnemonic
+  font: SF Pro
+- name: Notes
+  font: SF Pro
+- name: Position
+  font: SF Pro
+templates:
+- name: Recognition
+  html_file: src/note_models/Japanese - Kanji/Recognition.html
+required_fields_per_template:
+- - 0
+  - any
+  - - 0
