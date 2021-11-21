@@ -2,13 +2,13 @@ guid,character,meaning,onyomi,kunyomi,mnemonic,notes,position,tags
 vH#xQ?<~$%,月,moon,かつ　げつ,つき,This is the shape of a crescent moon,,18,"Genki, Kanji_Practice, leech, lesson-4, 人_and_月"
 OUXF>p[qd6,火,fire,ひ,,,,19,"Genki, Kanji_Practice, lesson-4, 火_and_水"
 zzD>]b3EJ?,木,tree,もく　ぼく,"き, こ-",,,20,"_and_土, _金, Genki, Kanji_Practice, leech, lesson-4, 木"
-"PSpiM0W;,w",中,inside,なか,,,,,"Genki, lesson-4, Location_Words, Vocabulary"
-"b`,Uvbi0!?",下,under,した,,,,,"Genki, leech, lesson-4, Location_Words, Vocabulary"
+"PSpiM0W;,w",中,inside,なか,,,,,"Genki, lesson-4, Location_Words"
+"b`,Uvbi0!?",下,under,した,,,,,"Genki, leech, lesson-4, Location_Words"
 "ozm,1nYnbo",水,water,みず,,,,,"Genki, Kanji_Practice, lesson-4, 火_and_水"
-kK4vszz-l$,左,left,ひだり,,,,,"Genki, leech, lesson-4, Location_Words, Vocabulary"
-I?y;<:wc%9,前,front,まえ,,,,,"Genki, leech, lesson-4, Location_Words, Vocabulary"
+kK4vszz-l$,左,left,ひだり,,,,,"Genki, leech, lesson-4, Location_Words"
+I?y;<:wc%9,前,front,まえ,,,,,"Genki, leech, lesson-4, Location_Words"
 FOxOrT>Uj,川,River,かわ,,,,,"_and_元, _川, Genki, Kanji_Practice, lesson-5, 山"
-"oAd$bXJ?,k",間,between,あいだ,,,,,"Genki, leech, lesson-4, Location_Words, Vocabulary"
+"oAd$bXJ?,k",間,between,あいだ,,,,,"Genki, leech, lesson-4, Location_Words"
 iGP4t/R8m?,山,mountain,やま,,,,,"_and_元, _川, Genki, Kanji_Practice, lesson-5, 山"
 D_*6.0y$$K,今,Now,こん　きん,いま,,,27,"Genki, Kanji_Practice, lesson-5, 今_and_田"
 zsl669T)t.,一,One,いち　いっ　いつ,ひと,1 finger,,1,
@@ -42,7 +42,7 @@ vsSYI.3]Gm,半,"Half, middle, odd number, semi-, part-",ハン,なか. ば,,,,
 zhX[h{nD5n,刀,Sword,トウ,"かたな, そり",,,,
 hb<a8$]/kE,分,"minute (unit of time) /&nbsp; part, portion, or share","ブン, フン, ブ","わ.ける, わ.け, わ.かれる, わ.かる, わ.かつ",,,,
 g]18IQUU5g,上,Top / Above / On,うえ,,,,,
-b@TE.:7q1v,下,"below, down, under","カ, ゲ",した,,,,"Genki, lesson-4, Location_Words, Vocabulary"
+b@TE.:7q1v,下,"below, down, under","カ, ゲ",した,,,,"Genki, lesson-4, Location_Words"
 w>}>L+]!Ds,中,"in, inside, middle, mean, center",チュウ,"なか, うち, あた.る",,,,
 l_B8l(iuIh,外,outside,"ガイ, ゲ","そと, ほか, はず.す, はず.れる, と-",,,,
 d<&!tNIX9M,右,right,"ウ, ユウ",みぎ,,,,
@@ -50,7 +50,7 @@ Hxuk8;LU{p,工,"craft, construction, katakana e radical (no. 48)","コウ, ク, 
 DVs<>LbEDI,左,left,"サ, シャ",ひだり,,,,
 lLFa:vk7?E,前,in front /&nbsp; before / X years ago,ゼン,"まえ, -まえ",,５ねんまえに (5 years ago),,
 sKELVitfkq,後,"behind, back, later","ゴ, コウ","のち, うし.ろ, うしろ, あと, おく.れる",,,,
-LwXP4&eu4:,午,"noon, 11AM-1PM",ゴ,うま,,,,
+LwXP4&eu4:,午,"noon, 11AM-1PM",ゴ,うま,,,,leech
 l[DBINh$U4,門,"gate, counter for cannons",モン,"かど, と",,,,
 uGh8@c6I3z,東,East,トウ,ひがし,,,,
 O|+:ln}Ju%,西,West,,にし,,,,
