@@ -5,30 +5,17 @@ fields:
 - name: Expression
   font: IPAexGothic
 - name: Meaning
-  font: SF Pro
 - name: Add Reverse?
-  font: SF Pro
 - name: Kana
   font: IPAexGothic
 - name: Mnemonic
-  font: SF Pro
 - name: Notes
-  font: SF Pro
 templates:
-- name: Card
-  html_file: src/note_models/Vocabulary/Card.html
-- name: Card 2
-  html_file: src/note_models/Vocabulary/Card 2.html
+- name: Recognition
+  html_file: src/note_models/Vocabulary/Recognition.html
+- name: Reverse
+  html_file: src/note_models/Vocabulary/Reverse.html
 tags:
 - Genki
-- lesson-5
 - Vocabulary
 - な-adjectives
-required_fields_per_template:
-- - 0
-  - any
-  - - 0
-    - 3
-- - 1
-  - any
-  - - 1
