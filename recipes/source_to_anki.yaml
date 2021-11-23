@@ -1,6 +1,7 @@
 - generate_guids_in_csvs:
     source:
     - src/data/Vocabulary.csv
+    - src/data/Sentences.csv
     - src/data/Japanese - Kanji.csv
     - src/data/Verb Conjugations.csv
     columns:
@@ -8,6 +9,9 @@
 - build_parts:
   - note_models_from_yaml_part:
       part_id: Vocabulary
+      file: src/note_models/Vocabulary/Vocabulary.yaml
+  - note_models_from_yaml_part:
+      part_id: Sentences
       file: src/note_models/Vocabulary/Vocabulary.yaml
   - note_models_from_yaml_part:
       part_id: Japanese - Kanji
@@ -26,6 +30,8 @@
         note_model: Vocabulary
       - file: src/data/Japanese - Kanji.csv
         note_model: Japanese - Kanji
+      - file: src/data/Sentences.csv
+        note_model: Vocabulary
       - file: src/data/Verb Conjugations.csv
         note_model: Verb Conjugations
       note_model_mappings:
