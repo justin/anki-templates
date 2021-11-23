@@ -43,7 +43,7 @@ deck_configurations:
     hardFactor: 1.2
     ivlFct: 1.91
     maxIvl: 36500
-    perDay: 200
+    perDay: 100
   reviewOrder: 0
   timer: 0
 deck_config_uuid: eb2051ea-1325-11ec-813b-acde48001122
