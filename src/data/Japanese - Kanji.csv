@@ -1,54 +1,54 @@
 guid,character,meaning,onyomi,kunyomi,mnemonic,notes,position,tags
-vH#xQ?<~$%,月,moon,かつ　げつ,つき,This is the shape of a crescent moon,,18,"Genki, Kanji_Practice, leech, lesson-4, 人_and_月"
-OUXF>p[qd6,火,fire,ひ,,,,19,"Genki, Kanji_Practice, lesson-4, 火_and_水"
-zzD>]b3EJ?,木,tree,もく　ぼく,"き, こ-",,,20,"_and_土, _金, Genki, Kanji_Practice, leech, lesson-4, 木"
-"PSpiM0W;,w",中,inside,なか,,,,,"Genki, lesson-4, Location_Words"
-"b`,Uvbi0!?",下,under,した,,,,,"Genki, leech, lesson-4, Location_Words"
-"ozm,1nYnbo",水,water,みず,,,,,"Genki, Kanji_Practice, lesson-4, 火_and_水"
-kK4vszz-l$,左,left,ひだり,,,,,"Genki, leech, lesson-4, Location_Words"
-I?y;<:wc%9,前,front,まえ,,,,,"Genki, leech, lesson-4, Location_Words"
-FOxOrT>Uj,川,River,かわ,,,,,"_and_元, _川, Genki, Kanji_Practice, lesson-5, 山"
-"oAd$bXJ?,k",間,between,あいだ,,,,,"Genki, leech, lesson-4, Location_Words"
-iGP4t/R8m?,山,mountain,やま,,,,,"_and_元, _川, Genki, Kanji_Practice, lesson-5, 山"
-D_*6.0y$$K,今,Now,こん　きん,いま,,,27,"Genki, Kanji_Practice, lesson-5, 今_and_田"
-zsl669T)t.,一,One,いち　いっ　いつ,ひと,1 finger,,1,
-uiMPI?8Ebp,二,Two,に,ふん,2 fingers,,2,
-s%{|3LyvcU,三,Three,さん,みっ　み,Three fingers,,3,
-B3lGi#I+y-,四,Four,し,よん　よっ　よ,A rectangle has four corners,,4,
-gPwm&uSy4;,五,Five,ご,いつ,Can you make the kanji with 5 matchsticks?,,5,
-d-nZrOcXKg,六,Six,ろく　ろっ,むっ　むい　む,,,6,
-cBc+h+0FSj,七,Seven,しち,なな　なの,,,7,
-BAtI}`5H.+,八,Eight,はち　はっ,やつ　や　よう,,,8,
-rO8ZN`n)=M,九,Nine,きゅう　く,ここの,,,9,
-rjFo@aer[a,十,Ten,じゅう　じっ　じゅっ,とお　と,,,10,
-l(/=qYza67,百,100 / Hundred,ひゃく　びゃく,,,,11,
-NS!^3L8K}V,千,"1,000 / Thousand",せん　ぜん,ち,,,12,
+zsl669T)t.,一,One,いち　いっ　いつ,ひと,1 finger,,1,Japanese::Kanji::Grade_1
+uiMPI?8Ebp,二,Two,に,ふん,2 fingers,,2,Japanese::Kanji::Grade_1
+s%{|3LyvcU,三,Three,さん,みっ　み,Three fingers,,3,Japanese::Kanji::Grade_1
+B3lGi#I+y-,四,Four,し,よん　よっ　よ,A rectangle has four corners,,4,Japanese::Kanji::Grade_1
+gPwm&uSy4;,五,Five,ご,いつ,Can you make the kanji with 5 matchsticks?,,5,Japanese::Kanji::Grade_1
+d-nZrOcXKg,六,Six,ろく　ろっ,むっ　むい　む,,,6,Japanese::Kanji::Grade_1
+cBc+h+0FSj,七,Seven,しち,なな　なの,,,7,Japanese::Kanji::Grade_1
+BAtI}`5H.+,八,Eight,はち　はっ,やつ　や　よう,,,8,Japanese::Kanji::Grade_1
+rO8ZN`n)=M,九,Nine,きゅう　く,ここの,,,9,Japanese::Kanji::Grade_1
+rjFo@aer[a,十,Ten,じゅう　じっ　じゅっ,とお　と,,,10,Japanese::Kanji::Grade_1
+l(/=qYza67,百,100 / Hundred,ひゃく　びゃく,,,,11,Japanese::Kanji::Grade_1
+NS!^3L8K}V,千,"1,000 / Thousand",せん　ぜん,ち,,,12,Japanese::Kanji::Grade_1
 o)W>E]rEsQ,万,"10,000 / Ten thousand",まん　ばん,,"10,000 is a five digit number",,13,leech
-h;kp1+|2<$,円,Yen / Circle,えん,まる,This is the shape of a circle.,,14,
-t`[`O$C<!;,口,Mouth,こう　く,くち　ぐち,This is the shape of a mouth.,,15,
-eB_=GbpfvS,目,Eye,もく　ぼく,"め, ま",This is the shape of a mouth.,,16,leech
-m+aU`?:6j!,日,Day / Sun,にち　にっ　じっ,び　か　ひ,This is the shape of the sun,,17,leech
-o/[%JOR(z9,火,Fire,カ,"ひ, -び, ほ-",,,,
+h;kp1+|2<$,円,Yen / Circle,えん,まる,This is the shape of a circle.,,14,Japanese::Kanji::Grade_1
+t`[`O$C<!;,口,Mouth,こう　く,くち　ぐち,This is the shape of a mouth.,,15,Japanese::Kanji::Grade_1
+eB_=GbpfvS,目,Eye,もく　ぼく,"め, ま",This is the shape of a mouth.,,16,"leech, Japanese::Kanji::Grade_1"
+m+aU`?:6j!,日,Day / Sun,にち　にっ　じっ,び　か　ひ,This is the shape of the sun,,17,"leech, Japanese::Kanji::Grade_1"
+vH#xQ?<~$%,月,moon,かつ　げつ,つき,This is the shape of a crescent moon,,18,"Genki, Kanji_Practice, leech, lesson-4, 人_and_月, Japanese::Kanji::Grade_1"
+OUXF>p[qd6,火,fire,ひ,,,,19,"Genki, Kanji_Practice, lesson-4, 火_and_水"
+zzD>]b3EJ?,木,Tree,もく　ぼく,"き, こ-",,,20,"_and_土, _金, Genki, Kanji_Practice, leech, lesson-4, 木, Japanese::Kanji::Grade_1"
 pudB=P~NEO,水,Water,スイ,"みず, みず-",,,21,
 E{qExn|jQ>,金,Gold,"キン, コン, ゴン","かね, かな-, -がね",,,22,
-v##n?p^AKB,土,Soil,つち,,,,23,leech
+v##n?p^AKB,土,Soil,つち,,,,23,"leech, Japanese::Kanji::Grade_1"
 yV?XbNHNW:,曜,Weekday,よう,,,,24,leech
 Ih6vCj(-Bq,本,Book,ほん ぼん,もと,,,25,
-A(5A/Sn?q+,人,person,じん　にん,ひと,,,26,
+A(5A/Sn?q+,人,person,じん　にん,ひと,,,26,Japanese::Kanji::Grade_1
+D_*6.0y$$K,今,Now,こん　きん,いま,,,27,"Genki, Kanji_Practice, lesson-5, 今_and_田"
+"PSpiM0W;,w",中,inside,なか,,,,,"Genki, lesson-4, Location_Words, Japanese::Kanji::Grade_1"
+"b`,Uvbi0!?",下,under / down,した,,,,,"Genki, leech, lesson-4, Location_Words, Japanese::Kanji::Grade_1"
+"ozm,1nYnbo",水,water,みず,,,,,"Genki, Kanji_Practice, lesson-4, 火_and_水, Japanese::Kanji::Grade_1"
+kK4vszz-l$,左,left,ひだり,,,,,"Genki, leech, lesson-4, Location_Words, Japanese::Kanji::Grade_1"
+I?y;<:wc%9,前,front,まえ,,,,,"Genki, leech, lesson-4, Location_Words"
+FOxOrT>Uj,川,River,かわ,,,,,"_and_元, _川, Genki, Kanji_Practice, lesson-5, 山, Japanese::Kanji::Grade_1"
+"oAd$bXJ?,k",間,between,あいだ,,,,,"Genki, leech, lesson-4, Location_Words"
+iGP4t/R8m?,山,mountain,やま,,,,,"_and_元, _川, Genki, Kanji_Practice, lesson-5, 山, Japanese::Kanji::Grade_1"
+o/[%JOR(z9,火,Fire,カ,"ひ, -び, ほ-",,,,Japanese::Kanji::Grade_1
 G&+11Wl`+&,今,Now,"コン, キン",いま,,,,
 "fU,RbO4%h3",寺,Buddhist temple,ジ,てら,,,,
 h??cESvos.,時,"when... / at the time of.. / time, hour",とき,,,,,leech
 vsSYI.3]Gm,半,"Half, middle, odd number, semi-, part-",ハン,なか. ば,,,,
 zhX[h{nD5n,刀,Sword,トウ,"かたな, そり",,,,
 hb<a8$]/kE,分,"minute (unit of time) /&nbsp; part, portion, or share","ブン, フン, ブ","わ.ける, わ.け, わ.かれる, わ.かる, わ.かつ",,,,
-g]18IQUU5g,上,Top / Above / On,うえ,,,,,
+g]18IQUU5g,上,Top / Above / On,うえ,,,,,Japanese::Kanji::Grade_1
 b@TE.:7q1v,下,"below, down, under","カ, ゲ",した,,,,"Genki, lesson-4, Location_Words"
 w>}>L+]!Ds,中,"in, inside, middle, mean, center",チュウ,"なか, うち, あた.る",,,,
 l_B8l(iuIh,外,outside,"ガイ, ゲ","そと, ほか, はず.す, はず.れる, と-",,,,
-d<&!tNIX9M,右,right,"ウ, ユウ",みぎ,,,,
+d<&!tNIX9M,右,right,"ウ, ユウ",みぎ,,,,Japanese::Kanji::Grade_1
 Hxuk8;LU{p,工,"craft, construction, katakana e radical (no. 48)","コウ, ク, グ",,,,,
 DVs<>LbEDI,左,left,"サ, シャ",ひだり,,,,
-lLFa:vk7?E,前,in front /&nbsp; before / X years ago,ゼン,"まえ, -まえ",,５ねんまえに (5 years ago),,
+lLFa:vk7?E,前,in front / before / X years ago,ゼン,"まえ, -まえ",,５ねんまえに (5 years ago),,
 sKELVitfkq,後,"behind, back, later","ゴ, コウ","のち, うし.ろ, うしろ, あと, おく.れる",,,,
 LwXP4&eu4:,午,"noon, 11AM-1PM",ゴ,うま,,,,leech
 l[DBINh$U4,門,"gate, counter for cannons",モン,"かど, と",,,,
@@ -57,3 +57,23 @@ O|+:ln}Ju%,西,West,,にし,,,,
 oiqL!!RhzG,南,South,"ナン, ナ",みなみ,,,,
 L-E{:r54-$,北,North,ホク,きた,,,,
 Hf*gb(gv*^,一分,One minute,いっぷん,,,,,
+{iz|NxclR,休,Rest,キュウ,"やすむ, やすめる, やすまる",,,,Japanese::Kanji::Grade_1
+bG85Iou#+:,先,Before / ahead / previous / future / precedence,,せん、さき,,,,Japanese::Kanji::Grade_1
+BP6F~.I{^7,入,Enter,ニュウ,はいる、いる、いれる,,,,Japanese::Kanji::Grade_1
+"kZ4,4;!dp3",出,"Exit, leave, go out, come out, put out, protrude",シュツ、 スイ,で.る、 -で、だ.す、-だ.す、い.でる、い.だす,,,,Japanese::Kanji::Grade_1
+b}XC?sm3(H,力,"Power, strength, strong, strain, bear up, exert",リョク、 リキ、 リイ,ちから,,,,Japanese::Kanji::Grade_1
+B#7N`_T5m6,名,"Name, noted, distinguished, reputation",メイ、 ミョウ,な,,,,Japanese::Kanji::Grade_1
+FX()t:Rk<6,夕,Evening,セキ,ゆう,,,,Japanese::Kanji::Grade_1
+Pw`]gp48Vl,大,Large / Big,ダイ、 タイ,おお-、 おお.きい、 -おお.いに,,,,Japanese::Kanji::Grade_1
+K-uzPBX$-K,天,Heaven,テン,あまつ、 あめ、 あま-,,,,Japanese::Kanji::Grade_1
+I@l:fa0G+R,女,Woman,ジョ、 ニョ、 ニョウ,おんな、 め,,,,Japanese::Kanji::Grade_1
+v[}0{~`(eu,子,Child,シ、 ス、 ツ,こ、 -こ、 ね,,,,Japanese::Kanji::Grade_1
+"cEiBV&,yGw",字,Character,ジ,あざ,,,,Japanese::Kanji::Grade_1
+QRwU<As~wD,学,Study,ガク,まなぶ,,,,Japanese::Kanji::Grade_1
+F-1E;8Yv-@,小,Small,ショウ,ちい-さい、こ、お,,,,Japanese::Kanji::Grade_1
+iN<w!h7M&`,年,Year,ネン,とし,,,,Japanese::Kanji::Grade_1
+p8J5DqU)=O,花,Flower,カ,はな,,,,Japanese::Kanji::Grade_1
+JS=A7c_2K*,草,Grass,ソウ,くさ,,,,Japanese::Kanji::Grade_1
+y&]h?N$@ou,手,Hand,シュ,て、た,,,,Japanese::Kanji::Grade_1
+n~:E?=vIj[,文,Letter,ブン、モン,ふみ,,,,Japanese::Kanji::Grade_1
+y;4=vls#-4,早,Early / Fast,ソウ、 サッ,はや.い、はや.まる、 はや.める,,,,Japanese::Kanji::Grade_1
