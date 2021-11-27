@@ -1,0 +1,17 @@
+name: Sentences
+id: Sentences
+css_file: src/shared/_foundation.css
+fields:
+- name: Expression
+  font: IPAexGothic
+- name: Meaning
+- name: Kana
+  font: IPAexGothic
+- name: Notes
+templates:
+- name: Reading
+  html_file: src/note_models/Sentences/Reading.html
+- name: Speaking
+  html_file: src/note_models/Sentences/Speaking.html
+tags:
+- Japanese::Sentences

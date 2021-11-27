@@ -20,6 +20,8 @@
 - generate_csvs:
     notes: deck_notes
     file_mappings:
+    - file: src/data/Sentences.csv
+      note_model: Sentences
     - file: src/data/Vocabulary.csv
       note_model: Vocabulary
     - file: src/data/Japanese - Kanji.csv
@@ -28,6 +30,7 @@
       note_model: Verb Conjugations
     note_model_mappings:
     - note_models:
+      - Sentences
       - Vocabulary
       - Japanese - Kanji
       - Verb Conjugations

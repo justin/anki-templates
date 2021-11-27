@@ -12,7 +12,7 @@
       file: src/note_models/Vocabulary/Vocabulary.yaml
   - note_models_from_yaml_part:
       part_id: Sentences
-      file: src/note_models/Vocabulary/Vocabulary.yaml
+      file: src/note_models/Sentences/Sentences.yaml
   - note_models_from_yaml_part:
       part_id: Japanese - Kanji
       file: src/note_models/Japanese - Kanji/Japanese - Kanji.yaml
@@ -31,11 +31,12 @@
       - file: src/data/Japanese - Kanji.csv
         note_model: Japanese - Kanji
       - file: src/data/Sentences.csv
-        note_model: Vocabulary
+        note_model: Sentences
       - file: src/data/Verb Conjugations.csv
         note_model: Verb Conjugations
       note_model_mappings:
       - note_models:
+        - Sentences
         - Vocabulary
         - Japanese - Kanji
         - Verb Conjugations
@@ -49,6 +50,7 @@
       part_id: deck_notes
     note_models:
       parts:
+      - part_id: Sentences
       - part_id: Vocabulary
       - part_id: Japanese - Kanji
       - part_id: Verb Conjugations

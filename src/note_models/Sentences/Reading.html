@@ -1,0 +1,37 @@
+<html>
+<head>
+    <style>@import url("_foundation.css");</style>
+</head>
+<body>
+<div class="header sentence" />
+<div class="content">
+	<h1>{{Expression}}</h1>
+
+  {{#Kana}}
+  <span class="kana">{{Kana}}</span>
+  {{/Kana}}
+</div>
+</body>
+</html>
+
+--
+
+<html>
+<head>
+    <style>@import url("_foundation.css");</style>
+</head>
+<body>
+<div class="header vocab" />
+<div class="content">
+	<h1>{{Expression}}</h1>
+
+  {{#Kana}}
+  <caption class="kana">{{Kana}}</caption>
+  {{/Kana}}
+
+  <hr class="divider">
+
+  <h2>{{Meaning}}</h2>
+</div>
+</body>
+</html>
