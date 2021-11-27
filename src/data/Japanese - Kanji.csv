@@ -14,26 +14,26 @@ NS!^3L8K}V,千,"1,000 / Thousand",せん　ぜん,ち,,,12,Japanese::Kanji::Grad
 o)W>E]rEsQ,万,"10,000 / Ten thousand",まん　ばん,,"10,000 is a five digit number",,13,leech
 h;kp1+|2<$,円,Yen / Circle,えん,まる,This is the shape of a circle.,,14,Japanese::Kanji::Grade_1
 t`[`O$C<!;,口,Mouth,こう　く,くち　ぐち,This is the shape of a mouth.,,15,Japanese::Kanji::Grade_1
-eB_=GbpfvS,目,Eye,もく　ぼく,"め, ま",This is the shape of a mouth.,,16,"leech, Japanese::Kanji::Grade_1"
-m+aU`?:6j!,日,Day / Sun,にち　にっ　じっ,び　か　ひ,This is the shape of the sun,,17,"leech, Japanese::Kanji::Grade_1"
-vH#xQ?<~$%,月,moon,かつ　げつ,つき,This is the shape of a crescent moon,,18,"Genki, Kanji_Practice, leech, lesson-4, 人_and_月, Japanese::Kanji::Grade_1"
+eB_=GbpfvS,目,Eye,もく　ぼく,"め, ま",This is the shape of a mouth.,,16,"Japanese::Kanji::Grade_1, leech"
+m+aU`?:6j!,日,Day / Sun,にち　にっ　じっ,び　か　ひ,This is the shape of the sun,,17,"Japanese::Kanji::Grade_1, leech"
+vH#xQ?<~$%,月,moon,かつ　げつ,つき,This is the shape of a crescent moon,,18,"Genki, Japanese::Kanji::Grade_1, Kanji_Practice, leech, lesson-4, 人_and_月"
 OUXF>p[qd6,火,fire,ひ,,,,19,"Genki, Kanji_Practice, lesson-4, 火_and_水"
-zzD>]b3EJ?,木,Tree,もく　ぼく,"き, こ-",,,20,"_and_土, _金, Genki, Kanji_Practice, leech, lesson-4, 木, Japanese::Kanji::Grade_1"
+zzD>]b3EJ?,木,Tree,もく　ぼく,"き, こ-",,,20,"_and_土, _金, Genki, Japanese::Kanji::Grade_1, Kanji_Practice, leech, lesson-4, 木"
 pudB=P~NEO,水,Water,スイ,"みず, みず-",,,21,
 E{qExn|jQ>,金,Metal / Gold,"キン, コン","かね, かな-",,,22,Japanese::Kanji::Grade_1
-v##n?p^AKB,土,Soil,つち,,,,23,"leech, Japanese::Kanji::Grade_1"
+v##n?p^AKB,土,Soil,つち,,,,23,"Japanese::Kanji::Grade_1, leech"
 yV?XbNHNW:,曜,Weekday,よう,,,,24,leech
 Ih6vCj(-Bq,本,Book,ほん ぼん,もと,,,25,Japanese::Kanji::Grade_1
 A(5A/Sn?q+,人,person,じん　にん,ひと,,,26,Japanese::Kanji::Grade_1
 D_*6.0y$$K,今,Now,こん　きん,いま,,,27,"Genki, Kanji_Practice, lesson-5, 今_and_田"
-"PSpiM0W;,w",中,inside,なか,,,,,"Genki, lesson-4, Location_Words, Japanese::Kanji::Grade_1"
-"b`,Uvbi0!?",下,under / down,した,,,,,"Genki, leech, lesson-4, Location_Words, Japanese::Kanji::Grade_1"
-"ozm,1nYnbo",水,water,みず,,,,,"Genki, Kanji_Practice, lesson-4, 火_and_水, Japanese::Kanji::Grade_1"
-kK4vszz-l$,左,left,ひだり,,,,,"Genki, leech, lesson-4, Location_Words, Japanese::Kanji::Grade_1"
+"PSpiM0W;,w",中,inside,なか,,,,,"Genki, Japanese::Kanji::Grade_1, lesson-4, Location_Words"
+"b`,Uvbi0!?",下,under / down,した,,,,,"Genki, Japanese::Kanji::Grade_1, leech, lesson-4, Location_Words"
+"ozm,1nYnbo",水,water,みず,,,,,"Genki, Japanese::Kanji::Grade_1, Kanji_Practice, lesson-4, 火_and_水"
+kK4vszz-l$,左,left,ひだり,,,,,"Genki, Japanese::Kanji::Grade_1, leech, lesson-4, Location_Words"
 I?y;<:wc%9,前,front,まえ,,,,,"Genki, leech, lesson-4, Location_Words"
-FOxOrT>Uj,川,River,かわ,,,,,"_and_元, _川, Genki, Kanji_Practice, lesson-5, 山, Japanese::Kanji::Grade_1"
+FOxOrT>Uj,川,River,かわ,,,,,"_and_元, _川, Genki, Japanese::Kanji::Grade_1, Kanji_Practice, lesson-5, 山"
 "oAd$bXJ?,k",間,between,あいだ,,,,,"Genki, leech, lesson-4, Location_Words"
-iGP4t/R8m?,山,mountain,やま,,,,,"_and_元, _川, Genki, Kanji_Practice, lesson-5, 山, Japanese::Kanji::Grade_1"
+iGP4t/R8m?,山,mountain,やま,,,,,"_and_元, _川, Genki, Japanese::Kanji::Grade_1, Kanji_Practice, lesson-5, 山"
 o/[%JOR(z9,火,Fire,カ,"ひ, -び, ほ-",,,,Japanese::Kanji::Grade_1
 G&+11Wl`+&,今,Now,"コン, キン",いま,,,,
 "fU,RbO4%h3",寺,Buddhist temple,ジ,てら,,,,
@@ -57,8 +57,8 @@ O|+:ln}Ju%,西,West,,にし,,,,
 oiqL!!RhzG,南,South,"ナン, ナ",みなみ,,,,
 L-E{:r54-$,北,North,ホク,きた,,,,
 Hf*gb(gv*^,一分,One minute,いっぷん,,,,,
-{iz|NxclR,休,Rest,キュウ,"やすむ, やすめる, やすまる",,,,Japanese::Kanji::Grade_1
-bG85Iou#+:,先,Before / ahead / previous / future / precedence,,せん、さき,,,,Japanese::Kanji::Grade_1
+{iz|NxclR,休,Rest,キュウ,"やすむ, やすめる, やすまる",A person resting by a tree.,,113,Japanese::Kanji::Grade_1
+bG85Iou#+:,先,Ahead / previous / future / precedence,,せん、さき,,,56,Japanese::Kanji::Grade_1
 BP6F~.I{^7,入,Enter,ニュウ,はいる、いる、いれる,,,,Japanese::Kanji::Grade_1
 "kZ4,4;!dp3",出,"Exit, leave, go out, come out, put out, protrude",シュツ、 スイ,で.る、 -で、だ.す、-だ.す、い.でる、い.だす,,,,Japanese::Kanji::Grade_1
 b}XC?sm3(H,力,"Power, strength, strong, strain, bear up, exert",リョク、 リキ、 リイ,ちから,,,,Japanese::Kanji::Grade_1
