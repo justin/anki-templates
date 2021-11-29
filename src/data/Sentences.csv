@@ -1,37 +1,71 @@
-guid,expression,meaning,add reverse?,kana,mnemonic,notes,tags
-jKf#{M)^;u,十二時半です。,(It) is half past twelve.,,じゅうにじはんです,,,Japanese::Sentences
-LA^K?S?CF5,学生です。,(I) am a student.,,がくせいです,,,Japanese::Sentences
-bUeC~s+iC6,日本語です。,(My major) is the Japanese language.,,,,,Japanese::Sentences
-Fd=F8}p~O`,私はスー・キムです。,I am Sue Kim.,,,,,Japanese::Sentences
-i7?iW2Ud#i,山下さんは先生です。,Mr. Yamashita is a teacher.,,やましたさんはせんせいです,,,Japanese::Sentences
-l_+#v%-TNj,メアリーさんはアメリカ人です。,Mary is an American,,メアリーさんはアメリカじんです,,,Japanese::Sentences
-f~vx<VSv?:,専攻は何ですか。,What is your major?,,せんこうはなにです か,,"Use なん, with counters or です. Use なに before particles and なんじん (person of what nationality).",Japanese::Sentences
-g%O@}Xe~LX,今何時ですか。,What time is it now?,,いまなんじですか,,"Use なん, with counters or です. Use なに before particles and なんじん (person of what nationality).",Japanese::Sentences
-l9&5Gdg35a,（今）九時です。,It is nine o'clock.,,（いま）きゅうじです,,,Japanese::Sentences
-lmKU}bYi]z,メアリーさんは何歳ですか。,"How old are you, Mary?",,メアリーさんはなんさいですか,,"Use なん, with counters or です. Use なに before particles and なんじん (person of what nationality).",Japanese::Sentences
-iK)@:~d~>R,十九歳です。,I am nineteen years old.,,じゅうきゅうさいです,,,Japanese::Sentences
-j=zH<iT0IH,電話番号は何ですか。,What is your telephone number?,,でんわばんごうはなにですか。,,"Use なん, with counters or です. Use なに before particles and なんじん (person of what nationality).",Japanese::Sentences
-b[`|_4V0m%,１８６の７３４３です。,It is 186-7343.,,,,,Japanese::Sentences
-N-`~y_HnIL,武さんのお母さんは高校の先生です。,Takeshi's mother is a high school teacher.,,たけさんのおかあさんはこうこうのせんせいです。,,,Japanese::Sentences
-A@bVg>A7?Y,これはいくらですか。,How much is this?,,,,,Japanese::Sentences
-v+FWYVnOf^,それは三千円です。,"That is 3,000 yen.",,,,,Japanese::Sentences
-As1fb{sflT,あれは私のぺんです。,That is my pen.,,,,,Japanese::Sentences
-jK([m|{%Wq,これは私のぺんです。,This is my pen.,,,,,Japanese::Sentences
-Q|Wgp;.Ova,それは私のぺんです。,That is my pen.,,,,,Japanese::Sentences
-xkvR{77%m,どれですか。,Which one is it (that you are talking about)?,,,,,Japanese::Sentences
-x@!J0f*aw|,どれがあなたのぺんですか。,Which one is your pen?,,,,どれ and 何 cannot be followed by particle は,Japanese::Sentences
-"y^7~,MLV4B",この時計はいくらですか。,How much is this watch?,,このとけいはいくらですか。,,,Japanese::Sentences
-KWmm/zJE3S,その時計は三千円です。,"That watch is 3,000 yen.",,そのとけいは三千せん円です。,,,Japanese::Sentences
-k&Snc=p85z,あの時計は三千五百円です。,"That watch over there is 3,500 yen.",,あのとけいは三千五百円です。,,,Japanese::Sentences
-F_i=B.};9@,どの時計が三千五百円ですか。,"Which watch is 3,500 yen?",,どのとけいが三千五百円ですか。,,question words like どの cannot be followed by particle は,Japanese::Sentences
-caXXw>S57k,すみません。郵便局はどこですか。,Excuse me. Where is the post office?,,すみません。 ゆうびんきょくはどこですか。,,,Japanese::Sentences
-n$I3RB8v)`,これはだれのかばんですか。,Whose bag is this?,,,,,Japanese::Sentences
-"z,}l0E(?1a",それはスーさんのかばんです。,That is Sue's bag.,,,,,Japanese::Sentences
-K3%pqp$sT*,武さんは日本人です。,Takeshi is a Japanese person.,,たけしさんは 日本人です。,,,Japanese::Sentences
-hN0?J3@V~H,美智子さんも日本人です。,"Michiko is Japanese, too.",,みちこさんも 日本人です。,,,Japanese::Sentences
-vS96U-eFz:,山田さんは学生じゃないです。,Mr. Yamada is not a student.,,やまださんはがくせいじゃないです。,,,Japanese::Sentences
-e%:pQJ8|M{,山田さんは学生じゃありません。,Mr. Yamada is not a student.,,やまださんはがくせいじゃありません。,,,Japanese::Sentences
-K]qa=[1{%R,山田さんは学生ではありません。,Mr. Yamada is not a student.,,やまださんはがくせいではありません。,,,Japanese::Sentences
-F|CryHiZ/0,これは肉じゃないですね。,"This is not meat, is it?",,これはにくじゃないですね。,,,Japanese::Sentences
-HK0k&o+7ge,じゃあ、その時計を下さい。,"Then, I'll take that watch.",,じゃあ、そのとけいをください。,,,Japanese::Sentences
-w2nZd-/]?>,じゃあ、これをお願いします。,"Then, I'll have this.",,じゃあ、これをおねがいします。,,,Japanese::Sentences
+guid,expression,meaning,kana,notes,tags
+jKf#{M)^;u,十二時半です。,(It) is half past twelve.,じゅうにじはんです,,Japanese::Sentences
+LA^K?S?CF5,学生です。,(I) am a student.,がくせいです,,Japanese::Sentences
+bUeC~s+iC6,日本語です。,(My major) is the Japanese language.,,,Japanese::Sentences
+Fd=F8}p~O`,私はスー・キムです。,I am Sue Kim.,,,Japanese::Sentences
+i7?iW2Ud#i,山下さんは先生です。,Mr. Yamashita is a teacher.,やましたさんはせんせいです,,Japanese::Sentences
+l_+#v%-TNj,メアリーさんはアメリカ人です。,Mary is an American,メアリーさんはアメリカじんです,,Japanese::Sentences
+f~vx<VSv?:,専攻は何ですか。,What is your major?,せんこうはなにです か,"Use なん, with counters or です. Use なに before particles and なんじん (person of what nationality).",Japanese::Sentences
+g%O@}Xe~LX,今何時ですか。,What time is it now?,いまなんじですか,"Use なん, with counters or です. Use なに before particles and なんじん (person of what nationality).",Japanese::Sentences
+l9&5Gdg35a,（今）九時です。,It is nine o'clock.,（いま）きゅうじです,,Japanese::Sentences
+lmKU}bYi]z,メアリーさんは何歳ですか。,"How old are you, Mary?",メアリーさんはなんさいですか,"Use なん, with counters or です. Use なに before particles and なんじん (person of what nationality).",Japanese::Sentences
+iK)@:~d~>R,十九歳です。,I am nineteen years old.,じゅうきゅうさいです,,Japanese::Sentences
+j=zH<iT0IH,電話番号は何ですか。,What is your telephone number?,でんわばんごうはなにですか。,"Use なん, with counters or です. Use なに before particles and なんじん (person of what nationality).",Japanese::Sentences
+b[`|_4V0m%,１８６の７３４３です。,It is 186-7343.,,,Japanese::Sentences
+N-`~y_HnIL,武さんのお母さんは高校の先生です。,Takeshi's mother is a high school teacher.,たけさんのおかあさんはこうこうのせんせいです。,,Japanese::Sentences
+A@bVg>A7?Y,これはいくらですか。,How much is this?,,,Japanese::Sentences
+v+FWYVnOf^,それは三千円です。,"That is 3,000 yen.",,,Japanese::Sentences
+As1fb{sflT,あれは私のぺんです。,That is my pen.,,,Japanese::Sentences
+jK([m|{%Wq,これは私のぺんです。,This is my pen.,,,Japanese::Sentences
+Q|Wgp;.Ova,それは私のぺんです。,That is my pen.,,,Japanese::Sentences
+xkvR{77%m,どれですか。,Which one is it (that you are talking about)?,,,Japanese::Sentences
+x@!J0f*aw|,どれがあなたのぺんですか。,Which one is your pen?,,どれ and 何 cannot be followed by particle は,Japanese::Sentences
+"y^7~,MLV4B",この時計はいくらですか。,How much is this watch?,このとけいはいくらですか。,,Japanese::Sentences
+KWmm/zJE3S,その時計は三千円です。,"That watch is 3,000 yen.",そのとけいは三千せん円です。,,Japanese::Sentences
+k&Snc=p85z,あの時計は三千五百円です。,"That watch over there is 3,500 yen.",あのとけいは三千五百円です。,,Japanese::Sentences
+F_i=B.};9@,どの時計が三千五百円ですか。,"Which watch is 3,500 yen?",どのとけいが三千五百円ですか。,question words like どの cannot be followed by particle は,Japanese::Sentences
+caXXw>S57k,すみません。郵便局はどこですか。,Excuse me. Where is the post office?,すみません。 ゆうびんきょくはどこですか。,,Japanese::Sentences
+n$I3RB8v)`,これはだれのかばんですか。,Whose bag is this?,,,Japanese::Sentences
+"z,}l0E(?1a",それはスーさんのかばんです。,That is Sue's bag.,,,Japanese::Sentences
+K3%pqp$sT*,武さんは日本人です。,Takeshi is a Japanese person.,たけしさんは 日本人です。,,Japanese::Sentences
+hN0?J3@V~H,美智子さんも日本人です。,"Michiko is Japanese, too.",みちこさんも 日本人です。,,Japanese::Sentences
+vS96U-eFz:,山田さんは学生じゃないです。,Mr. Yamada is not a student.,やまださんはがくせいじゃないです。,,Japanese::Sentences
+e%:pQJ8|M{,山田さんは学生じゃありません。,Mr. Yamada is not a student.,やまださんはがくせいじゃありません。,,Japanese::Sentences
+K]qa=[1{%R,山田さんは学生ではありません。,Mr. Yamada is not a student.,やまださんはがくせいではありません。,,Japanese::Sentences
+F|CryHiZ/0,これは肉じゃないですね。,"This is not meat, is it?",これはにくじゃないですね。,,Japanese::Sentences
+HK0k&o+7ge,じゃあ、その時計を下さい。,"Then, I'll take that watch.",じゃあ、そのとけいをください。,,Japanese::Sentences
+w2nZd-/]?>,じゃあ、これをお願いします。,"Then, I'll have this.",じゃあ、これをおねがいします。,,Japanese::Sentences
+GEu_X1TFN~,和はよくテレビを見ます。,I often watch TV.,わはよくテレビをみます。,,Japanese::Sentences
+FcCMWwMaE>,メアリーさんは時々朝ご飯を食べません。,Mary sometimes doesn't eat breakfast.,メアリーさんはときどきあさごはんをたべません。,,Japanese::Sentences
+GILbM]i#oV,私は明日京都に行きます。,I will go to Kyoto tomorrow.,わたしはあしたきょうとにいきます。,,Japanese::Sentences
+sezEuG{B`6,スーさんは今日家に帰りません。,Sue will not return home today.,スーさんはきょうかにかえりません。,Neg,Japanese::Sentences
+"FZB^z,$*e~",コーヒーを飲みます。,I drink coffee.,コーヒーをのみます。,,Japanese::Sentences
+JV$w!2eF}F,音楽を聞きます。,I listen to music.,おんがくをききます。,,Japanese::Sentences
+b[Ap[[MT*2,テレビを見ます。,I watch TV.,テレビをみます。,,Japanese::Sentences
+HW)2fn2tr_,図書館で本を読みます。,I will read books in the library.,としょかんで 本ほんをよみます。,,Japanese::Sentences
+xiPm}qa/@G,家でテレビを見ます。,I will watch TV at home.,いえでテレビをみます。,,Japanese::Sentences
+%uGs-yk~U,私は今日学校に行きません。,I will not go to school today.,わたしはきょうがっこうにいきません。,に would work here too,Japanese::Sentences
+q+*Q(3XM5,私は家に帰ります。,I will return home.,わたしはいえにかえります。,へ would work here too,Japanese::Sentences
+GTztuv($h8,日曜日に京都に行きます。,I will go to Kyoto on Sunday.,にちようびにきょうとにいきます。,,Japanese::Sentences
+"c@&!K:RR,`",十一時に寝ます。,I will go to bed at eleven.,十一じにねます。,,Japanese::Sentences
+D321r+BJ?$,四時ごろ（に）寝ます。,I will go to bed at about four o'clock.,じごろ（に）ねます。,,Japanese::Sentences
+IU$Vn|@f>_,火曜日に行きます。,I will go on Tuesday.,かようびにいきます。,,Japanese::Sentences
+hm!~0(|t*I,十時四十五分に起きます。,I get up at 10:45.,十じ四十五ふんにおきます。,,Japanese::Sentences
+DiZbnv/yRb,九月に帰ります。,I will go back in September.,くがつにかえります。,,Japanese::Sentences
+tPGCAOj?r-,明日来ます。,I will come tomorrow.,あしたきます。,,Japanese::Sentences
+x&m7~FogR),毎晩テレビを見ます。,I watch TV every evening.,まいばんテレビをみます。,,Japanese::Sentences
+p#Uu7:A=Bi,朝（に）新聞を読みます。,I read the newspaper in the morning.,あさ（に） しんぶんをよみます。,,Japanese::Sentences
+Or<o{xfB5b,週末（に）何をしますか。,What will you do on weekends?,しゅうまつ（に） なにをしますか。,,Japanese::Sentences
+E%Gel?SGB^,昼ご飯を食べませんか。,What do you say to having lunch with me?,ひるごはんをたべませんか。,,Japanese::Sentences
+dE}wJ*g+|e,いいですね。,Sounds great.,いいですね。,,Japanese::Sentences
+CNe[GLMfmd,テニスをしませんか。,Will you play tennis with me?,テニスをしませんか。,,Japanese::Sentences
+G|%Ns.!P<;,うーん、ちょうと。,"Um, it's slightly (inconvenient for me at this moment),",うーん、ちょうと。,,Japanese::Sentences
+Pc(@eR7p_a,私は時々喫茶店に行きます。,I sometimes go to a coffee shop.,わたしはときどききっさてんにいきます。,,Japanese::Sentences
+OM]7eBHb8Q,私は残念テレビを見ません。,I do not watch TV at all.,わたしはざんねんテレビをみません。,,Japanese::Sentences
+zH@1Rm.~6{,武さんはあまり勉強しません。,Takeshi does not study much.,たけさんはあまりべんきょうしません。,,Japanese::Sentences
+B{t_Pw?&pJ,メアリーさん、週末はたいてい、何をしますか。,"Mary, what do you usually do on the weekend?",メアリーさん、しゅうまつはたいてい、なにをしますか。,,Japanese::Sentences
+"EzJ#,QF!dt",今日は京都に行きます。,I'm going to Kyoto today.,きょうは 京都きょうとにいきます。,,Japanese::Sentences
+m==|&k^4Vd,晩ご飯は？,How about dinner?,ばんごはんは？,,Japanese::Sentences
+M3HamGfGJW,ちょっと下さい。,Please give me a little.,ちょっとください。,,Japanese::Sentences
+dEFpu<gC*=,ちょっと待ってください。,Please wait a moment.,ちょっとまってください。,,Japanese::Sentences
+gfU9-$8Fct,A:　土曜日に映画をみませんか。,Saturday is not convenient,どようびにえいがをみませんか。,,Japanese::Sentences
