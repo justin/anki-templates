@@ -21,7 +21,7 @@ Q|Wgp;.Ova,それは私のぺんです。,That is my pen.,,,Japanese::Sentences
 xkvR{77%m,どれですか。,Which one is it (that you are talking about)?,,,Japanese::Sentences
 x@!J0f*aw|,どれがあなたのぺんですか。,Which one is your pen?,,どれ and 何 cannot be followed by particle は,Japanese::Sentences
 "y^7~,MLV4B",この時計はいくらですか。,How much is this watch?,このとけいはいくらですか。,,Japanese::Sentences
-KWmm/zJE3S,その時計は三千円です。,"That watch is 3,000 yen.",そのとけいは三千せん円です。,,Japanese::Sentences
+KWmm/zJE3S,その時計は三千円です。,"That watch is 3,000 yen.",そのとけいは三せん円です。,,Japanese::Sentences
 k&Snc=p85z,あの時計は三千五百円です。,"That watch over there is 3,500 yen.",あのとけいは三千五百円です。,,Japanese::Sentences
 F_i=B.};9@,どの時計が三千五百円ですか。,"Which watch is 3,500 yen?",どのとけいが三千五百円ですか。,question words like どの cannot be followed by particle は,Japanese::Sentences
 caXXw>S57k,すみません。郵便局はどこですか。,Excuse me. Where is the post office?,すみません。 ゆうびんきょくはどこですか。,,Japanese::Sentences
@@ -69,3 +69,37 @@ m==|&k^4Vd,晩ご飯は？,How about dinner?,ばんごはんは？,,Japanese::Se
 M3HamGfGJW,ちょっと下さい。,Please give me a little.,ちょっとください。,,Japanese::Sentences
 dEFpu<gC*=,ちょっと待ってください。,Please wait a moment.,ちょっとまってください。,,Japanese::Sentences
 gfU9-$8Fct,A:　土曜日に映画をみませんか。,Saturday is not convenient,どようびにえいがをみませんか。,,Japanese::Sentences
+HF-A&aYa2(,あそこにマクルドナルドがあります。,There's a McDonald's over there.,,,Japanese::Sentences
+K?iQ.`KTH(,テレビがありません。,I don't have a TV.,,,Japanese::Sentences
+QV@!<@b}0j,テレビじゃありません。,It isn't a TV.,,,Japanese::Sentences
+D<wiSfNB:O,時間がありますか。,Do you have time?,じかんがありますか。,,Japanese::Sentences
+p>QDZ8cWU2,火曜日にテストがあります。,There will be an exam on Tuesday.,かようびにテストがあります。,,Japanese::Sentences
+CgU<k;l%~|,明日は日本語のクラスがありません。,There will be no Japanese class tomorrow.,あしたはにほんごのクラスがありません。,,Japanese::Sentences
+"nw,><IxxeJ",明日京都でお祭りがあります。,There will be a festival in Kyoto,あしたきょうとでおまつりがあります。,,Japanese::Sentences
+I-{_|`6jy2,あそこに留学生がいます。,There's an international student over there.,あそこにりゅうがくせいがいます。,,Japanese::Sentences
+Lt}90?Fy=a,日本人の友達がいます。,I have a Japanese friend.,にっぽんじんのともだちがいます。,,Japanese::Sentences
+C?wNiuC!]+,体育館はどこですか。,Where's the gym?,たいいくかんはどこですか。,,Japanese::Sentences
+h%l!v#M${/,（銀行は）あのデパートの前です。,(The bank) is in front of that department store.,（ぎんこうは）あのデパートのまえです。,,Japanese::Sentences
+yDIH3|H9]r,銀行は図書館の隣です。,The bank is next to the library.,ぎんこうはとしょかんのとなりです。,,Japanese::Sentences
+xHH6e>Zo/V,傘はテーブルのそばです。,The umbrella is by the table.,かさはテーブルのそばです。,,Japanese::Sentences
+FX2qU.=sQ!,レストランはデパートと病院の間です。,The restaurant is between the department store and the hospital.,レストランはデパートとびょういんのまです。,,Japanese::Sentences
+bN|%*1}By$,私はモスバーガーの向いでメアリーさんを待ちました。,I waited for Mary across the street from the Mos Burger place.,わたしはモスバーガーのむかいでメアリーさんをまちました。,,Japanese::Sentences
+O)ZQ+{pg{z,山下先生は桜大学の学生でした。,Mr. Yamashita was a student at Sakura University.,やましたせんせいはさくらだいがくのがくせいでした。,,Japanese::Sentences
+ptsV^.zU]v,あれは日本の映画じゃなかったです。,That was not a Japanese movie.,あれはにっぽんのえいがじゃなかったです。,,Japanese::Sentences
+EW=XIN9.{O,メアリーさんは九時ごろ家に帰りました。,Mary returned home at about nine.,メアリーさんは九じごろかにかえりました。,,Japanese::Sentences
+kKnQ9nQQu:,私は昨日日本語を勉強しませんでした。,I did not study Japanese yesterday.,わたしはきのうにほんごをべんきょうしませんでした。,,Japanese::Sentences
+ij!@3V4N(),私は昨日京都に行きました。,I went to Kyoto yesterday.,わたしはきのうきょうとにいきました。,,Japanese::Sentences
+jia<C[Vxyr,山下先生も昨日京都に行きました。,"Professor Yamashita went to Kyoto yesterday, too.",やましたせんせいもきのうきょうとにいきました。,,Japanese::Sentences
+s4r|.85[}f,メアリーさんは靴を買います。,"Mary bought shoes,",メアリーさんはくつをかいます。,,Japanese::Sentences
+ijvoE~cm|{,メアリーさんはかばんも買いました。,Mary bought a bag too.,メアリーさんはかばんもかいました。,,Japanese::Sentences
+yFmuyh81!*,私は先週京都に行きました。,I went to Kyoto last week.,わたしはせんしゅうきょうとにいきました。,,Japanese::Sentences
+j}2+5p?AxN,大阪にも行きました。,"I went to Osaka, too.",おおさかにもいきました。,,Japanese::Sentences
+wJC2g89<?C,ロバートさんは土曜日にパーテイーに来ました。,Robert came to the party on Saturday.,ロバートさんはどようびにパーテイーにきました。,,Japanese::Sentences
+N<vdB:Q<)4,日曜日にもパーテイーに行きました。,"He went to a party on Sunday, too.",にちようびにもパーテイーにいきました。,,Japanese::Sentences
+lWg3k(`<?H,メアリーさんはそこで武さんを一時間待ちました。,Mary waited for Takeshi there for an hour.,メアリーさんはそこでたけさんを一じかんまちました。,,Japanese::Sentences
+oxYWn?3?^w,私は昨日日本語を三時間ぐらい勉強しました。,I studied Japanese for about three hourse yesterday.,わたしはきのうにほんごを三じかんぐらいべんきょうしました。,,Japanese::Sentences
+bgJ{0i|iHo,昨日七時間半寝ました。,(I) slept for seven and a half hours last night.,きのう七じかんはんねました。,,Japanese::Sentences
+d*gnfFnrTr,私は京都で写真をたくさん撮りました。,I took many pictures in Kyoto.,わたしはきょうとでしゃしんをたくさんとりました。,,Japanese::Sentences
+t-AbI.T#lq,果物をたくさん食べました。,I ate a lot of fruits.,くだものをたくさんたべました。,,Japanese::Sentences
+nWb?#qtFhW,日本語と英語を話します。,I speak Japanese and English.,にほんごとえいごをはなします。,,Japanese::Sentences
+KAjo;?u2PX,京都と大阪に行きました。,I went to Kyoto and Osaka.,きょうととおおさかにいきました。,,Japanese::Sentences
