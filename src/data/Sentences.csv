@@ -5,7 +5,7 @@ bUeC~s+iC6,日本語です。,(My major) is the Japanese language.,,,Japanese::S
 Fd=F8}p~O`,私はスー・キムです。,I am Sue Kim.,,,Japanese::Sentences
 i7?iW2Ud#i,山下さんは先生です。,Mr. Yamashita is a teacher.,やましたさんはせんせいです,,Japanese::Sentences
 l_+#v%-TNj,メアリーさんはアメリカ人です。,Mary is an American,メアリーさんはアメリカじんです,,Japanese::Sentences
-f~vx<VSv?:,専攻は何ですか。,What is your major?,せんこうはなにです か,"Use なん, with counters or です. Use なに before particles and なんじん (person of what nationality).",Japanese::Sentences
+f~vx<VSv?:,専攻は何ですか。,What is your major?,せんこうはなにですか,"Use なん, with counters or です. Use なに before particles and なんじん (person of what nationality).",Japanese::Sentences
 g%O@}Xe~LX,今何時ですか。,What time is it now?,いまなんじですか,"Use なん, with counters or です. Use なに before particles and なんじん (person of what nationality).",Japanese::Sentences
 l9&5Gdg35a,（今）九時です。,It is nine o'clock.,（いま）きゅうじです,,Japanese::Sentences
 lmKU}bYi]z,メアリーさんは何歳ですか。,"How old are you, Mary?",メアリーさんはなんさいですか,"Use なん, with counters or です. Use なに before particles and なんじん (person of what nationality).",Japanese::Sentences
@@ -27,8 +27,8 @@ F_i=B.};9@,どの時計が三千五百円ですか。,"Which watch is 3,500 yen?
 caXXw>S57k,すみません。郵便局はどこですか。,Excuse me. Where is the post office?,すみません。 ゆうびんきょくはどこですか。,,Japanese::Sentences
 n$I3RB8v)`,これはだれのかばんですか。,Whose bag is this?,,,Japanese::Sentences
 "z,}l0E(?1a",それはスーさんのかばんです。,That is Sue's bag.,,,Japanese::Sentences
-K3%pqp$sT*,武さんは日本人です。,Takeshi is a Japanese person.,たけしさんは 日本人です。,,Japanese::Sentences
-hN0?J3@V~H,美智子さんも日本人です。,"Michiko is Japanese, too.",みちこさんも 日本人です。,,Japanese::Sentences
+K3%pqp$sT*,武さんは日本人です。,Takeshi is a Japanese person.,たけしさんは日本人です。,,Japanese::Sentences
+hN0?J3@V~H,美智子さんも日本人です。,"Michiko is Japanese, too.",みちこさんも日本人です。,,Japanese::Sentences
 vS96U-eFz:,山田さんは学生じゃないです。,Mr. Yamada is not a student.,やまださんはがくせいじゃないです。,,Japanese::Sentences
 e%:pQJ8|M{,山田さんは学生じゃありません。,Mr. Yamada is not a student.,やまださんはがくせいじゃありません。,,Japanese::Sentences
 K]qa=[1{%R,山田さんは学生ではありません。,Mr. Yamada is not a student.,やまださんはがくせいではありません。,,Japanese::Sentences
@@ -103,3 +103,20 @@ d*gnfFnrTr,私は京都で写真をたくさん撮りました。,I took many pi
 t-AbI.T#lq,果物をたくさん食べました。,I ate a lot of fruits.,くだものをたくさんたべました。,,Japanese::Sentences
 nWb?#qtFhW,日本語と英語を話します。,I speak Japanese and English.,にほんごとえいごをはなします。,,Japanese::Sentences
 KAjo;?u2PX,京都と大阪に行きました。,I went to Kyoto and Osaka.,きょうととおおさかにいきました。,,Japanese::Sentences
+QIOs/r<7`6,昨日面白い映画を見ました。,I saw an interesting movie yesterday.,きのうおもしろいえいがをみました。,,Japanese::Sentences
+Nay=QES&He,山下先生は怖い先生です。,Professor Yamashita is a scary teacher.,やましたせんせいはこわいせんせいです。,,Japanese::Sentences
+"jy;,wz/pg;",京都できれいな写真を撮りました。,I took a beautiful picture in Kyoto.,きょうとできれいなしゃしんをとりました。,,Japanese::Sentences
+"QD@~n]k,$D",山下先生は元気な先生です。,Professor Yamashita is an energetic teacher.,やましたせんせいは 元気[げんき]なせんせいです。,,Japanese::Sentences
+mGYpxJou[q,沖縄の海はとてもきれいでした。,The sea was very beautiful in Okinawa.,おきなわのうみはとてもきれいでした。,,Japanese::Sentences
+k*6ZZ]A(IZ,この部屋はちょっと暑いです。,This room is a little hot.,このへやはちょっとあついです。,,Japanese::Sentences
+BHB{Ut#5Dc,ロバートさんは日本語のクラスが好きです。,Robert likes his Japanese classes.,ロバートさんはにほんごのクラスがすきです。,,Japanese::Sentences
+uo5^uVP)=s,山下先生は魚がきれいです。,Professor Yamashita dislikes fish.,やましたせんせいはさかながきれいです。,,Japanese::Sentences
+mKR5)Lg-lk,私は野菜は好きですが、肉はきれいです。,"I like vegetables, but I don't like meat.",わたしはやさいはすきですが、にくはきれいです。,,Japanese::Sentences
+k1H+8<&/8/,たけしさんはメアリーさんのことが好きです。,Takeshi is in love with Mary.,たけしさんはメアリーさんのことがすきです。,In the expression of romantic or familial affection the complex particle のことが can replace が。,Japanese::Sentences
+t$s!Y$b>@Z,たけしさんはコーヒーが大好きです。,Takeshi likes coffee a lot.,たけしさんはコーヒーがだいすきです。,,Japanese::Sentences
+ut8g1_{b.H,キムさんは納豆が大きれいです。,Ms Kim hates natto (Japanese fermented soybean delicacy).,キムさんはなっとうがだいきれいです。,,Japanese::Sentences
+EcBegU)do%,好きでも嫌いでもないです。,I neither like nor dislike (it).,すきでもきらいでもないです。,,Japanese::Sentences
+3~$D7<1/d,これは私の好きな本です。,This is my favourite book.,これはわたしのすきなほんです。,,Japanese::Sentences
+"Id,TVFVn&S",一緒に図書館で勉強しましょう。,Let's study in the library together.,いっしょにとしょかんでべんきょうしましょう。,,Japanese::Sentences
+L}yCcz0yg:,喫茶店でコーヒーを飲みましょうか。,Shall we drink coffee at a coffee shop?,きっさてんでコーヒーをのみましょうか。,,Japanese::Sentences
+Ns2l;NR6Q~,リーさんは切手を三枚買いました。,Lee bought three stamps.,リーさんはきってを三まいかいました。,,Japanese::Sentences
