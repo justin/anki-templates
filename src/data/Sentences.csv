@@ -31,7 +31,7 @@ K3%pqp$sT*,武さんは日本人です。,Takeshi is a Japanese person.,たけ�
 hN0?J3@V~H,美智子さんも日本人です。,"Michiko is Japanese, too.",みちこさんも日本人です。,,Japanese::Sentences
 vS96U-eFz:,山田さんは学生じゃないです。,Mr. Yamada is not a student.,やまださんはがくせいじゃないです。,,Japanese::Sentences
 e%:pQJ8|M{,山田さんは学生じゃありません。,Mr. Yamada is not a student.,やまださんはがくせいじゃありません。,,Japanese::Sentences
-K]qa=[1{%R,山田さんは学生ではありません。,Mr. Yamada is not a student.,やまださんはがくせいではありません。,,Japanese::Sentences
+K]qa=[1{%R,山田さんは学生じゃないです。,Mr. Yamada is not a student.,やまださんはがくせいじゃないじゃないです。,,Japanese::Sentences
 F|CryHiZ/0,これは肉じゃないですね。,"This is not meat, is it?",これはにくじゃないですね。,,Japanese::Sentences
 HK0k&o+7ge,じゃあ、その時計を下さい。,"Then, I'll take that watch.",じゃあ、そのとけいをください。,,Japanese::Sentences
 w2nZd-/]?>,じゃあ、これをお願いします。,"Then, I'll have this.",じゃあ、これをおねがいします。,,Japanese::Sentences
@@ -120,3 +120,17 @@ EcBegU)do%,好きでも嫌いでもないです。,I neither like nor dislike (i
 "Id,TVFVn&S",一緒に図書館で勉強しましょう。,Let's study in the library together.,いっしょにとしょかんでべんきょうしましょう。,,Japanese::Sentences
 L}yCcz0yg:,喫茶店でコーヒーを飲みましょうか。,Shall we drink coffee at a coffee shop?,きっさてんでコーヒーをのみましょうか。,,Japanese::Sentences
 Ns2l;NR6Q~,リーさんは切手を三枚買いました。,Lee bought three stamps.,リーさんはきってを三まいかいました。,,Japanese::Sentences
+,教科書を読んでください。,Please read the textbook.,きょうかしょをよんでください。,,Japanese::Sentences
+,すみません。ちょっと教えてください。,Excuse me. Please teach me a little.,すみません。ちょっとおしえてください。,,Japanese::Sentences
+,窓を開けて。,"Open the window, will you?",まどを開あけて。,"If you are talking to a very close friend or a member of your family, a te-form, by itself, can be used as a request.",Japanese::Sentences
+,教科書を見てもいいですか。,May I see the textbook?,きょうかしょをみてもいいですか。,"In casual speech, you can drop も and say 食べていいです。",Japanese::Sentences
+,ここで写真を撮ってはいけません。,You must not take pictures here.,ここでしゃしんをとってはいけません。,"は cannot be dropped unlike, も in ～てもいいです。",Japanese::Sentences
+,ノートを借りて、コピーします。,I will borrow her notebook and photocopy it.,ノートをかりて、コピーします。,,Japanese::Sentences
+,今日は、六次に起きて、勉強しました。,Today I got up at six and studied.,きょうは、じにおきて、べんきょうしました。,,Japanese::Sentences
+,食堂に行って、昼ご飯を食べましょう。,Let's go to the cafeteria and have lunch.,しょくどうにいって、ひるごはんをたべましょう。,,Japanese::Sentences
+,バスに乗って、会社に行きます。,I go to work by bus.,バスにのって、かいしゃにいきます。,,Japanese::Sentences
+,教科書を忘れて、すみません。,I am sorry for not bringing in the textbook.,きょうかしょをわすれて、すみません。,,Japanese::Sentences
+,私は今晩勉強します。明日テストがありますから。,I will study this evening. (Because) we will have an exam tomorrow.,わたしはこんばんべんきょうします。あしたテストがありますから。,,Japanese::Sentences
+,バスに乗りましょう。タクシーは高いですから。,Let's go by bus. (Because) taxis are expensive.,バスにのりましょう。タクシーはたかいですから。,,Japanese::Sentences
+,（私が）やりましょうか。,I'll do it.,（わたしが）やりましょうか。,,Japanese::Sentences
+,荷物を持ちましょうか。,Shall I carry your bag?,にもつをもちましょうか。,,Japanese::Sentences
