@@ -41,7 +41,7 @@ h??cESvos.,時,"when... / at the time of.. / time, hour",とき,,,,,leech
 vsSYI.3]Gm,半,"Half, middle, odd number, semi-, part-",ハン,なか. ば,,,,
 zhX[h{nD5n,刀,Sword,トウ,"かたな, そり",,,,
 hb<a8$]/kE,分,"minute (unit of time) /&nbsp; part, portion, or share","ブン, フン, ブ","わ.ける, わ.け, わ.かれる, わ.かる, わ.かつ",,,,
-g]18IQUU5g,上,Top / Above / On,うえ,,,,,Japanese::Kanji::Grade_1
+g]18IQUU5g,上,Top / Above / On,うえ,,,,,"Japanese::Kanji::Grade_1, leech"
 b@TE.:7q1v,下,"below, down, under","カ, ゲ",した,,,,"Genki, lesson-4, Location_Words"
 w>}>L+]!Ds,中,"in, inside, middle, mean, center",チュウ,"なか, うち, あた.る",,,,
 l_B8l(iuIh,外,outside,"ガイ, ゲ","そと, ほか, はず.す, はず.れる, と-",,,,
@@ -52,7 +52,7 @@ lLFa:vk7?E,前,in front / before / X years ago,ゼン,"まえ, -まえ",,５ね�
 sKELVitfkq,後,"behind, back, later","ゴ, コウ","のち, うし.ろ, うしろ, あと, おく.れる",,,,leech
 LwXP4&eu4:,午,"noon, 11AM-1PM",ゴ,うま,,,,leech
 l[DBINh$U4,門,"gate, counter for cannons",モン,"かど, と",,,,
-uGh8@c6I3z,東,East,トウ,ひがし,,,,
+uGh8@c6I3z,東,East,トウ,ひがし,,,,leech
 O|+:ln}Ju%,西,West,,にし,,,,
 oiqL!!RhzG,南,South,"ナン, ナ",みなみ,,,,
 L-E{:r54-$,北,North,ホク,きた,,,,
@@ -63,7 +63,7 @@ BP6F~.I{^7,入,Enter,ニュウ,はいる、いる、いれる,,,,Japanese::Kanji
 "kZ4,4;!dp3",出,"Exit, leave, go out, come out, put out, protrude",シュツ、 スイ,で.る、 -で、だ.す、-だ.す、い.でる、い.だす,,,,Japanese::Kanji::Grade_1
 b}XC?sm3(H,力,"Power, strength, strong, strain, bear up, exert",リョク、 リキ、 リイ,ちから,,,,Japanese::Kanji::Grade_1
 B#7N`_T5m6,名,"Name, noted, distinguished, reputation",メイ、 ミョウ,な,,,,Japanese::Kanji::Grade_1
-FX()t:Rk<6,夕,Evening,セキ,ゆう,,,,Japanese::Kanji::Grade_1
+FX()t:Rk<6,夕,Evening,セキ,ゆう,,,,"Japanese::Kanji::Grade_1, leech"
 Pw`]gp48Vl,大,Large / Big,ダイ、 タイ,おお-、 おお.きい、 -おお.いに,,,,Japanese::Kanji::Grade_1
 K-uzPBX$-K,天,Heaven,テン,あまつ、 あめ、 あま-,,,,Japanese::Kanji::Grade_1
 I@l:fa0G+R,女,Woman,ジョ、 ニョ、 ニョウ,おんな、 め,,,,Japanese::Kanji::Grade_1
@@ -77,10 +77,13 @@ JS=A7c_2K*,草,Grass,ソウ,くさ,,,,Japanese::Kanji::Grade_1
 y&]h?N$@ou,手,Hand,シュ,て、た,,,,Japanese::Kanji::Grade_1
 n~:E?=vIj[,文,Letter,ブン、モン,ふみ,,,,Japanese::Kanji::Grade_1
 y;4=vls#-4,早,Early / Fast,ソウ、 サッ,はや.い、はや.まる、 はや.める,,,,Japanese::Kanji::Grade_1
-Pj60dS9oYw,村,Village,ソン,むら,,,,Japanese::Kanji::Grade_1
-eQ=QY.4TI*,林,Woods,リン,はやし,,,,Japanese::Kanji::Grade_1
-M9.j#^]k4?,校,School,コウ,,,,,Japanese::Kanji::Grade_1
-"Ih.J]{n,/m",森,Forest,シン,もり,,,,Japanese::Kanji::Grade_1
+Pj60dS9oYw,村,Village,ソン,むら,There is a village beyond the tree （木）,,,Japanese::Kanji::Grade_1
+eQ=QY.4TI*,林,Woods / Small forest,リン,はやし,Two trees （木）become a small forest.,,,Japanese::Kanji::Grade_1
+M9.j#^]k4?,校,School,コウ,"<span style=""color: rgb(34, 34, 34);"">こう</span>","It features six （六） wooden （木）crosses （
+
+乂
+）COAted with blue paint.",,,Japanese::Kanji::Grade_1
+"Ih.J]{n,/m",森,Forest,シン,もり,Three trees （木）becomes a forest.,,,Japanese::Kanji::Grade_1
 pi6_RatY3/,正,Correct / Justice,セイ、 ショウ,ただ.しい、 ただ.す、 まさ、 まさ.に,,,,Japanese::Kanji::Grade_1
 pFCu)7fK=`,気,Air,キ、ケ,,,,,Japanese::Kanji::Grade_1
 0wj<X#)>U,犬,Dog,ケン,いぬ,,,,Japanese::Kanji::Grade_1
