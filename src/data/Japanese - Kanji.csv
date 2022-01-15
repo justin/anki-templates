@@ -9,53 +9,46 @@ cBc+h+0FSj,七,Seven,しち,なな　なの,,,7,Japanese::Kanji::Grade_1
 BAtI}`5H.+,八,Eight,はち　はっ,やつ　や　よう,,,8,Japanese::Kanji::Grade_1
 rO8ZN`n)=M,九,Nine,きゅう　く,ここの,,,9,Japanese::Kanji::Grade_1
 rjFo@aer[a,十,Ten,じゅう　じっ　じゅっ,とお　と,,,10,Japanese::Kanji::Grade_1
-l(/=qYza67,百,100 / Hundred,ひゃく　びゃく,,,,11,Japanese::Kanji::Grade_1
-NS!^3L8K}V,千,"1,000 / Thousand",せん　ぜん,ち,,,12,Japanese::Kanji::Grade_1
+l(/=qYza67,百,100 / Hundred,ひゃく　びゃく,,"Turn ""100"" 90 degrees to the right and it looks like 百.",,11,Japanese::Kanji::Grade_1
+NS!^3L8K}V,千,"1,000 / Thousand",せん　ぜん,ち,Adding a / to a 十 makes it 1000.,,12,Japanese::Kanji::Grade_1
 o)W>E]rEsQ,万,"10,000 / Ten thousand",まん　ばん,,"10,000 is a five digit number",,13,leech
 h;kp1+|2<$,円,Yen / Circle,えん,まる,This is the shape of a circle.,,14,Japanese::Kanji::Grade_1
 t`[`O$C<!;,口,Mouth,こう　く,くち　ぐち,This is the shape of a mouth.,,15,Japanese::Kanji::Grade_1
-eB_=GbpfvS,目,Eye,もく　ぼく,"め, ま",This is the shape of a mouth.,,16,"Japanese::Kanji::Grade_1, leech"
-m+aU`?:6j!,日,Day / Sun,にち　にっ　じっ,び　か　ひ,This is the shape of the sun,,17,"Japanese::Kanji::Grade_1, leech"
-vH#xQ?<~$%,月,moon,かつ　げつ,つき,This is the shape of a crescent moon,,18,"Genki, Japanese::Kanji::Grade_1, Kanji_Practice, leech, lesson-4, 人_and_月"
-OUXF>p[qd6,火,fire,ひ,,,,19,"Genki, Kanji_Practice, lesson-4, 火_and_水"
-zzD>]b3EJ?,木,Tree,もく　ぼく,"き, こ-",,,20,"_and_土, _金, Genki, Japanese::Kanji::Grade_1, Kanji_Practice, leech, lesson-4, 木"
-pudB=P~NEO,水,Water,スイ,"みず, みず-",,,21,
-E{qExn|jQ>,金,Metal / Gold,"キン, コン","かね, かな-",,,22,Japanese::Kanji::Grade_1
-v##n?p^AKB,土,Soil,つち,,,,23,"Japanese::Kanji::Grade_1, leech"
+eB_=GbpfvS,目,Eye,もく　ぼく,"め, ま",This is the shape of an eye.,,16,"Japanese::Kanji::Grade_1, leech"
+m+aU`?:6j!,日,Day / Sun,にち　にっ　じっ,び　か　ひ,This is the shape of the sun.,,17,"Japanese::Kanji::Grade_1, leech"
+vH#xQ?<~$%,月,moon,かつ　げつ,つき,This is the shape of a crescent moon.,,18,"Genki, Japanese::Kanji::Grade_1, Kanji_Practice, leech, lesson-4, 人_and_月"
+OUXF>p[qd6,火,fire,カ,"ひ, -び, ほ-",This is the shape of fire.,,19,"Genki, Kanji_Practice, lesson-4, 火_and_水, Japanese::Kanji::Grade_1"
+zzD>]b3EJ?,木,Tree,もく　ぼく,"き, こ-",This is the shape of a tree.,,20,"_and_土, _金, Genki, Japanese::Kanji::Grade_1, Kanji_Practice, leech, lesson-4, 木"
+"ozm,1nYnbo",水,water,みず,,,,21,"Genki, Japanese::Kanji::Grade_1, Kanji_Practice, lesson-4, 火_and_水"
+E{qExn|jQ>,金,Metal / Gold,"キン, コン","かね, かな-",It looks like a mountain which might have gold in it.,,22,Japanese::Kanji::Grade_1
+v##n?p^AKB,土,Soil,つち,,It looks like a plant bud sprouting from the soil.,,23,"Japanese::Kanji::Grade_1, leech"
 yV?XbNHNW:,曜,Weekday,よう,,,,24,leech
 Ih6vCj(-Bq,本,Book,ほん ぼん,もと,,,25,Japanese::Kanji::Grade_1
-A(5A/Sn?q+,人,person,じん　にん,ひと,,,26,Japanese::Kanji::Grade_1
-D_*6.0y$$K,今,Now,こん　きん,いま,,,27,"Genki, Kanji_Practice, lesson-5, 今_and_田"
-"PSpiM0W;,w",中,inside,なか,,,,,"Genki, Japanese::Kanji::Grade_1, lesson-4, Location_Words"
-"b`,Uvbi0!?",下,under / down,した,,,,,"Genki, Japanese::Kanji::Grade_1, leech, lesson-4, Location_Words"
-"ozm,1nYnbo",水,water,みず,,,,,"Genki, Japanese::Kanji::Grade_1, Kanji_Practice, lesson-4, 火_and_水"
-kK4vszz-l$,左,left,ひだり,,,,,"Genki, Japanese::Kanji::Grade_1, leech, lesson-4, Location_Words"
-I?y;<:wc%9,前,front,まえ,,,,,"Genki, leech, lesson-4, Location_Words"
+A(5A/Sn?q+,人,person,じん　にん,ひと,It looks like a person standing with two legs apart.,,26,Japanese::Kanji::Grade_1
+D_*6.0y$$K,今,Now,"コン, キン",いま,,,27,"Genki, Kanji_Practice, lesson-5, 今_and_田"
+"fU,RbO4%h3",寺,Temple,ジ,てら,,,28,
+h??cESvos.,時,"when... / at the time of.. / time, hour",ジ,とき,,,29,leech
+vsSYI.3]Gm,半,"Half, middle, odd number, semi-, part-",ハン,なか. ば,,,30,
+zhX[h{nD5n,刀,Sword,トウ,"かたな, そり",It is in the shape of a hatchet / knife.,,31,
+hb<a8$]/kE,分,"minute (unit of time) / part, portion, or share","ブン, フン, ブ","わ.ける, わ.け, わ.かれる, わ.かる, わ.かつ",,,32,
+g]18IQUU5g,上,Top / Above / On,うえ,,It is pointing at a line above the surface.,,33,"Japanese::Kanji::Grade_1, leech"
+"b`,Uvbi0!?",下,under / down,"カ, ゲ",した,It is pointing at a line below the surface.,,34,"Genki, Japanese::Kanji::Grade_1, leech, lesson-4, Location_Words"
+"PSpiM0W;,w",中,"inside, middle, mean, center",チュウ,"なか, うち, あた.る",,,35,"Genki, Japanese::Kanji::Grade_1, lesson-4, Location_Words"
+l_B8l(iuIh,外,outside,"ガイ, ゲ","そと, ほか, はず.す, はず.れる, と-",It looks like a guy smoking outside.,,36,
+d<&!tNIX9M,右,right,"ウ, ユウ",みぎ,,,37,Japanese::Kanji::Grade_1
+Hxuk8;LU{p,工,"craft, construction, katakana e radical (no. 48)","コウ, ク, グ",こう、く,,,38,
+kK4vszz-l$,左,left,"サ, シャ",ひだり,,,39,"Genki, Japanese::Kanji::Grade_1, leech, lesson-4, Location_Words"
+I?y;<:wc%9,前,before / front,ゼン,まえ,,,40,"Genki, leech, lesson-4, Location_Words"
+sKELVitfkq,後,"Behind, back, after","ゴ, コウ","のち, うし.ろ, うしろ, あと, おく.れる",,,41,leech
+LwXP4&eu4:,午,Noon,ゴ,うま,,,42,leech
+l[DBINh$U4,門,Gate,モン,"かど, と",This is the shape of a gate.,,43,
+"oAd$bXJ?,k",間,Between,あいだ,,You can see the sun (日）between the gates (門）,,44,"Genki, leech, lesson-4, Location_Words"
+uGh8@c6I3z,東,East,トウ,ひがし,,,45,leech
+O|+:ln}Ju%,西,West,,にし,,,46,
+oiqL!!RhzG,南,South,"ナン, ナ",みなみ,,,47,
+L-E{:r54-$,北,North,ホク,きた,,,48,
 FOxOrT>Uj,川,River,かわ,,,,,"_and_元, _川, Genki, Japanese::Kanji::Grade_1, Kanji_Practice, lesson-5, 山"
-"oAd$bXJ?,k",間,between,あいだ,,,,,"Genki, leech, lesson-4, Location_Words"
 iGP4t/R8m?,山,mountain,やま,,,,,"_and_元, _川, Genki, Japanese::Kanji::Grade_1, Kanji_Practice, lesson-5, 山"
-o/[%JOR(z9,火,Fire,カ,"ひ, -び, ほ-",,,,Japanese::Kanji::Grade_1
-G&+11Wl`+&,今,Now,"コン, キン",いま,,,,
-"fU,RbO4%h3",寺,Buddhist temple,ジ,てら,,,,
-h??cESvos.,時,"when... / at the time of.. / time, hour",とき,,,,,leech
-vsSYI.3]Gm,半,"Half, middle, odd number, semi-, part-",ハン,なか. ば,,,,
-zhX[h{nD5n,刀,Sword,トウ,"かたな, そり",,,,
-hb<a8$]/kE,分,"minute (unit of time) /&nbsp; part, portion, or share","ブン, フン, ブ","わ.ける, わ.け, わ.かれる, わ.かる, わ.かつ",,,,
-g]18IQUU5g,上,Top / Above / On,うえ,,,,,"Japanese::Kanji::Grade_1, leech"
-b@TE.:7q1v,下,"below, down, under","カ, ゲ",した,,,,"Genki, lesson-4, Location_Words"
-w>}>L+]!Ds,中,"in, inside, middle, mean, center",チュウ,"なか, うち, あた.る",,,,
-l_B8l(iuIh,外,outside,"ガイ, ゲ","そと, ほか, はず.す, はず.れる, と-",,,,
-d<&!tNIX9M,右,right,"ウ, ユウ",みぎ,,,,Japanese::Kanji::Grade_1
-Hxuk8;LU{p,工,"craft, construction, katakana e radical (no. 48)","コウ, ク, グ",,,,,
-DVs<>LbEDI,左,left,"サ, シャ",ひだり,,,,
-lLFa:vk7?E,前,in front / before / X years ago,ゼン,"まえ, -まえ",,５ねんまえに (5 years ago),,
-sKELVitfkq,後,"behind, back, later","ゴ, コウ","のち, うし.ろ, うしろ, あと, おく.れる",,,,leech
-LwXP4&eu4:,午,"noon, 11AM-1PM",ゴ,うま,,,,leech
-l[DBINh$U4,門,"gate, counter for cannons",モン,"かど, と",,,,
-uGh8@c6I3z,東,East,トウ,ひがし,,,,leech
-O|+:ln}Ju%,西,West,,にし,,,,
-oiqL!!RhzG,南,South,"ナン, ナ",みなみ,,,,
-L-E{:r54-$,北,North,ホク,きた,,,,
 Hf*gb(gv*^,一分,One minute,いっぷん,,,,,
 {iz|NxclR,休,Rest,キュウ,"やすむ, やすめる, やすまる",A person resting by a tree.,,113,Japanese::Kanji::Grade_1
 bG85Iou#+:,先,Ahead / previous / future / precedence,,せん、さき,,,56,"Japanese::Kanji::Grade_1, leech"
