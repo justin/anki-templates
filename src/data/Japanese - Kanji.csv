@@ -18,7 +18,7 @@ eB_=GbpfvS,目,Eye,もく　ぼく,"め, ま",This is the shape of an eye.,,16,"
 m+aU`?:6j!,日,Day / Sun,にち　にっ　じっ,び　か　ひ,This is the shape of the sun.,,17,"Japanese::Kanji::Grade_1, leech"
 vH#xQ?<~$%,月,moon,かつ　げつ,つき,This is the shape of a crescent moon.,,18,"Genki, Japanese::Kanji::Grade_1, Kanji_Practice, leech, lesson-4, 人_and_月"
 OUXF>p[qd6,火,fire,カ,"ひ, -び, ほ-",This is the shape of fire.,,19,"Genki, Japanese::Kanji::Grade_1, Kanji_Practice, lesson-4, 火_and_水"
-zzD>]b3EJ?,木,Tree,もく　ぼく,"き, こ-",This is the shape of a tree.,,20,"_and_土, _金, Genki, Japanese::Kanji::Grade_1, Kanji_Practice, leech, lesson-4, 木"
+zzD>]b3EJ?,木,Tree,もく　ぼく,"き, こ-",This is the shape of a tree.,,20,"Genki, Japanese::Kanji::Grade_1, Kanji_Practice, leech, lesson-4, 木"
 "ozm,1nYnbo",水,water,スイ,"みず, みず-",,,21,"Genki, Japanese::Kanji::Grade_1, Kanji_Practice, lesson-4, 火_and_水"
 E{qExn|jQ>,金,Metal / Gold,"キン, コン","かね, かな-",It looks like a mountain which might have gold in it.,,22,Japanese::Kanji::Grade_1
 v##n?p^AKB,土,Soil,つち,,It looks like a plant bud sprouting from the soil.,,23,"Japanese::Kanji::Grade_1, leech"
@@ -47,14 +47,14 @@ uGh8@c6I3z,東,East,トウ,ひがし,,,45,leech
 O|+:ln}Ju%,西,West,,にし,,,46,
 oiqL!!RhzG,南,South,"ナン, ナ",みなみ,,,47,
 L-E{:r54-$,北,North,ホク,きた,,,48,
-FOxOrT>Uj,川,River,かわ,,,,,"_and_元, _川, Genki, Japanese::Kanji::Grade_1, Kanji_Practice, lesson-5, 山"
-iGP4t/R8m?,山,mountain,やま,,,,,"_and_元, _川, Genki, Japanese::Kanji::Grade_1, Kanji_Practice, lesson-5, 山"
+FOxOrT>Uj,川,River,かわ,,,,,"Genki, Japanese::Kanji::Grade_1, Kanji_Practice, lesson-5, 山"
+iGP4t/R8m?,山,mountain,やま,,,,,"Genki, Japanese::Kanji::Grade_1, Kanji_Practice, lesson-5, 山"
 Hf*gb(gv*^,一分,One minute,いっぷん,,,,,
 {iz|NxclR,休,Rest,キュウ,"やすむ, やすめる, やすまる",A person resting by a tree.,,113,Japanese::Kanji::Grade_1
 bG85Iou#+:,先,Ahead / previous / future / precedence,,せん、さき,,,56,"Japanese::Kanji::Grade_1, leech"
 BP6F~.I{^7,入,Enter,ニュウ,はいる、いる、いれる,,,,Japanese::Kanji::Grade_1
 "kZ4,4;!dp3",出,"Exit, leave, go out, come out, put out, protrude",シュツ、 スイ,で.る、 -で、だ.す、-だ.す、い.でる、い.だす,,,,Japanese::Kanji::Grade_1
-b}XC?sm3(H,力,"Power, strength, strong, strain, bear up, exert",リョク、 リキ、 リイ,ちから,,,,Japanese::Kanji::Grade_1
+b}XC?sm3(H,力,"Power, strength, strong, strain, bear up, exert",リョク、 リキ、 リイ,ちから,,,,"Japanese::Kanji::Grade_1, leech"
 B#7N`_T5m6,名,"Name, noted, distinguished, reputation",メイ、 ミョウ,な,,,,Japanese::Kanji::Grade_1
 FX()t:Rk<6,夕,Evening,セキ,ゆう,,,,"Japanese::Kanji::Grade_1, leech"
 Pw`]gp48Vl,大,Large / Big,ダイ、 タイ,おお-、 おお.きい、 -おお.いに,,,,Japanese::Kanji::Grade_1
@@ -90,13 +90,13 @@ sy9$Apanf?,白,White,ハク、ビャク,しろ、しら、しろーい,,,,Japane
 sYFoXOt]3W,石,Stone,セキ、シャク、コク,いし,,,,Japanese::Kanji::Grade_1
 o6$`UxV(K~,空,Sky,クウ,そら、から、あ-く、あ-ける,,,,"Japanese::Kanji::Grade_1, leech"
 G9T+dVv6yL,立,Stand,リツ、 リュウ,た-つ、た-てる,,,,Japanese::Kanji::Grade_1
-t*>>XLmz!Y,竹,Bamboo,チク,たけ,,,,Japanese::Kanji::Grade_1
+t*>>XLmz!Y,竹,Bamboo,チク,たけ,,,,"Japanese::Kanji::Grade_1, leech"
 E}k/@TS3a3,糸,Thread,シ,いと,,,,"Japanese::Kanji::Grade_1, leech"
 JqhHyy>ZUY,耳,Ear,ジ,みみ,,,,Japanese::Kanji::Grade_1
 ge`Kp6myU~,虫,Insect,チュウ,むし,,,,Japanese::Kanji::Grade_1
 z3#2_b[aD5,見,See,ケン,みる,,,,Japanese::Kanji::Grade_1
 Jqmu&N>]8.,貝,Shellfish,,かい,,,,"Japanese::Kanji::Grade_1, leech"
-rVn)!Z1@>a,赤,Red,セキ、シャク,あか、あかい、あからむ、あからめる,,,,Japanese::Kanji::Grade_1
+rVn)!Z1@>a,赤,Red,セキ、シャク,あか、あかい、あからむ、あからめる,,,,"Japanese::Kanji::Grade_1, leech"
 "h8j+65-t,(",足,Foot,ソク,あし,,,,Japanese::Kanji::Grade_1
 KWSG~l5o2W,車,Vehicle / Car,シャ,くるま,,,,Japanese::Kanji::Grade_1
 "l%W_uPh7O,",雨,Rain,ウ,あめ、あま,,,,Japanese::Kanji::Grade_1
