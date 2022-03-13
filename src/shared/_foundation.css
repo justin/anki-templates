@@ -2,96 +2,117 @@
 Foundation CSS file + styling for my anki templates.
 */
 
+:root {
+  color-scheme: light dark;
+  --background-color: rgba(37, 37, 41, 1.0);
+  --text-color: #343A40;
+  --content-background-color: #dedede;
+  --content-border-color: #495057;
+  --divider-line-color: #6C757D;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+      --content-border-color: #495057;
+  }
+}
+
 @font-face {
-    font-family: 'IPAexGothic';
-    src: url('__ipaex_gothic.ttf');
+  font-family: 'IPAexGothic';
+  src: url('__ipaex_gothic.ttf');
 }
 
 body {
-    background-color: #212529;
-    font-family: 'IPAexGothic', 'Helvetica Neue', sans-serif;
-    font-size: 1.2rem;
-    color: #343A40;
-    text-align: center;
-    padding-top: 2.5rem;
-    margin: 0;
-    padding: 0;
-    word-wrap: break-word;
-    overflow-wrap: break-word
+  background-color: var(--background-color);
+  font-family: 'IPAexGothic', 'Helvetica Neue', sans-serif;
+  font-size: 1.2rem;
+  color: var(--text-color);
+  text-align: center;
+  padding-top: 2.5rem;
+  margin: 0;
+  padding: 0;
+  word-wrap: break-word;
+  overflow-wrap: break-word
 }
 
 div.header {
-    background-color: #000;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    right: 0px;
-    height: 20px;
+  background-color: #000;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  height: 20px;
 }
 
 div.header.sentence {
-    background-color: #F49D37;
+  background-color: #F49D37;
 }
 
 div.header.kana {
-    background-color: #D72638;
+  background-color: #D72638;
 }
 
 div.header.vocab {
-    background-color: #3F88C5;
+  background-color: #3F88C5;
 }
 
 div.header.kanji {
-    background-color: #FF4D80;
+  background-color: #FF4D80;
 }
 
 div.content {
-    background-color: #dedede;
-    border: 2px solid  #495057;
-    border-radius: 1rem;
-    margin-top: 3.2rem;
-    margin-bottom: 3.2rem;
-    margin-left: 2rem;
-    margin-right: 2rem;
-    vertical-align: middle;
-		padding-bottom: 1.2rem;
+  background-color: var(--content-background-color);
+  border: 2px solid var(--content-border-color);
+  border-radius: 1rem;
+  margin-top: 3.2rem;
+  margin-bottom: 3.2rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  vertical-align: middle;
+  padding-bottom: 1.2rem;
+  color: var(--text-color);
 }
 
 hr {
-    color: #6C757D;
-    border: 0px;
-    border-bottom: 1px solid;
+  color: var(--divider-line-color);
+  border: 0px;
+  border-bottom: 1px solid;
 }
 
 h1 {
-    font-size: 3.2rem;
+  font-size: 3.2rem;
 }
 
 h2 {
-    font-size: 2.6rem;
+  font-size: 2.6rem;
 }
 
 h3 {
-    font-size: 2.0rem;
+  font-size: 2.0rem;
 }
 
 h4 {
-    font-size: 1.6rem;
+  font-size: 1.6rem;
 }
 
 h5 {
-    font-size: 1.3rem;
+  font-size: 1.3rem;
 }
 
 h6 {
-    font-size: 1.0rem;
+  font-size: 1.0rem;
 }
 
 span.kana {
-    color: #495057;
+  color: #495057;
 }
 
 a {
-  color: #343A40;
+  color: var(--text-color);
+  text-decoration: underline;
+}
+
+.mobile a {
+  color: var(--text-color);
   text-decoration: underline;
 }
