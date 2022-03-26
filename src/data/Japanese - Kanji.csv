@@ -30,7 +30,7 @@ D_*6.0y$$K,今,Now,"コン, キン",いま,,,27,"Genki, Kanji_Practice, lesson-5
 h??cESvos.,時,"when... / at the time of.. / time, hour",ジ,とき,,,29,leech
 vsSYI.3]Gm,半,"Half, middle, odd number, semi-, part-",ハン,なか. ば,,,30,
 zhX[h{nD5n,刀,Sword,トウ,"かたな, そり",It is in the shape of a hatchet / knife.,,31,leech
-hb<a8$]/kE,分,"minute (unit of time) / part, portion, or share","ブン, フン, ブ","わ.ける, わ.け, わ.かれる, わ.かる, わ.かつ",,,32,
+hb<a8$]/kE,分,"minute (unit of time) / part, portion, or share","ブン, フン, ブ","わける, わけ, わかれる, わかる, わかつ",,,32,
 g]18IQUU5g,上,Top / Above / On,うえ,,It is pointing at a line above the surface.,,33,"Japanese::Kanji::Grade_1, leech"
 "b`,Uvbi0!?",下,under / down,"カ, ゲ",した,It is pointing at a line below the surface.,,34,"Genki, Japanese::Kanji::Grade_1, leech, lesson-4, Location_Words"
 "PSpiM0W;,w",中,"inside, middle, mean, center",チュウ,"なか, うち, あた.る",,,35,"Genki, Japanese::Kanji::Grade_1, lesson-4, Location_Words"
@@ -45,7 +45,7 @@ l[DBINh$U4,門,Gate,モン,"かど, と",This is the shape of a gate.,,43,
 "oAd$bXJ?,k",間,Between,あいだ,,You can see the sun (日）between the gates (門）,,44,"Genki, leech, lesson-4, Location_Words"
 uGh8@c6I3z,東,East,トウ,ひがし,,,45,leech
 O|+:ln}Ju%,西,West,,にし,,,46,
-oiqL!!RhzG,南,South,"ナン, ナ",みなみ,,,47,
+oiqL!!RhzG,南,South,"ナン, ナ",みなみ,,,47,leech
 L-E{:r54-$,北,North,ホク,きた,,,48,
 FOxOrT>Uj,川,River,かわ,,,,,"Genki, Japanese::Kanji::Grade_1, Kanji_Practice, lesson-5, 山"
 iGP4t/R8m?,山,mountain,やま,,,,,"Genki, Japanese::Kanji::Grade_1, Kanji_Practice, lesson-5, 山"
@@ -110,20 +110,20 @@ OnDkpy?`jU,万,"Ten Thousand, 10,000","まん, ばん",よろず,,,,Japanese::Ka
 w0pLNvTUr1,今,Now,"こん, きん",いま,,,,Japanese::Kanji::Grade_2
 "AD,8d|Yf=/",元,"Beginning, Former Time, Origin","げん, がん",もと,,,,"Japanese::Kanji::Grade_2, leech"
 LE.[dgwn7e,公,"Public, Prince, Official, Governmental","こう, く",おおやけ,,,,Japanese::Kanji::Grade_2
-Ow&Vg@i`.s,内,"Inside, Within, Between, Among, House, Home","ない, だい",うち,,,,Japanese::Kanji::Grade_2
+Ow&Vg@i`.s,内,"House, Home, Inside, Within, Between, Among","ない, だい",うち,,,,"Japanese::Kanji::Grade_2, leech"
 "Ge3rE,1E(9",分,"Part, Minute Of Time, Segment, Share, Degree, One's Lot, Duty, Understand, Know, Rate, 1%, Chances, Shaku/100","ぶん, ふん, ぶ","わ.ける, わ.け, わ.かれる, わ.かる, わ.かつ",,,,Japanese::Kanji::Grade_2
-Ch=6z`[*t,切,"Cut, Cutoff, Be Sharp","せつ, さい","き.る, -き.る, き.り, -き.り, -ぎ.り, き.れる, -き.れる, き.れ, -き.れ, -ぎ.れ",,,,Japanese::Kanji::Grade_2
-"B-,vH+[S#m",午,"Noon, Sign Of The Horse, 11am-1pm, Seventh Sign Of Chinese Zodiac",ご,うま,"Let's call the single line (upper left corner) a left sock. Thus: Every NOON, I hang my left sock out to dry.",,,Japanese::Kanji::Grade_2
+Ch=6z`[*t,切,"Cut, Cutoff, Be Sharp","せつ, さい","き.る, -き.る, き.り, -き.り, -ぎ.り, き.れる, -き.れる, き.れ, -き.れ, -ぎ.れ",,,,"Japanese::Kanji::Grade_2, leech"
+"B-,vH+[S#m",午,"Noon, Sign Of The Horse, 11am-1pm, Seventh Sign Of Chinese Zodiac",ご,うま,"Let's call the single line (upper left corner) a left sock. Thus: Every NOON, I hang my left sock out to dry.",,,"Japanese::Kanji::Grade_2, leech"
 bjt{SAM-;q,友,Friend,ゆう,とも,,,,Japanese::Kanji::Grade_2
 FMYnxz?NUn,太,"Plump, Thick, Big Around","たい, た","ふと.い, ふと.る",,,,Japanese::Kanji::Grade_2
 B#Fgwc./[z,少,"Few, Little",しょう,"すく.ない, すこ.し",,,,Japanese::Kanji::Grade_2
 dtXisDv9<.,引,"Pull, Tug, Jerk, Admit, Install, Quote, Refer To",いん,"ひく, ひき, ひき-, -びき, ひける",,,,"Japanese::Kanji::Grade_2, leech"
 k``6cB[9#i,心,"Heart, Mind, Spirit, Heart Radical (no. 61)",しん,"こころ, -ごころ",,,,Japanese::Kanji::Grade_2
 m!>=9mGLg8,戸,"Door, Counter For Houses, Door Radical (no. 63)",こ,と,,,,Japanese::Kanji::Grade_2
-sYQ*Q~WJ=[,方,"Direction, Person, Alternative",ほう,"かた, -かた, -がた",,,,Japanese::Kanji::Grade_2
-P8NB{Hbe9K,牛,Cow,ぎゅう,うし,,,,Japanese::Kanji::Grade_2
+sYQ*Q~WJ=[,方,"Direction, Person, Alternative",ほう,"かた, -かた, -がた",,,,"Japanese::Kanji::Grade_2, leech"
+P8NB{Hbe9K,牛,Cow,ぎゅう,うし,,,,"Japanese::Kanji::Grade_2, leech"
 x%Uz_KT61E,父,Father,ふ,ちち,,,,Japanese::Kanji::Grade_2
-Insj(f_N/^,毛,"Fur, Hair, Feather, Down",もう,け,,,,Japanese::Kanji::Grade_2
+Insj(f_N/^,毛,"Fur, Hair, Feather, Down",もう,け,,,,"Japanese::Kanji::Grade_2, leech"
 llx.]pisIu,止,Stop / Halt,し,"とまる, -どまり, とめる, -とめる, -どめ, とどめる, とどめ, とどまる, やめる, やむ, -やむ, よす, -さす, -さし",,,,"Japanese::Kanji::Grade_2, leech"
 "HWd|7,Rjmz",兄,"Elder Brother, Big Brother","けい, きょう",あに,,,,Japanese::Kanji::Grade_2
 "lQTiwHga?,",冬,Winter,とう,ふゆ,,,,Japanese::Kanji::Grade_2
@@ -132,7 +132,7 @@ s;CFg:bCI[,半,"Half, Middle, Odd Number, Semi-, Part-",はん,なか.ば,,,,Jap
 pwZU&#j3(j,古,Old,こ,"ふるい, ふる-, -ふるす",,,,Japanese::Kanji::Grade_2
 Q]*0}P~^@V,台,"Pedestal, A Stand, Counter For Machines And Vehicles","だい, たい","うてな, われ, つかさ",,,,Japanese::Kanji::Grade_2
 ev_IM5)]$u,外,Outside,"がい, げ","そと, ほか, はず.す, はず.れる, と-",,,,Japanese::Kanji::Grade_2
-j4yhLe1+@<,市,"City, Town, Market",し,いち,,,,Japanese::Kanji::Grade_2
+j4yhLe1+@<,市,"City, Town, Market",し,いち,,,,"Japanese::Kanji::Grade_2, leech"
 Kv*cVyhiy8,広,"Wide, Broad, Spacious",こう,"ひろい, ひろまる, ひろめる, ひろがる, ひろげる",,,,Japanese::Kanji::Grade_2
 u@f=/GA-MO,母,Mother,ぼ,"はは, も",,,,Japanese::Kanji::Grade_2
 cGky6{(*U0,用,"To Utilize, Business, Service, To Use, To Employ",よう,もちいる,,,,Japanese::Kanji::Grade_2
