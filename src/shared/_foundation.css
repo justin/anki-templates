@@ -60,6 +60,10 @@ div.header.kanji {
   background-color: #FF4D80;
 }
 
+div.header.radical {
+  background-color: #17c200;
+}
+
 div.content {
   background-color: var(--content-background-color);
   border: 2px solid var(--content-border-color);

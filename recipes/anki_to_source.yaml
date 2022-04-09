@@ -26,6 +26,8 @@
       note_model: Vocabulary
     - file: src/data/Japanese - Kanji.csv
       note_model: Japanese - Kanji
+    - file: src/data/kanji_radicals.csv
+      note_model: Japanese - Radicals
     - file: src/data/Verb Conjugations.csv
       note_model: Verb Conjugations
     note_model_mappings:
@@ -33,4 +35,5 @@
       - Sentences
       - Vocabulary
       - Japanese - Kanji
+      - Japanese - Radicals
       - Verb Conjugations

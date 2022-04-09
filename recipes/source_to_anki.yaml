@@ -4,8 +4,10 @@
     - src/data/Sentences.csv
     - src/data/Japanese - Kanji.csv
     - src/data/Verb Conjugations.csv
+    - src/data/kanji_radicals.csv
     columns:
     - guid
+
 - build_parts:
   - note_models_from_yaml_part:
       part_id: Vocabulary
@@ -17,11 +19,16 @@
       part_id: Japanese - Kanji
       file: src/note_models/Japanese - Kanji/Japanese - Kanji.yaml
   - note_models_from_yaml_part:
+      part_id: Japanese - Radicals
+      file: src/note_models/Radicals/model.yaml
+  - note_models_from_yaml_part:
       part_id: Verb Conjugations
       file: src/note_models/Verb Conjugations/Verb Conjugations.yaml
+
   - headers_from_yaml_part:
       part_id: deck_headers
       file: src/headers/default.yaml
+
   - notes_from_csvs:
       part_id: deck_notes
       save_to_file: null
@@ -30,6 +37,8 @@
         note_model: Vocabulary
       - file: src/data/Japanese - Kanji.csv
         note_model: Japanese - Kanji
+      - file: src/data/kanji_radicals.csv
+        note_model: Japanese - Radicals
       - file: src/data/Sentences.csv
         note_model: Sentences
       - file: src/data/Verb Conjugations.csv
@@ -39,11 +48,13 @@
         - Sentences
         - Vocabulary
         - Japanese - Kanji
+        - Japanese - Radicals
         - Verb Conjugations
   - media_group_from_folder:
       part_id: deck_media
       source: src/media/
       recursive: true
+
 - generate_crowd_anki:
     folder: build/Japanese
     notes:
@@ -53,6 +64,7 @@
       - part_id: Sentences
       - part_id: Vocabulary
       - part_id: Japanese - Kanji
+      - part_id: Japanese - Radicals
       - part_id: Verb Conjugations
     headers: deck_headers
     media:

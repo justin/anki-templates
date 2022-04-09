@@ -1,0 +1,14 @@
+name: Japanese - Radicals
+id: 2c486609-cb16-4a00-8824-83d05d21bbf6
+css_file: src/shared/_foundation.css
+sort_field_num: 6
+fields:
+- name: Radical
+- name: Meaning
+- name: Reading
+- name: Alternative
+- name: Numbers of Strokes
+- name: Radical Number
+templates:
+- name: Recognition
+  html_file: src/note_models/Radicals/Recognition.html

@@ -20,7 +20,7 @@ deck_configurations:
   maxTaken: 60
   name: Japanese Study
   new:
-    bury: false
+    bury: true
     delays:
     - 1.0
     - 10.0
