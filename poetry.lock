@@ -1,6 +1,6 @@
 [[package]]
 name = "brain-brew"
-version = "0.3.6"
+version = "0.3.8"
 description = "Automated Anki flashcard creation and extraction to/from Csv"
 category = "dev"
 optional = false
@@ -60,8 +60,8 @@ content-hash = "539059456053c019aebcca144bb59d6871773906b7af46724de628fc8ebc0273
 
 [metadata.files]
 brain-brew = [
-    {file = "Brain-Brew-0.3.6.tar.gz", hash = "sha256:8b4b4f37ffe639c61ec86f417885feefbf1270d6f2c649befb5255c6a20b5dda"},
-    {file = "Brain_Brew-0.3.6-py3-none-any.whl", hash = "sha256:b1353231b285eb5f5c141516590d29762990fb5ce53bc4dcb3a05b5e0686b446"},
+    {file = "Brain-Brew-0.3.8.tar.gz", hash = "sha256:9f9c788c51cdb0c298d040404b335ac80a277157825db4e4f6a2222249c3de87"},
+    {file = "Brain_Brew-0.3.8-py3-none-any.whl", hash = "sha256:8427a74deba6a433afbefeaa5f679eee833a954b2290f72197b020e1bc464bd6"},
 ]
 pyyaml = [
     {file = "PyYAML-6.0-cp310-cp310-macosx_10_9_x86_64.whl", hash = "sha256:d4db7c7aef085872ef65a8fd7d6d09a14ae91f691dec3e87ee5ee0539d516f53"},
