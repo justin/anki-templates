@@ -4,7 +4,7 @@ bE*>q6twKc,人,9,2,亻、𠆢<br>Example: 仁休位今,Human,ひと・にんべ�
 hUaYzt.|Sl,手,64,4,扌、龵<br>Example: 手 才 挙 拜 拳 掌 掣 擧 (持 掛 打 批 技 抱 押),Hand,て・てへん,Japanese::Kanji::Radicals
 ECn~ysvyqj,木,75,4,(None)<br>Example: 木 杢 板 相 根 森 楽 機 末 本 杉 林,Tree,き・きへん,Japanese::Kanji::Radicals
 xtQ|:~+#Zd,心,61,4,忄、⺗<br>Example: 必忙忌性悪情想,Heart,こころ・したごころ・りっしんべん,Japanese::Kanji::Radicals
-h)JZ$(qA|1,口,30,3,(None)<br>Example: 口古可名君否呉告周味命和哲唐善器,"Mouth, OpenIng",くち・くちへん,Japanese::Kanji::Radicals
+h)JZ$(qA|1,口,30,3,"(None)<br>Example: 口古可名君否呉告周味命和哲唐善器<br><br><span style=""color: rgb(26, 26, 27);"">Mouth is one little square that appears in lots of different places in a Kanji like 語, while enclosure is a big square that wraps around the entire Kanji like 国.</span>","Mouth, Opening",くち・くちへん,Japanese::Kanji::Radicals
 yD(/qZ{9LS,言,149,7,訁<br>Example: 誁 詋 詔 評 詗 詥 試 詧,Speech,いう・げん・ごんべん・ことば,Japanese::Kanji::Radicals
 z??(2w!QCn,糸,120,6,糹<br>Example: 系 級 紙 素 細 組 終 絵 紫,"Thread, String",いと・いとへん,Japanese::Kanji::Radicals
 tBJ_/79+Vo,辵,162,7,⻌、辶<Br />Example: 巡 迎 通 追 逃 迎 進,Walk,しんにょう・しんにゅう,Japanese::Kanji::Radicals
@@ -42,7 +42,7 @@ IMs1ZQn!MX,示,113,5,礻<br>Example: 示 奈 祭 禁 礼 社 神 視 福,"Altar,
 E5)a#K]}Mc,車,159,7,(None)<br>Example: 軌 軟 較 軍 載,"Cart, Car",くるま・くるまへん,Japanese::Kanji::Radicals
 BDWN_#hHYX,酉,164,7,(None)<br>Example: 酒　醉 油 醒 酸,Sake (Rice-Based Alcoholic Beverage),とり・とりへん・ひよみのとり・さけのとり,Japanese::Kanji::Radicals
 Np)!s:V0Qr,雨,173,8,⻗<br>Example: 雾 霜 雪 霸 雲 霧,Rain,あめ・あめかんむり・あまかんむり,Japanese::Kanji::Radicals
-"m|aJ,/~=u~",囗,31,3,(None)<br>Example: 四回國圖,Enclosure,くに・くにがまえ,Japanese::Kanji::Radicals
+"m|aJ,/~=u~",囗,31,3,"(None)<br>Example: 四回國圖<br><br><span style=""color: rgb(26, 26, 27);"">Mouth is one little square that appears in lots of different places in a Kanji like 語, while enclosure is a big square that wraps around the entire Kanji like 国.</span>",Enclosure,くに・くにがまえ,Japanese::Kanji::Radicals
 xlX$2>DkX&,寸,41,3,(None)<br>Example: 寸寺尊將,Sun (Unit Of Measurement),すん・すんづくり,Japanese::Kanji::Radicals
 "p:F,WW;j=S",食,184,9,飠<br>Example: 飯 飲 餓 餘 餐 養,"Eat, Food",しょく・しょくへん,Japanese::Kanji::Radicals
 g_M)9h&^fH,十,24,2,(None)<br>Example: 十千午半博,"Ten, Complete",じゅう・じゅうへん,Japanese::Kanji::Radicals
@@ -120,7 +120,7 @@ kZ/t1a2sgz,干,51,3,(None)<br>Example: 平年,Dry,かん・いちじゅう・ほ
 CI8k@cX}4W,廴,54,3,(None)<br>Example: 延,Long Stride,えんにょう・いんにょう,Japanese::Kanji::Radicals
 GNVA-_UfLO,生,100,5,(None)<br>Example: 牲 笙 甥,Life,うむ・うまれる・いきる,Japanese::Kanji::Radicals
 j2&es!4]PS,老,125,6,耂、⺹<br>Example: 耆孝耋,Old,おい・おいかんむり・おいがしら,Japanese::Kanji::Radicals
-kum{#q#*h:,己,49,3,已、巳<br>Example: 己巳,OneSelf,おのれ・き・つちのと,Japanese::Kanji::Radicals
+kum{#q#*h:,己,49,3,已、巳<br>Example: 己巳,Myself,おのれ・き・つちのと,Japanese::Kanji::Radicals
 kD?ev9wgm/,丨,2,1,(None)<br>Example: 中,Line,ぼう・たてぼう,Japanese::Kanji::Radicals
 P:/F%5WYFT,矢,111,5,(None)<br>Example: 医 族 矩,Arrow,や・やへん,Japanese::Kanji::Radicals
 I*+[&4ww!x,彡,59,3,(None)<br>Example: 形彦,"Hair, Bristle, Stubble, Beard",さん・さんづくり,Japanese::Kanji::Radicals
