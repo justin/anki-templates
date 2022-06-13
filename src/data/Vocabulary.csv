@@ -1041,10 +1041,135 @@ BM*#~S^nNE,<div>紅茶</div>,Black tea,Y,<div>こうちゃ</div>,,,Japanese::Nou
 eT@ko=G?MU,<div>夫</div>,Husband,Y,<div>おっと</div>,,,Japanese::Nouns
 l1R=$fMU`f,<div>主人</div>,Husband (Master),Y,<div>しゅじん</div>,,,Japanese::Nouns
 GfJ.x5av1*,<div>妻</div>,Wife,Y,<div>つま</div>,,,Japanese::Nouns
-O;LGd{6^?A,<div>恥</div>,Shame,,<div>はじ</div>,,,Japanese::Nouns
+O;LGd{6^?A,<div>恥</div>,Shame,Y,<div>はじ</div>,,,Japanese::Nouns
 i3uw;FcNs},ワクワクする!,I’m excited!,Y,,,,Japanese::Expressions
 NniW]H3Qy%,あげる,To Give,Y,,,,Japanese::Verbs
 s>c_ej`Sm(,朝,morning,Y,あさ,,,lesson-10
 o@?ewRust+,<div>銃</div>,Guns / Arms,Y,<div>じゅう</div>,,,Japanese::Nouns
 "eHX,$0xl{^",学割,student discount,Y,がくわり,,,lesson-10
 zGuGDt$4[c,片道,one way,Y,かたみち,,,lesson-10
+A4n0[z:v<B,お菓子,snacks; sweets,Y,おかし,,,lesson-11
+t?TVGv3M9D,お正月,New Year's,Y,おしょうがつ,,,lesson-11
+Hd;xIlOGB/,男の子,boy,Y,おとこのこ,,,lesson-11
+n6IVCFo@Bz,お祭り,festival,Y,おまつり,,,lesson-11
+y5UdslewO.,おもちゃ,toy,Y,,,,lesson-11
+sQ|)!(O7b),温泉,spa; hot spring,Y,おんせん,,,lesson-11
+I/xF%cb)DU,女の子,girl,Y,おんなのこ,,,lesson-11
+DL=zscrEpB,外国,foreign country,Y,がいこく,,,lesson-11
+C/4p_x-D>~,歌手,singer,Y,かしゅ,,,lesson-11
+o7Zl.?]<6w,川,river,Y,かわ,,,lesson-11
+hJLHyt(6bu,キャンプ,camp,Y,,,,lesson-11
+pfVLeVg>$:,こちら,this person (polite),Y,,,,lesson-11
+u@HB!9/.jj,手紙,letter,Y,てがみ,,,lesson-11
+h4RK9?/ll#,歌手,singer,Y,かしゅ,,,lesson-11
+NI_];H:W-_,手,hand,Y,て,,,lesson-11
+h^/J$m$WKr,手話,sign language,Y,しゅわ,,,lesson-11
+k+Xp1t;}`&,上手な,good at,Y,じょうずな,,,lesson-11
+uJmMI~BfG{,紙,paper,Y,かみ,,,lesson-11
+QM6P?T{o1],和紙,Japanese paper,Y,わし,,,lesson-11
+LQc~BVNUHW,表紙,front cover,Y,ひょうし,,,lesson-11
+o854xVrfQ},好きな,to like,Y,すきな,,,lesson-11
+CK1dc%+)Ld,大好きな,to love,Y,だいすきな,,,lesson-11
+p8jkw~:XZr,好意,good will,Y,こうい,,,lesson-11
+i%4ADd)-M1,好み,liking; taste,Y,このみ,,,lesson-11
+h.m$2k.N!&,好物,favorite food,Y,こうぶつ,,,lesson-11
+"Q6QLWS;i3,",今学期,this semester,Y,こんがっき,,,lesson-11
+yzV84!`3B9,社長,president of a company,Y,しゃちょう,,,lesson-11
+B)&NA@}_LB,授業,class,Y,じゅぎょう,,,lesson-11
+r#Zh=@o<1B,将来,future,Y,しょうらい,,,lesson-11
+"N,@3n$]9Ef",神社,shrine,Y,じんじゃ,,,lesson-11
+f>kbSAUk73,つり,fishing,Y,,,,lesson-11
+GPI@>]iu}m,ドライブ,drive,Y,,,,lesson-11
+n}y[Yw[4Zs,ビール,beer,Y,,,,lesson-11
+"F*W3C,zuW7",美術館,art museum,Y,びじゅつかん,,,lesson-11
+sIN^8BMHu],ホストファミリー,host family,Y,,,,lesson-11
+KZNmr(>;I_,湖,lake,Y,みずうみ,,,lesson-11
+Nj%{E*SuHz,山,mountain,Y,やま,,,lesson-11
+vhVw&ANB8G,夢,dream,Y,ゆめ,,,lesson-11
+"Pya:6,)7i(",ルームメート,roommate,Y,,,,lesson-11
+"F$`R{8`,}#",近く,near; nearby,Y,ちかく,,,lesson-11
+~JQ4JI`xg,近所,neighborhood,Y,きんじょ,,,lesson-11
+O_I6q(94X8,最近,recently,Y,さいきん,,,lesson-11
+psO9zudHql,中近東,the Middle and Near East,Y,ちゅうきんとう,,,lesson-11
+zV#KJil=pu,明るい,cheerful; bright,Y,あかるい,,,lesson-11
+ksn^OgyFxa,明日,tomorrow,Y,あした,,,lesson-11
+xDR6U*96gV,説明,explanation,Y,せつめい,,,lesson-11
+c>y)2ShDjg,発明,invention,Y,はつめい,,,lesson-11
+N9S.|8);6;,文明,civilization,Y,ぶんめい,,,lesson-11
+O$CWM%_#+7,病院,hospital,Y,びょういん,,,lesson-11
+K)GFz`!dc4,病気,illness,Y,びょうき,,,lesson-11
+oWJ1:wojzH,重病,serious illness,Y,じゅうびょう,,,lesson-11
+PTXS5><RQM,急病,sudden illness,Y,きゅうびょう,,,lesson-11
+HM9uy$4Dm@,大学院,graduate school,Y,だいがくいん,,,lesson-11
+P-nU^Ua1lv,美容院,beauty parlor,Y,びよういん,,,lesson-11
+jh>9o$El-T,うそをつく,to tell a lie,Y,,,,lesson-11
+Dg89vq4q2.,おなかがすく,to become hungry,Y,,,,lesson-11
+Mrt/-::w5!,飼う,to own (a pet),Y,かう,,,lesson-11
+hXJ3;MyLq^,サボる,to cut (classes),Y,,,,lesson-11
+KlfIIP{9^I,取る,to take (a class); to get (a grade),Y,とる,,,lesson-11
+uG3nG5jV:(,習う,to learn,Y,ならう,,,lesson-11
+x`j83B>+x3,登る,to climb,Y,のぼる,,,lesson-11
+"i2rX0+Y)u,",働く,to work,Y,はたらく,,,lesson-11
+s])cv#<_n0,疲れる,to get tired,Y,つかれる,,,lesson-11
+QqIQE^g+Jb,やめる,to quit,Y,,,,lesson-11
+"k,lw<~/?0E",けんかする,to have a fight; to quarrel,Y,,,,lesson-11
+dHQ]<~C:Ew,紹介する,to introduce,Y,しょうかいする,,,lesson-11
+LF1u|dFLyQ,ダイエットする,to go on a diet,Y,,,,lesson-11
+Egp%A0&@V!,遅刻する,to be late (for an appointment),Y,ちこくする,,,lesson-11
+CmYs#NeY&2,留学する,to study abroad,Y,りゅうがくする,,,lesson-11
+zNT_0Z:AV9,映画,movie,Y,えいが,,,lesson-11
+J6a5Nq0vJ4,映画館,movie theater,Y,えいがかん,,,lesson-11
+gnBi{3EabL,映る,to be reflected,Y,うつる,,,lesson-11
+J*Qc[*@_F.,画家,painter,Y,がか,,,lesson-11
+P2(S2X;=2z,計画,plan,Y,けいかく,,,lesson-11
+f2t+kKyu(~,漫画,comic,Y,まんが,,,lesson-11
+z#S(q2Z#k`,歌う,to sing,Y,うたう,,,lesson-11
+j_Zk@l%>uX,歌,song,Y,うた,,,lesson-11
+LhttkFfvs-,歌手,singer,Y,かしゅ,,,lesson-11
+o1@dJcfCh:,国歌,national anthem,Y,こっか,,,lesson-11
+y?8E=b@H7L,歌舞伎,Kabuki,Y,かぶき,,,lesson-11
+dQaM(pkm#b,歌詞,lyrics,Y,かし,,,lesson-11
+K<_[p[y:WZ,後,after (an event),Y,あと,,,lesson-11
+BsUjlFn!/3,出身,coming from,Y,しゅっしん,,,lesson-11
+j1PAoo%a{9,そして,and then,Y,,,,lesson-11
+C_[H+7>0wn,～だけ,just...; only...,Y,,,,lesson-11
+Q?+w{QZya<,～点,...points,Y,～てん,,,lesson-11
+m`$zKU;%xa,久しぶり,it has been a long time,Y,ひさしぶり,,,lesson-11
+pGtQvESW*b,まあまあ,okay; so-so,Y,,,,lesson-11
+ik!XIe>e#W,もっと,more,Y,,,,lesson-11
+iqL2=HIe?r,川口市,Kawaguchi City,Y,かわぐちし,,,lesson-11
+bw?o4$JsbF,市役所,city hall,Y,しやくしょ,,,lesson-11
+CoW-UGJaNq,市長,mayor,Y,しちょう,,,lesson-11
+6[v/}E#BI,市場,market,Y,いちば,,,lesson-11
+z>^<E~2fnJ,いろいろな所,various places,Y,いろいろなところ,,,lesson-11
+dwr<6Nb&(G,近所,neighborhood,Y,きんじょ,,,lesson-11
+"gw$E6-{,*N",台所,kitchen,Y,だいどころ,,,lesson-11
+e@M!&ez2O%,住所,address,Y,じゅうしょ,,,lesson-11
+lA-lU+Zu}],勉強する,to study,Y,べんきょうする,,,lesson-11
+bm4k`^h;zY,勉める,to try hard,Y,つとめる,,,lesson-11
+sv&B^ZWo)^,勤勉な,diligent,Y,きんべんな,,,lesson-11
+q(?FJC;Q-f,職業,occupation; business,Y,しょくぎょう,,,lesson-11
+hb8Z%:dBk`,作家,writer,Y,さっか,,,lesson-11
+A2eFsmN$-*,ジャーナリスト,journalist,Y,,,,lesson-11
+s=zX{qvu[H,警察官,police officer,Y,けいさつかん,,,lesson-11
+IPflpFI7l*,俳優,actor; actress,Y,はいゆう,,,lesson-11
+mem$+?^LVX,女優,actress,Y,じょゆう,,,lesson-11
+JqvZQy2cK#,看護師,nurse,Y,かんごし,,,lesson-11
+gux6YX_!}N,消防士,firefighter,Y,しょうぼうし,,,lesson-11
+FP+1JhLQx+,漫画家,cartoonist,Y,まんがか,,,lesson-11
+svW>ZXWdMA,宇宙飛行士,astronaut,Y,うちゅうひこうし,,,lesson-11
+P)CU595{xY,野球選手,baseball player,Y,やきゅうせんしゅ,,,lesson-11
+qIuk_hL>?i,大統領,president of a country,Y,だいとうりょう,,,lesson-11
+"P^J#,j;uBN",勉強する,to study,Y,べんきょうする,,,lesson-11
+Py7JXuOA_%,強い,strong,Y,つよい,,,lesson-11
+g_8K-zErm9,強情な,obstinate,Y,ごうじょうな,,,lesson-11
+D<$:Xty/K},強盗,robbery,Y,ごうとう,,,lesson-11
+"m`iBC+pO:,",強力な,powerful,Y,きょうりょくな,,,lesson-11
+"Lz!!,/*A9Q",有名な,famous,Y,ゆうめいな,,,lesson-11
+m.Qq7l>sSZ,有料,toll; fee,Y,ゆうりょう,,,lesson-11
+b4qD{o]oh9,有る,to exist,Y,ある,,,lesson-11
+xxV+wOKxGi,有能な,talented,Y,ゆうのうな,,,lesson-11
+c0<Lu[}42r,旅行,travel,Y,りょこう,,,lesson-11
+"IW2Z6k{wP,",旅館,inn,Y,りょかん,,,lesson-11
+Q})X:IG[8E,一人旅,traveling alone,Y,ひとりたび,,,lesson-11
+v*_*<1Ag`-,旅券,passport,Y,りょけん,,,lesson-11
