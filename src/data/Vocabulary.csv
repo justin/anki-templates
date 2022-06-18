@@ -91,7 +91,8 @@ c_vzP_`95~,10月,October,Y,じゅうがつ,,,"Genki, Japanese::Counters::月, le
 c.mN`o/5D,十歳,Ten years old,Y,じゅっさい／じっさい,,,"Genki, Kanji_Practice, 九_and_十"
 hZ4z%ybP*2,三百,300 / Three hundred,Y,さんびゃく,,,"Genki, Kanji_Practice, 百"
 b`Uz]AH>)l,にじゅうくにち,29th (of of the month),Y,,,,"Days_16-31, Genki, Japanese::Counters::日, lesson-4, Useful_Expressions"
-MQ7{a}8(*i,さんじゅうにち,30th (of the month),Y,,,,"Days_16-31, Genki, Japanese::Counters::日, lesson-4, Useful_Expressions"
+MQ7{a}8(*i,30日,30th (of the month),Y,"
+さんじゅうにち",,,"Days_16-31, Genki, Japanese::Counters::日, lesson-4, Useful_Expressions"
 DLw+nvJvDO,三千,"3,000 / Three thousand",Y,さんぜん,,,"Genki, Kanji_Practice, 百"
 ILggC<&<?C,八千,"8,000 / Eight thousand",Y,はっせん,,,"Genki, Kanji_Practice, 百"
 Czw6l[}9v(,千円,"1,000 Yen",Y,せんえん,,,"Genki, Kanji_Practice, 百"
@@ -152,7 +153,8 @@ Ev%J1MBc;K,5日,5th (of the month),Y,いつか,,,"Days_1-15, Genki, Japanese::Co
 LtahqENS1b,6日,6th (of the month),Y,"
 むいか",,,"Days_1-15, Genki, Japanese::Counters::日, lesson-4, Useful_Expressions"
 u$l*Q;8WJE,8日,8th (of the month),Y,ようか,,,"Days_1-15, Genki, Japanese::Counters::日, lesson-4, Useful_Expressions"
-GA3!PaVK%F,ここのか,9th (of the month),Y,,,,"Days_1-15, Genki, Japanese::Counters::日, lesson-4, Useful_Expressions"
+GA3!PaVK%F,9日,9th (of the month),Y,"
+ここのか",,,"Days_1-15, Genki, Japanese::Counters::日, lesson-4, Useful_Expressions"
 kX@aor&y`[,10日,10th (of the month),Y,とおか,,,"Days_1-15, Genki, Japanese::Counters::日, lesson-4, Useful_Expressions"
 AX4lwjWHRH,11日,11th (of the month),Y,"
 じゅういちにち",,,"Days_1-15, Genki, Japanese::Counters::日, lesson-4, Useful_Expressions"
@@ -576,7 +578,7 @@ O(3/sh}~nw,短い,short (length),Y,みじかい,,,"Genki, leech, lesson-7, い-a
 f]-T|oK8W~,便利,convenient,Y,べんり(な),,,"Genki, lesson-7, い-adjectives_and_な-adjectives"
 eFtgL:A{Ou,父,father (formal),Y,ちち,,,"Genki, Kanji_Practice, lesson-7, 父_and_母"
 n+tA6i)Z11,お父さん,father,Y,おとうさん,,,"Genki, Kanji_Practice, lesson-7, 父_and_母"
-Cx/Bv]!qGn,父母,father and mother,Y,ふぼ,,,"Genki, Kanji_Practice, lesson-7, 父_and_母"
+Cx/Bv]!qGn,父母,father and mother,Y,ふぼ,,,"Genki, Kanji_Practice, leech, lesson-7, 父_and_母"
 f/O(HNt()(,祖父,my grandfather (formal),Y,そふ,,,"Genki, Kanji_Practice, lesson-7, 父_and_母"
 Ec&`k[T7Wi,母,mother (formal),Y,はは,,,"Genki, Kanji_Practice, lesson-7, 父_and_母"
 i4|ftV{D-.,お母さん,mother,Y,おかあさん,,,"Genki, Kanji_Practice, lesson-7, 父_and_母"
@@ -747,7 +749,7 @@ x`Z|Ee0k23,思う,to think,Y,おもう,,,"Genki, leech, lesson-8, Vocabulary, �
 "JjVpH,f3f_",何か,something,Y,なにか,,,"Genki, lesson-8, Nouns_2, Vocabulary"
 c(4Xm1k8dB,作る,to make,Y,つくる,,,"Genki, Kanji_Practice, lesson-8, 作"
 gssq;l(e&T,喜ぶ,to be glad,Y,よろこぶ,,,"Emotions, Japanese::Verbs"
-yAMcRFw{g=,怒る,to get angry,Y,おこる,,,"Emotions, Japanese::Verbs"
+yAMcRFw{g=,怒る,to get angry,Y,おこる,,,"Emotions, Japanese::Verbs, leech"
 y:`z0c_?%I,悲しむ,to get sad,Y,かなしむ,,,"Emotions, Japanese::Verbs"
 drFA9%C#+_,楽しむ,to enjoy (oneself),Y,たのしむ,,,"Emotions, Japanese::Verbs"
 x*E$oa*Wg8,妬む,to get jealous,Y,ねたむ ,,,"Emotions, Japanese::Verbs"
@@ -878,7 +880,7 @@ G{0d9Q`Ur&,有名な,famous,Y,ゆうめいな,,,"Genki, Kanji_Practice, lesson-9
 fEh@J(sK0[,白,white color,Y,しろ,,,"Genki, Kanji_Practice, lesson-9, 名_and_白"
 kWnsABv=+n,踊る,to dance,Y,おどる,,,"Genki, leech, lesson-9, U-verbs, Vocabulary"
 k--Zt]Z34b,人気がある,to be popular,Y,にんきがある,,,"Genki, lesson-9, U-verbs, Vocabulary"
-xA+x0lge^Y,弾く,to play (a string instrument or piano),Y,ひく,,,"Genki, lesson-9, U-verbs, Vocabulary"
+xA+x0lge^Y,弾く,to play (a string instrument or piano),Y,ひく,,,"Genki, leech, lesson-9, U-verbs, Vocabulary"
 Dg+/WYKSph,もらう,to get (from somebody),Y,,,,"Genki, leech, lesson-9, U-verbs, Vocabulary"
 iMs!;Jwc~#,覚える,to memorize,Y,おぼえる,,,"Genki, lesson-9, U-verbs, Vocabulary"
 "m/(,Fbg.b/",出る,to appear; to attend; to exit,Y,でる,,,"Genki, lesson-9, U-verbs, Vocabulary"
@@ -999,14 +1001,13 @@ Q._FYd#h.7,自動車,automobile,Y,じどうしゃ,,,lesson-10
 FWA-2GEa7L,自転車,bicycle,Y,じてんしゃ,,,lesson-10
 I15e:PB08},自由,freedom,Y,じゆう,,,lesson-10
 E(kEL!gtEY,夜,night,Y,よる,,,lesson-10
-O?(z5Y}Xg/,夜中,middle of night; midnight,Y,よなか,,,lesson-10
+O?(z5Y}Xg/,夜中,middle of night; midnight,Y,よなか,,,"leech, lesson-10"
 rLeWXj9C5e,今夜,tonight,Y,こんや,,,lesson-10
 "A2PO{Q,w2v",夜明け,dawn,Y,よあけ,,,lesson-10
-f,朝,morning,Y,あさ,,,lesson-10
 "vQj#Uq6T,_",今朝,this morning,Y,けさ,,,lesson-10
 s/Cf4Y;wgc,朝食,breakfast,Y,ちょうしょく,,,lesson-10
 "sT<0,]=g^]",毎朝,every morning,Y,まいあさ,,,lesson-10
-Hn_~<tB?bN,持つ,to carry; to hold,Y,もつ,,,lesson-10
+Hn_~<tB?bN,持つ,to carry; to hold,Y,もつ,,,"leech, lesson-10"
 z|I9-*^_<v,持ってくる,to bring,Y,もってくる,,,lesson-10
 tLFg1Eotg,所持品,belongings,Y,しょじひん,,,lesson-10
 hV7dU#4rSm,気持ち,feeling,Y,きもち,,,lesson-10
@@ -1025,7 +1026,6 @@ qA}&cH=Bgk,それに,besides,Y,,,,"Adverbs_and_Expressions, Japanese::Adverbs"
 tjc^T)a8[9,それで,So,Y,,,,"Adverbs_and_Expressions, Japanese::Adverbs, leech"
 I3)#X/E//@,<div>困る</div>,<div>to get in trouble</div>,Y,<div>こまる</div>,,,Japanese::Verbs
 N8j}IT0~>x,<div>おひるね</div>,Nap,Y,,,,Japanese::Nouns
-M@@%UQlI9H,<div>おもちゃ</div>,Toy,Y,,,,Japanese::Nouns
 nIw^-X!5+%,<div>現金</div>,Cash $,,<div>げんきん</div>,,,Japanese::Nouns
 bBNV+g@|vf,キャッシュレス,Cashless,Y,,,,Japanese::Nouns
 "iE,b#bAM,R",<div>クレジットカード</div>,Credit Card,Y,,,,Japanese::Nouns
@@ -1049,12 +1049,9 @@ o@?ewRust+,<div>銃</div>,Guns / Arms,Y,<div>じゅう</div>,,,Japanese::Nouns
 "eHX,$0xl{^",学割,student discount,Y,がくわり,,,lesson-10
 zGuGDt$4[c,片道,one way,Y,かたみち,,,lesson-10
 A4n0[z:v<B,お菓子,snacks; sweets,Y,おかし,,,lesson-11
-t?TVGv3M9D,お正月,New Year's,Y,おしょうがつ,,,lesson-11
-Hd;xIlOGB/,男の子,boy,Y,おとこのこ,,,lesson-11
 n6IVCFo@Bz,お祭り,festival,Y,おまつり,,,lesson-11
-y5UdslewO.,おもちゃ,toy,Y,,,,lesson-11
+y5UdslewO.,おもちゃ,toy,Y,,,,"Japanese::Nouns, lesson-11"
 sQ|)!(O7b),温泉,spa; hot spring,Y,おんせん,,,lesson-11
-I/xF%cb)DU,女の子,girl,Y,おんなのこ,,,lesson-11
 DL=zscrEpB,外国,foreign country,Y,がいこく,,,lesson-11
 C/4p_x-D>~,歌手,singer,Y,かしゅ,,,lesson-11
 o7Zl.?]<6w,川,river,Y,かわ,,,lesson-11
@@ -1173,3 +1170,4 @@ c0<Lu[}42r,旅行,travel,Y,りょこう,,,lesson-11
 "IW2Z6k{wP,",旅館,inn,Y,りょかん,,,lesson-11
 Q})X:IG[8E,一人旅,traveling alone,Y,ひとりたび,,,lesson-11
 v*_*<1Ag`-,旅券,passport,Y,りょけん,,,lesson-11
+NjzKUk8(:z,ワクワク,Excitement,Y,,,,Japanese::Nouns
