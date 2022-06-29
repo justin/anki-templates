@@ -33,7 +33,7 @@ deck_configurations:
     order: 1
     perDay: 10
   newGatherPriority: 0
-  newMix: 0
+  newMix: 1
   newPerDayMinimum: 0
   newSortOrder: 0
   replayq: false
