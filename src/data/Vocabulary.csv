@@ -1231,17 +1231,29 @@ BW?3>4o#a5,景色, scenery,Y,けしき,,,lesson-12
 xbdF@pJH~o,特色, characteristic,Y,とくしょく,,,lesson-12
 dbJE$_yX@],大会,Tournament,Y,たいかい,,,Japanese::Nouns
 c0?C!`#@~[,血,Blood,Y,ち,,,Japanese::Nouns
-z4I4lr7[v9,ライン,Line,,,,,Japanese::Names
-djPrb/HDh],インスタグラム,Instagram,,,,,Japanese::Names
-"C,@X]YM5~K",ティックトック,TikTok,,,,,Japanese::Names
-"b52Bxp,3$G",フェイスブック,Facebook,,,,,Japanese::Names
-A()?&qBxjk,ツィッター,Twitter,,,,,Japanese::Names
-"f.v-b,=k4&",最低,Worst,,さいてい,,,Japanese::Adjectives
-pB7tiQ+TVB,最強,Strongest,,さいきょう,,,Japanese::Adjectives
-sl9`@|[:4K,最弱,Weakest,,さいじゃく,,,Japanese::Adjectives
-"nQ`O,FmP;^",最大,Biggest,,さいだい ,,,Japanese::Adjectives
-"CWLb0,t.zo",最小,Smallest,,さいしょう,,,Japanese::Adjectives
-L_Mhi~.JRe,最初,First,,さいしょ,,,Japanese::Adjectives
-",5,!A,_.u",最後,Last,,さいご,,,Japanese::Adjectives
-fX{0NRFt_b,最愛,Beloved,,さいあい,,,Japanese::Adjectives
-M~A5m|%vMN,目茶苦茶,absurd / unreasonable / nonsensical / preposterous / incoherent,,めちゃくちゃ,,,Japanese::Adjectives
+z4I4lr7[v9,ライン,Line,,,,,"Japanese::Names, Japanese::Katakana"
+djPrb/HDh],インスタグラム,Instagram,,,,,"Japanese::Names, Japanese::Katakana"
+"C,@X]YM5~K",ティックトック,TikTok,,,,,"Japanese::Names, Japanese::Katakana"
+"b52Bxp,3$G",フェイスブック,Facebook,,,,,"Japanese::Names, Japanese::Katakana"
+A()?&qBxjk,ツィッター,Twitter,,,,,"Japanese::Names, Japanese::Katakana"
+"f.v-b,=k4&",最低,Worst,Y,さいてい,,,Japanese::Adjectives
+pB7tiQ+TVB,最強,Strongest,Y,さいきょう,,,Japanese::Adjectives
+sl9`@|[:4K,最弱,Weakest,Y,さいじゃく,,,Japanese::Adjectives
+"nQ`O,FmP;^",最大,Biggest,Y,さいだい ,,,Japanese::Adjectives
+"CWLb0,t.zo",最小,Smallest,Y,さいしょう,,,Japanese::Adjectives
+L_Mhi~.JRe,最初,First,Y,さいしょ,,,Japanese::Adjectives
+",5,!A,_.u",最後,Last,Y,さいご,,,Japanese::Adjectives
+fX{0NRFt_b,最愛,Beloved,Y,さいあい,,,Japanese::Adjectives
+M~A5m|%vMN,目茶苦茶,absurd / unreasonable / nonsensical / preposterous / incoherent,Y,めちゃくちゃ,,,Japanese::Adjectives
+zDznHY|5A/,大事,Important,Y,だいじ,,,Japanese::Adjectives
+"s,H`L*yhqV",記事,Article,Y,きじ,,,Japanese::Nouns
+dWid.>?Np/,事件,Incident,Y,じけん,,,Japanese::Nouns
+n1EdGbsm7A,事故,Accident,Y,じこ,,,Japanese::Nouns
+u_`RTU]TJ1,空事,Lie,Y,そらごと,,,Japanese::Nouns
+Gu~.i{WV]5,ハードコア,Hardcore (Music),,,,,"Japanese::Katakana, Japanese::Music, Japanese::Nouns"
+dKaGVbC&#r,オルタナティブ,Alternative (Music),,,,,"Japanese::Katakana, Japanese::Music, Japanese::Nouns"
+Q(&v!3e0tU,カントリ,Country (Music),,,,,"Japanese::Katakana, Japanese::Music, Japanese::Nouns"
+rXDrfyg-5%,クラシック,Classic (Music),,,,,"Japanese::Katakana, Japanese::Music, Japanese::Nouns"
+oTv*.5(upA,サンバ,Samba (Music),,,,,"Japanese::Katakana, Japanese::Music, Japanese::Nouns"
+b4~mEF}@1E,ブルース,Blues (Music),,,,,"Japanese::Katakana, Japanese::Music, Japanese::Nouns"
+KH=sx`zcT%,ソウル,Soul (Music),,,,,"Japanese::Katakana, Japanese::Music, Japanese::Nouns"
