@@ -106,10 +106,10 @@ LY8kC8^0`.,气,84,4,(None)<br>Example: 気 汽 氧,"Steam, Breath",きがまえ,
 G@;WxL6R_J,青,174,8,靑<br>Example: 靕 靖 靜,"Green, Blue",あお・あおへん,Japanese::Kanji::Radicals
 f?xVD>%(#<,毋,80,4,母、⺟<br>Example: 毋 母 毎 姆 梅,Do Not; Mother,毋: なし・なかれ 母: はは・ははのかん,Japanese::Kanji::Radicals
 IS_tcq|Z<;,弋,56,3,(None)<br>Example: 式弑,"Ceremony, Shoot, Arrow",しきがまえ・いぐるみ,"Japanese::Kanji::Radicals, leech"
-nJZEcX?N@m,疋,103,5,⺪<br>Example: 疏 楚 胥 延,Bolt Of Cloth,ひき・ひきへん,Japanese::Kanji::Radicals
+nJZEcX?N@m,疋,103,5,⺪<br>Example: 疏 楚 胥 延,Bolt Of Cloth,ひき・ひきへん,"Japanese::Kanji::Radicals, leech"
 "gZTc!i<y@,",黄,201,12,黃<br>Example: 黊 黌,Yellow,き・きいろ,Japanese::Kanji::Radicals
 zvKz98EYGW,自,132,6,(None)<br>Example: 自 臫 臬 臲,OneSelf,みずから,Japanese::Kanji::Radicals
-C#<wNS}zbt,支,65,4,(None)<br>Example: 攱攲,Branch,し・しにょう・えだにょう・じゅうまた,Japanese::Kanji::Radicals
+C#<wNS}zbt,支,65,4,(None)<br>Example: 攱攲,Branch,し・しにょう・えだにょう・じゅうまた,"Japanese::Kanji::Radicals, leech"
 MHM8Paaldw,方,70,4,(None)<br>Example: 方 放 旅 族,"Way, Square, Raft",ほう・ほうへん・かた・かたへん,"Japanese::Kanji::Radicals, leech"
 gV>#e{g4ss,谷,150,7,(None)<br>Example: 谿 豀 谸,Valley,たに・たにへん,Japanese::Kanji::Radicals
 rD&&eV[%1=,行,144,6,(None)<br>Example: 行 衍 術 衝,"Go, Do",ぎょう・ぎょうがまえ・いく・ゆきがまえ,Japanese::Kanji::Radicals
@@ -124,7 +124,7 @@ kum{#q#*h:,己,49,3,已、巳<br>Example: 己巳,Myself,おのれ・き・つち
 kD?ev9wgm/,丨,2,1,(None)<br>Example: 中,Line,ぼう・たてぼう,Japanese::Kanji::Radicals
 P:/F%5WYFT,矢,111,5,(None)<br>Example: 医 族 矩,Arrow,や・やへん,Japanese::Kanji::Radicals
 I*+[&4ww!x,彡,59,3,(None)<br>Example: 形彦,"Hair, Bristle, Stubble, Beard",さん・さんづくり,Japanese::Kanji::Radicals
-fVZe{CT!.X,比,81,4,(None)<br>Example: 皆 批 毕 毖 毘 毚,"Compare, Compete",ひ・くらべる・ならびひ,Japanese::Kanji::Radicals
+fVZe{CT!.X,比,81,4,(None)<br>Example: 皆 批 毕 毖 毘 毚,"Compare, Compete",ひ・くらべる・ならびひ,"Japanese::Kanji::Radicals, leech"
 Ant]*2>HGm,色,139,6,(None)<br>Example: 色 艴 艷,"Colour, Prettiness",いろ,Japanese::Kanji::Radicals
 sXi:hRXtrA,入,11,2,𠆢<br>Example: 入全兩,Enter,いる・にゅう・いりがしら・いりやね,Japanese::Kanji::Radicals
 o4iz5CTI.d,文,67,4,(None)<br>Example: 文 斊 斈 斌 斐 斑 斕,"Script, Literature",ぶん・ぶんにょう,Japanese::Kanji::Radicals
@@ -146,7 +146,7 @@ nH=T[o!AOm,聿,129,6,⺻<br>Example: 律 書 建,Brush,ふで・ふでづくり,
 za{NJV*O{y,高,189,10,髙<br>Example: 髚 髛,"Tall, High",たかい,Japanese::Kanji::Radicals
 x`Faop%M#F,甘,99,5,(None)<br>Example: 柑 甜 酣,Sweet,あまい・かん,Japanese::Kanji::Radicals
 HUR]D]N|xy,舌,135,6,(None)<br>Example: 乱 适 話 舍,Tongue,した・したへん,Japanese::Kanji::Radicals
-ghGn}G^Ag9,矛,110,5,(None)<br>Example: 茅 矜,"Spear, Pike",ほこ・ほこへん・むのほこ,Japanese::Kanji::Radicals
+ghGn}G^Ag9,矛,110,5,(None)<br>Example: 茅 矜,"Spear, Pike",ほこ・ほこへん・むのほこ,"Japanese::Kanji::Radicals, leech"
 d^Dd:]_fU[,舟,137,6,(None)<br>Example: 航 船 艦,Boat,ふね・ふねへん,Japanese::Kanji::Radicals
 dSy/G(9tr8,鳥,196,11,(None)<br>Example: 鳫 鳮 鳱 鳳 鳴 鳿 雞 鳴 鴻 鴛,Bird,とり・とりへん,Japanese::Kanji::Radicals
 uyoP8sJq5r,魚,195,11,(None)<br>Example: 鯉 鮑 魛 魜 魝 魞 魟 魠,Fish,うお・うおへん・さかな,Japanese::Kanji::Radicals
@@ -184,7 +184,7 @@ hh.;l^g[O|,牙,92,4,(None)<br>Example: 芽 呀 牚,Fang,きば・きばへん,Ja
 "l8&ALa,qC2",凵,17,2,(None)<br>Example: 凶出函,"Container, Open Mouth",かんにょう・うけばこ・かんがまえ,Japanese::Kanji::Radicals
 vkwr]>9*TR,屮,45,3,(None)<br>Example: 屯,Sprout,くさのめ・めばえ・てつ,Japanese::Kanji::Radicals
 Kb}]dt!aF^,缶,121,6,(None)<br>Example: 缶 缸 窑 陶,"Can, Earthenware Jar",ほとぎ・ほとぎへん,Japanese::Kanji::Radicals
-j91.XoXrDN,玄,95,5,(None)<br>Example: 弦玆,"Dark, Profound",げん,Japanese::Kanji::Radicals
+j91.XoXrDN,玄,95,5,(None)<br>Example: 弦玆,"Dark, Profound",げん,"Japanese::Kanji::Radicals, leech"
 p<dFkp2Z}],龍,212,16,竜<br>Example: 龖 龘,Dragon,りゅう,Japanese::Kanji::Radicals
 "CysZ}le-,w",龜,213,16,亀<br>Example: 龝,"Turtle, Tortoise",かめ,Japanese::Kanji::Radicals
 nPK6icF)7I,无,71,4,旡<br>Example: 无 旡 既 旣,Have Not,む・むにょう・すでのつくり,Japanese::Kanji::Radicals

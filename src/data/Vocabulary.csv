@@ -421,7 +421,7 @@ Q%enTJ[w+y,人気,popularity,Y,にんき,,,"Genki, Kanji_Practice, leech, lesson
 I/1iS[6@jW,天国,heaven,Y,てんごく,,,"Genki, Kanji_Practice, leech, lesson-5, 気"
 l3uIo9n06,天才,genius,Y,てんさい,,,"Genki, Kanji_Practice, lesson-5, 気"
 L@/FdV]7iM,私,I,Y,わたし,,,"duplicate, Genki, Kanji_Practice, lesson-5, 気"
-JMqVAj}DmQ,私立大学,private university,Y,しりつだいがく,,,"Genki, Kanji_Practice, leech, lesson-5, 気"
+JMqVAj}DmQ,私立大学,private university,Y,しりつだいがく,,,"Genki, Kanji_Practice, leech, lesson-5, to-delete, 気"
 o1XN*zJbWa,私鉄,private railroad,Y,してつ,,,"Genki, Kanji_Practice, lesson-5, 気"
 nu`<|vB%xt,田中さん,Mr./Ms. Tanaka,Y,たなかさん,,,"Genki, Kanji_Practice, lesson-5, 今_and_田"
 F!_VkP2D1Z,山田さん,Mr./Ms. Yamada,Y,やまださん,,,"Genki, Kanji_Practice, lesson-5, 今_and_田"
@@ -696,7 +696,7 @@ uY8DvPI5%<,店員,store clerk,Y,てんいん,,,"Genki, Kanji_Practice, lesson-8,
 f%)?LK2xS3,駅員,station staff,Y,えきいん,,,"Genki, Kanji_Practice, leech, lesson-8, 員"
 ONpDGC>w:r,新聞,newspaper,Y,しんぶん,,,"Genki, Kanji_Practice, lesson-8, 員"
 x6`;Dwtp+-,新幹線,Bullet Train,Y,しんかんせん,,,"duplicate, Genki, Kanji_Practice, lesson-8, 員"
-yPZ&5@#[1=,新鮮な,fresh,Y,しんせんな,,,"Genki, Kanji_Practice, lesson-8, 員"
+yPZ&5@#[1=,新鮮な,fresh,Y,しんせんな,,,"Genki, Kanji_Practice, leech, lesson-8, 員"
 elwp<:$|3K,聞こえる,can be heard,Y,きこえる,,,"Genki, Kanji_Practice, lesson-8, 員"
 K.bqAIq7dL,天気予報,weather forecast,Y,てんきよほう,,,"Genki, leech, lesson-8, Nouns_2, Vocabulary"
 b9Ri8H&qI^,所,place,Y,ところ,,,"Genki, leech, lesson-8, Nouns_2, Vocabulary"
@@ -737,7 +737,7 @@ qhxM3cb-h_,読書,reading (books),Y,どくしょ,,,"Genki, Kanji_Practice, leech
 JRE5<j/9ir,ううん,uh-uh; no,Y,,,,"Adverbs_and_Other_Expressions, Genki, lesson-8, Vocabulary"
 F_DI]nL!DP,めしや,Diner,Y,,,,Japanese::Nouns
 Joo%1@XcV7,<div><div>夕食</div></div>,Evening meal / dinner (formal),Y,"<span style=""color: rgb(34, 34, 34);"">ゆう</span><span style=""color: rgb(34, 34, 34);"">しょく</span>",,A more formal way of saying dinner (like you are eating out at a restraurant),"leech, Meals"
-k?FP@)7gB.,<div><div>昼食</div></div>,Lunch / midday meal (formal),Y,"<span style=""color: rgb(34, 34, 34);"">ちゅう</span><span style=""color: rgb(34, 34, 34);"">しょく</span>",,A more formal way to say lunch. Like eating out at a restaurant.,Meals
+k?FP@)7gB.,<div><div>昼食</div></div>,Lunch / midday meal (formal),Y,"<span style=""color: rgb(34, 34, 34);"">ちゅう</span><span style=""color: rgb(34, 34, 34);"">しょく</span>",,A more formal way to say lunch. Like eating out at a restaurant.,"leech, Meals"
 qlrMOnN[gb,関東,Kanto area,Y,かんとう,,,"Genki, Kanji_Practice, lesson-6, 東_and_西"
 j1JZ_M3U!Q,関西,Kansai area,Y,かんさい,,,"Genki, Kanji_Practice, lesson-6, 東_and_西"
 ctMA45D>Cc,二つ目の角を左に曲がる,Turn left at the second corner,Y,ふたつめのかどをひだりにまがる,,,"Directions, Genki, lesson-6, Useful_Expressions"
@@ -750,12 +750,12 @@ yAMcRFw{g=,怒る,to get angry,Y,おこる,,,"Emotions, Japanese::Verbs, leech"
 y:`z0c_?%I,悲しむ,to get sad,Y,かなしむ,,,"Emotions, Japanese::Verbs"
 drFA9%C#+_,楽しむ,to enjoy (oneself),Y,たのしむ,,,"Emotions, Japanese::Verbs"
 x*E$oa*Wg8,妬む,to get jealous,Y,ねたむ ,,,"Emotions, Japanese::Verbs"
-ptVK;9^ZsO,驚く,to get surprised,Y,おどろく ,,,"Emotions, Japanese::Verbs"
+ptVK;9^ZsO,驚く,to get surprised,Y,おどろく ,,,"Emotions, Japanese::Verbs, leech"
 j*q;U.xdTW,苦しむ,to suffer,Y,くるしむ,,,"Emotions, Japanese::Verbs"
 D!y{K=-S}+,悩む,to worry,Y,なやむ,,,"Emotions, Japanese::Verbs"
 x2wA[aK!(7,戸惑う,to get confused,Y,とまどう,,,"Emotions, Japanese::Verbs"
 y92h]nv*Qk,まがる,To turn,Y,,,,Japanese::Verbs
-E6(/x|hJ2M,涼しい,Cool,Y,すずしい,,,"duplicate, Japanese::Adjectives"
+E6(/x|hJ2M,涼しい,Cool,Y,すずしい,,,"duplicate, Japanese::Adjectives, to-delete"
 n9]TidN/ie,風,Wind,Y,かぜ,,,Japanese::Adjectives
 rn-RBYt~_>,太陽,Sun,Y,たいよう,,,Japanese::Adjectives
 u2k+0mO~6*,強い,Strong,Y,つよい,,,Japanese::Adjectives
@@ -975,7 +975,7 @@ zGuGDt$4[c,片道,one way,Y,かたみち,,,lesson-10
 pzS>//a/!K,長男,the eldest son,Y,ちょうなん,,,lesson-10
 j^5dnW<Mg@,社長,company president,Y,しゃちょう,,,"duplicate, leech, lesson-10"
 "j;QR,Fo?t4",道,way; road,Y,みち,,,lesson-10
-piP-?XF)LS,書道,calligraphy,Y,しょどう,,,lesson-10
+piP-?XF)LS,書道,calligraphy,Y,しょどう,,,"leech, lesson-10"
 mANnv/*m25,柔道,judo,Y,じゅうどう,,,lesson-10
 oHEuj-lOkj,北海道,Hokkaido,Y,ほっかいどう,,,"duplicate, Japanese::Cities, lesson-10"
 JM7>c{YQHv,雪,snow,Y,ゆき,,,lesson-10
@@ -994,7 +994,7 @@ rLeWXj9C5e,今夜,tonight,Y,こんや,,,lesson-10
 s>c_ej`Sm(,朝,morning,Y,あさ,,,"duplicate, lesson-10"
 "sT<0,]=g^]",毎朝,every morning,Y,まいあさ,,,lesson-10
 Hn_~<tB?bN,持つ,to carry; to hold,Y,もつ,,,"leech, lesson-10"
-tLFg1Eotg,所持品,belongings,Y,しょじひん,,,lesson-10
+tLFg1Eotg,所持品,belongings,Y,しょじひん,,,"leech, lesson-10"
 hV7dU#4rSm,気持ち,feeling,Y,きもち,,,"duplicate, lesson-10"
 I3)#X/E//@,<div>困る</div>,<div>to get in trouble</div>,Y,<div>こまる</div>,,,Japanese::Verbs
 N8j}IT0~>x,<div>おひるね</div>,Nap,Y,,,,Japanese::Nouns
@@ -1030,7 +1030,7 @@ uJmMI~BfG{,紙,paper,Y,かみ,,,lesson-11
 QM6P?T{o1],和紙,Japanese paper,Y,わし,,,lesson-11
 LQc~BVNUHW,表紙,front cover,Y,ひょうし,,,lesson-11
 o854xVrfQ},好きな,to like,Y,すきな,,,lesson-11
-CK1dc%+)Ld,大好きな,to love,Y,だいすきな,,,lesson-11
+CK1dc%+)Ld,大好きな,to love,Y,だいすきな,,,"duplicate, lesson-11, to-delete"
 p8jkw~:XZr,好意,good will,Y,こうい,,,lesson-11
 i%4ADd)-M1,好み,liking; taste,Y,このみ,,,lesson-11
 h.m$2k.N!&,好物,favorite food,Y,こうぶつ,,,lesson-11
