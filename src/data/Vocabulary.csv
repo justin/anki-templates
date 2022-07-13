@@ -539,7 +539,7 @@ udaMTT1rea,結構です,That would be fine.; That wouldn't be necessary.&nbsp;<b
 eFtgL:A{Ou,父,father (formal),Y,ちち,,,"duplicate, Genki, Kanji_Practice, lesson-7, 父_and_母"
 FQ%#k:tyE-,すぐ,right away,Y,,,,"Adverbs_and_Other_Expressions, Genki, leech, lesson-6"
 n+tA6i)Z11,お父さん,father,Y,おとうさん,,,"Genki, Kanji_Practice, lesson-7, 父_and_母"
-v(iKu:!aT=,本当ですか,Really?,Y,"<span style=""color: rgb(34, 34, 34);"">ほん</span><span style=""color: rgb(34, 34, 34);"">とう</span>ですか",,,"Adverbs_and_Other_Expressions, Genki, lesson-6"
+v(iKu:!aT=,本当ですか,Really?,Y,ほんとうですか,,,"Adverbs_and_Other_Expressions, Genki, lesson-6"
 Cx/Bv]!qGn,父母,father and mother,Y,ふぼ,,,"Genki, Kanji_Practice, leech, lesson-7, 父_and_母"
 MX4L8@*ezX,ゆっくり,slowly; leisurely; unhurriedly,Y,,,,"Adverbs_and_Other_Expressions, Genki, lesson-6"
 f/O(HNt()(,祖父,my grandfather (formal),Y,そふ,,,"Genki, Kanji_Practice, lesson-7, 父_and_母"
@@ -736,8 +736,8 @@ qhxM3cb-h_,読書,reading (books),Y,どくしょ,,,"Genki, Kanji_Practice, leech
 "L$paWAPmK,",いつも,always,Y,,,,"Adverbs_and_Other_Expressions, Genki, lesson-8, Vocabulary"
 JRE5<j/9ir,ううん,uh-uh; no,Y,,,,"Adverbs_and_Other_Expressions, Genki, lesson-8, Vocabulary"
 F_DI]nL!DP,めしや,Diner,Y,,,,Japanese::Nouns
-Joo%1@XcV7,<div><div>夕食</div></div>,Evening meal / dinner (formal),Y,"<span style=""color: rgb(34, 34, 34);"">ゆう</span><span style=""color: rgb(34, 34, 34);"">しょく</span>",,A more formal way of saying dinner (like you are eating out at a restraurant),"leech, Meals"
-k?FP@)7gB.,<div><div>昼食</div></div>,Lunch / midday meal (formal),Y,"<span style=""color: rgb(34, 34, 34);"">ちゅう</span><span style=""color: rgb(34, 34, 34);"">しょく</span>",,A more formal way to say lunch. Like eating out at a restaurant.,"leech, Meals"
+Joo%1@XcV7,<div><div>夕食</div></div>,Evening meal / dinner (formal),Y,ゆうしょく,,A more formal way of saying dinner (like you are eating out at a restraurant),"leech, Meals"
+k?FP@)7gB.,<div><div>昼食</div></div>,Lunch / midday meal (formal),Y,ちゅうしょく,,A more formal way to say lunch. Like eating out at a restaurant.,"leech, Meals"
 qlrMOnN[gb,関東,Kanto area,Y,かんとう,,,"Genki, Kanji_Practice, lesson-6, 東_and_西"
 j1JZ_M3U!Q,関西,Kansai area,Y,かんさい,,,"Genki, Kanji_Practice, lesson-6, 東_and_西"
 ctMA45D>Cc,二つ目の角を左に曲がる,Turn left at the second corner,Y,ふたつめのかどをひだりにまがる,,,"Directions, Genki, lesson-6, Useful_Expressions"
@@ -892,9 +892,9 @@ F/{m@$jg|!,<div>さいきん</div>,Recently,Y,,,,lesson-11
 cdt^*5JQE8,<div>芝生</div>,Grass (Lawn),Y,<div>しばふ</div>,,,Japanese::Nouns
 Mal^!|K.H=,おなかがすく,I am hungry,Y,,,,"duplicate, Japanese::Phrases"
 cJ&pwK29-y,歩く,To walk,Y,あるく,,,"duplicate, Japanese::Verbs, leech"
-c><y}2tKR&,"<span style=""color: rgb(34, 34, 34);"">掛</span><span style=""color: rgb(34, 34, 34);"">け</span><span style=""color: rgb(34, 34, 34);"">る</span>","<span style=""color: rgb(34, 34, 34);"">to put on (e.g. a blanket); to put on top of; to cover; to lay; to spread</span>",Y,かける,,,Japanese::Verbs
+c><y}2tKR&,掛ける,to put on (e.g. a blanket); to put on top of; to cover; to lay; to spread,Y,かける,,,Japanese::Verbs
 eCfzi|f(l0,<div>ソファー</div>,Couch / Sofa,Y,,,,Japanese::Nouns
-D@y;~z/UcE,<div>つかっている</div>,Is using,Y,,,,Japanese::Verbs
+D@y;~z/UcE,つかっている,Is using,Y,,,,Japanese::Verbs
 ObXfKK$l$],<div>つかう</div>,Use,Y,,,,Japanese::Nouns
 6]!^^R63P,<div>もう…ましたか</div>,Have you already done?,Y,,,,Japanese::Phrases
 tTmRZl3-cV,そして,and,Y,,,,"Adverbs_and_Expressions, duplicate, Japanese::Adverbs"
@@ -996,7 +996,7 @@ s>c_ej`Sm(,朝,morning,Y,あさ,,,"duplicate, lesson-10"
 Hn_~<tB?bN,持つ,to carry; to hold,Y,もつ,,,"leech, lesson-10"
 tLFg1Eotg,所持品,belongings,Y,しょじひん,,,"leech, lesson-10"
 hV7dU#4rSm,気持ち,feeling,Y,きもち,,,"duplicate, lesson-10"
-I3)#X/E//@,<div>困る</div>,<div>to get in trouble</div>,Y,<div>こまる</div>,,,Japanese::Verbs
+I3)#X/E//@,困る,to get in trouble,Y,こまる,,,Japanese::Verbs
 N8j}IT0~>x,<div>おひるね</div>,Nap,Y,,,,Japanese::Nouns
 nIw^-X!5+%,<div>現金</div>,Cash $,,<div>げんきん</div>,,,Japanese::Nouns
 bBNV+g@|vf,キャッシュレス,Cashless,Y,,,,Japanese::Nouns
