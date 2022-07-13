@@ -2,33 +2,33 @@ name: Verb Conjugations
 id: eb2465a0-1325-11ec-813b-acde48001122
 css_file: src/shared/_foundation.css
 fields:
-- name: Expression
-  font: IPAexGothic
-- name: Meaning
-- name: Kana
-  font: IPAexGothic
-- name: Stem
-  font: IPAexGothic
-- name: Dictionary Form
-  font: IPAexGothic
-- name: Present Affirmative
-  font: IPAexGothic
-- name: Present Negative
-  font: IPAexGothic
-- name: Past Affirmative
-  font: IPAexGothic
-- name: Past Negative
-  font: IPAexGothic
-- name: Volitional Form
-  font: IPAexGothic
-- name: Te Form
-  font: IPAexGothic
-- name: Mnemonic
-- name: Notes
+  - name: Expression
+    font: IPAexGothic
+  - name: Meaning
+  - name: Kana
+    font: IPAexGothic
+  - name: Stem
+    font: IPAexGothic
+  - name: Dictionary Form
+    font: IPAexGothic
+  - name: Present Affirmative
+    font: IPAexGothic
+  - name: Present Negative
+    font: IPAexGothic
+  - name: Past Affirmative
+    font: IPAexGothic
+  - name: Past Negative
+    font: IPAexGothic
+  - name: Volitional Form
+    font: IPAexGothic
+  - name: Te Form
+    font: IPAexGothic
+  - name: Mnemonic
+  - name: Notes
 templates:
-- name: Dictionary Form
-  html_file: src/note_models/Verb Conjugations/Dictionary Form.html
-- name: Te Form
-  html_file: src/note_models/Verb Conjugations/Te Form.html
-- name: Volitional Form
-  html_file: src/note_models/Verb Conjugations/Volitional Form.html
+  - name: Dictionary Form
+    html_file: src/note_models/Verb Conjugations/Dictionary Form.html
+  - name: Te Form
+    html_file: src/note_models/Verb Conjugations/Te Form.html
+  - name: Volitional Form
+    html_file: src/note_models/Verb Conjugations/Volitional Form.html

@@ -12,6 +12,9 @@ python = "^3.9"
 Brain-Brew = "^0.3.6"
 pylint = "^2.14.4"
 autopep8 = "^1.6.0"
+JapaneseVerbConjugator = "^1.0.1"
+PyKatsuyou = "^1.1.0"
+pandas = "^1.4.3"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

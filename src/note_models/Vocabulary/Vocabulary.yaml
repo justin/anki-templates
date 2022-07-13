@@ -2,20 +2,35 @@ name: Vocabulary
 id: eb20977c-1325-11ec-813b-acde48001122
 css_file: src/shared/_foundation.css
 fields:
-- name: Expression
-  font: IPAexGothic
-- name: Meaning
-- name: Add Reverse?
-- name: Kana
-  font: IPAexGothic
-- name: Mnemonic
-- name: Notes
+  - name: Expression
+    font: IPAexGothic
+  - name: Meaning
+  - name: Add Reverse?
+  - name: Kana
+    font: IPAexGothic
+  - name: Dictionary Form
+    font: IPAexGothic
+  - name: Present Affirmative
+    font: IPAexGothic
+  - name: Present Negative
+    font: IPAexGothic
+  - name: Past Affirmative
+    font: IPAexGothic
+  - name: Past Negative
+    font: IPAexGothic
+  - name: Volitional Form
+    font: IPAexGothic
+  - name: Te Form
+    font: IPAexGothic
+  - name: Mnemonic
+  - name: Notes
+
 templates:
-- name: Recognition
-  html_file: src/note_models/Vocabulary/Recognition.html
-- name: Reverse
-  html_file: src/note_models/Vocabulary/Reverse.html
+  - name: Recognition
+    html_file: src/note_models/Vocabulary/Recognition.html
+  - name: Reverse
+    html_file: src/note_models/Vocabulary/Reverse.html
 tags:
-- Genki
-- Vocabulary
-- な-adjectives
+  - Genki
+  - Vocabulary
+  - な-adjectives

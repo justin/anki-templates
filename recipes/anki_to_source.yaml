@@ -11,26 +11,27 @@
         part_id: deck_media
         source: build/Japanese
         recursive: true
+
 - save_media_groups_to_folder:
     parts:
       - deck_media
     folder: src/media/
     clear_folder: true
     recursive: true
+
 - generate_csvs:
     notes: deck_notes
     file_mappings:
       - file: src/data/Vocabulary.csv
         note_model: Vocabulary
+        derivatives:
+          - file: src/data/Verb Conjugations.csv
       - file: src/data/Japanese - Kanji.csv
         note_model: Japanese - Kanji
       - file: src/data/kanji_radicals.csv
         note_model: Japanese - Radicals
-      - file: src/data/Verb Conjugations.csv
-        note_model: Verb Conjugations
     note_model_mappings:
       - note_models:
           - Vocabulary
           - Japanese - Kanji
           - Japanese - Radicals
-          - Verb Conjugations
