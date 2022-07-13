@@ -1,39 +1,36 @@
 - build_parts:
-  - headers_from_crowd_anki:
-      part_id: deck_headers
-      source: build/Japanese
-  - notes_from_crowd_anki:
-      part_id: deck_notes
-      source: build/Japanese
-  - note_models_all_from_crowd_anki:
-      source: build/Japanese
-  - media_group_from_crowd_anki:
-      part_id: deck_media
-      source: build/Japanese
-      recursive: true
+    - headers_from_crowd_anki:
+        part_id: deck_headers
+        source: build/Japanese
+    - notes_from_crowd_anki:
+        part_id: deck_notes
+        source: build/Japanese
+    - note_models_all_from_crowd_anki:
+        source: build/Japanese
+    - media_group_from_crowd_anki:
+        part_id: deck_media
+        source: build/Japanese
+        recursive: true
 - save_media_groups_to_folder:
     parts:
-    - deck_media
+      - deck_media
     folder: src/media/
     clear_folder: true
     recursive: true
 - generate_csvs:
     notes: deck_notes
     file_mappings:
-    - file: src/data/Sentences.csv
-      note_model: Sentences
-    - file: src/data/Vocabulary.csv
-      note_model: Vocabulary
-    - file: src/data/Japanese - Kanji.csv
-      note_model: Japanese - Kanji
-    - file: src/data/kanji_radicals.csv
-      note_model: Japanese - Radicals
-    - file: src/data/Verb Conjugations.csv
-      note_model: Verb Conjugations
+      - file: src/data/Vocabulary.csv
+        note_model: Vocabulary
+      - file: src/data/Japanese - Kanji.csv
+        note_model: Japanese - Kanji
+      - file: src/data/kanji_radicals.csv
+        note_model: Japanese - Radicals
+      - file: src/data/Verb Conjugations.csv
+        note_model: Verb Conjugations
     note_model_mappings:
-    - note_models:
-      - Sentences
-      - Vocabulary
-      - Japanese - Kanji
-      - Japanese - Radicals
-      - Verb Conjugations
+      - note_models:
+          - Vocabulary
+          - Japanese - Kanji
+          - Japanese - Radicals
+          - Verb Conjugations
