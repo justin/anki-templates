@@ -125,7 +125,7 @@ P8NB{Hbe9K,牛,Cow,ぎゅう,うし,,,,"Japanese::Kanji::Grade_2, leech"
 x%Uz_KT61E,父,Father,ふ,ちち,,,,Japanese::Kanji::Grade_2
 Insj(f_N/^,毛,"Fur, Hair, Feather, Down",もう,け,,,,"Japanese::Kanji::Grade_2, leech"
 llx.]pisIu,止,Stop / Halt,し,"とまる, -どまり, とめる, -とめる, -どめ, とどめる, とどめ, とどまる, やめる, やむ, -やむ, よす, -さす, -さし",,,,"Japanese::Kanji::Grade_2, leech"
-"HWd|7,Rjmz",兄,"Elder Brother, Big Brother","けい, きょう",あに,,,,Japanese::Kanji::Grade_2
+"HWd|7,Rjmz",兄,"Elder Brother, Big Brother","けい, きょう",あに,,,,"Japanese::Kanji::Grade_2, leech"
 "lQTiwHga?,",冬,Winter,とう,ふゆ,,,,Japanese::Kanji::Grade_2
 oa%T-[rr|U,北,North,ほく,きた,,,,Japanese::Kanji::Grade_2
 s;CFg:bCI[,半,"Half, Middle, Odd Number, Semi-, Part-",はん,なか.ば,,,,Japanese::Kanji::Grade_2
@@ -209,7 +209,7 @@ Ft9*9Sm)?L,高,"Tall, High, Expensive",こう,"たか.い, たか, -だか, た�
 uVI[!m!Oo(,強,Strong,"きょう, ごう","つよ.い, つよ.まる, つよ.める, し.いる, こわ.い",,,,Japanese::Kanji::Grade_2
 f:=u8$Vb6D,教,"Teach, Faith, Doctrine",きょう,"おし.える, おそ.わる",,,,Japanese::Kanji::Grade_2
 nr/APVinpH,理,"Logic, Arrangement, Reason, Justice, Truth",り,ことわり,,,,Japanese::Kanji::Grade_2
-mMUJbRkUnw,組,"Association, Braid, Plait, Construct, Assemble, Unite, Cooperate, Grapple",そ,"く.む, くみ, -ぐみ",,,,Japanese::Kanji::Grade_2
+mMUJbRkUnw,組,"Association, Braid, Plait, Construct, Assemble, Unite, Cooperate, Grapple",そ,"く.む, くみ, -ぐみ",,,,"Japanese::Kanji::Grade_2, leech"
 v17[cm[+m9,船,"Ship, Boat",せん,"ふね, ふな-",,,,"Japanese::Kanji::Grade_2, leech"
 j-wAYZ)ziR,週,Week,しゅう,,,,,Japanese::Kanji::Grade_2
 m2fYN{t{)B,雪,Snow,せつ,ゆき,,,,Japanese::Kanji::Grade_2
@@ -220,9 +220,9 @@ j0$6BAl]!9,黒,Black,こく,"くろ, くろ.ずむ, くろ.い",,,,Japanese::Kan
 "G/y%!il3,{",馬,Horse,ば,"うま, うま-, ま",,,,Japanese::Kanji::Grade_2
 QZUw?eNjWm,場,"Location, Place","じょう, ちょう",ば,,,,Japanese::Kanji::Grade_2
 s*8*@uv2.c,朝,"Morning, Dynasty, Regime, Epoch, Period, (north) Korea",ちょう,あさ,,,,Japanese::Kanji::Grade_2
-y)6iVB9[%b,番,"Turn, Number In A Series",ばん,つが.い,,,,Japanese::Kanji::Grade_2
+y)6iVB9[%b,番,"Turn, Number In A Series",ばん,つが.い,,,,"Japanese::Kanji::Grade_2, leech"
 vkQHL:A2Mf,答,"Solution, Answer",とう,"こた.える, こた.え",,,,Japanese::Kanji::Grade_2
-Cqeq|^Pe`$,絵,"Picture, Drawing, Painting, Sketch","かい, え",,,,,Japanese::Kanji::Grade_2
+Cqeq|^Pe`$,絵,"Picture, Drawing, Painting, Sketch","かい, え",,,,,"Japanese::Kanji::Grade_2, leech"
 pGRC2`G9r},買,Buy,ばい,か.う,,,,Japanese::Kanji::Grade_2
 JqTP[G@]8g,道,"Road-way, Street, District, Journey, Course, Moral, Teachings","どう, とう","みち, いう",,,,Japanese::Kanji::Grade_2
 o&E758^Ml~,間,"Interval, Space","かん, けん","あいだ, ま, あい",,,,Japanese::Kanji::Grade_2
@@ -249,7 +249,7 @@ qz:MzeMi77,寺,Buddhist Temple,じ,てら,,,,Japanese::Kanji::Grade_2
 E|W(q[ROYX,岩,"Boulder, Rock, Cliff",がん,いわ,,,,Japanese::Kanji::Grade_2
 tFzX??#t8A,帰,"Homecoming, Arrive At, Lead To, Result In",き,"かえ.る, かえ.す, おく.る, とつ.ぐ",,,,Japanese::Kanji::Grade_2
 p?ao8cyiu-,春,"Springtime, Spring (season)",しゅん,はる,,,,Japanese::Kanji::Grade_2
-uT7[xg%3(g,昼,"Daytime, Noon",ちゅう,ひる,,,,Japanese::Kanji::Grade_2
+uT7[xg%3(g,昼,Daytime,ちゅう,ひる,,,,Japanese::Kanji::Grade_2
 t#x?*Yh1G},晴,Clear Up,せい,"は.れる, は.れ, は.れ-, -ば.れ, は.らす",,,,Japanese::Kanji::Grade_2
 lo#AlK>pq2,秋,Autumn,しゅう,"あき, とき",,,,Japanese::Kanji::Grade_2
 r#phI#:xlX,計,"Plot, Plan, Scheme, Measure",けい,"はか.る, はか.らう",,,,Japanese::Kanji::Grade_2
