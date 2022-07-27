@@ -745,7 +745,7 @@ w^j0vu5ze.,道の左側,Left side of the street,Y,みちのひだりがわ,,,"Di
 QHKy1W9S=E,道の右側,Right side of the street,Y,みちのみぎがわ,,,"Directions, Genki, lesson-6, Useful_Expressions"
 IG=wP&:uC$,20日,20th (of the month),Y,はつか,,,"Days_16-31, Genki, Japanese::Counters::日, leech, lesson-4, Useful_Expressions"
 M`k?O4u#f%,百五十円になります。,It will be 150 yen.,N,,,,"At_the_Post_Office, Genki, lesson-5, Useful_Expressions"
-gssq;l(e&T,喜ぶ,to be glad,Y,よろこぶ,,,"Emotions, Japanese::Verbs"
+gssq;l(e&T,喜ぶ,to be glad,Y,よろこぶ,,,"Emotions, Japanese::Verbs, leech"
 yAMcRFw{g=,怒る,to get angry,Y,おこる,,,"Emotions, Japanese::Verbs, leech"
 y:`z0c_?%I,悲しむ,to get sad,Y,かなしむ,,,"Emotions, Japanese::Verbs, leech"
 drFA9%C#+_,楽しむ,to enjoy (oneself),Y,たのしむ,,,"Emotions, Japanese::Verbs"
@@ -801,7 +801,7 @@ fnz!TBH~6f,お会いできるのを楽しみにしています。,I am looking f
 BX9z#qMg8G,（を）たんじょうびおめでとう。,Happy birthday.,Y,,,,"Genki, lesson-9, Letters, Useful_Expressions"
 Q}FG(6L?9p,作文,essay; composition,Y,さくぶん,,,"duplicate, Genki, lesson-9, Nouns, Vocabulary"
 F^_J*6Q<!i,試験,exam,Y,しけん,,,"Genki, leech, lesson-9, Nouns, Vocabulary"
-AH)&1Mm9k;,単語,word; vocabulary,Y,たんご,,,"Genki, leech, lesson-9, Nouns, Vocabulary"
+AH)&1Mm9k;,単語,word; vocabulary,Y,たんご,,,"Genki, Japanese::Nouns, leech, lesson-9, Nouns, Vocabulary"
 Pvs^53V_2@,午後,P.M.; in the afternoon,Y,ごご,,,"duplicate, Genki, Kanji_Practice, lesson-9, 午"
 "M~,GIPktsI",正午,12PM / Noon,Y,しょうご,,,"Genki, Kanji_Practice, lesson-9, 午"
 BiFw%aqN^4,名前,name,Y,なまえ,,,"Genki, Kanji_Practice, lesson-9, 午"
@@ -1040,7 +1040,7 @@ r#Zh=@o<1B,将来,future,Y,しょうらい,,,lesson-11
 f>kbSAUk73,つり,fishing,Y,,,,lesson-11
 GPI@>]iu}m,ドライブ,drive,Y,,,,lesson-11
 n}y[Yw[4Zs,ビール,beer,Y,,,,lesson-11
-"F*W3C,zuW7",美術館,art museum,Y,びじゅつかん,,,lesson-11
+"F*W3C,zuW7",美術館,art museum,Y,びじゅつかん,,,"leech, lesson-11"
 sIN^8BMHu],ホストファミリー,host family,Y,,,,lesson-11
 KZNmr(>;I_,湖,lake,Y,みずうみ,,,lesson-11
 Nj%{E*SuHz,山,mountain,Y,やま,,,lesson-11
@@ -1317,3 +1317,17 @@ iX6&FR6Oe!,ストレス,Stress,,,,,Japanese::Nouns
 dcbXIw<.e:,といえば,Speaking of,Y,,,,Japanese::Expressions
 A`1^4VMq6E,ブロック,Block,,,,,Japanese::Nouns
 CM0ow/Zna%,ポチる,to buy online; to make an online purchase,Y,ポチる,,ポチ is the sound of a computer button being pressed.,
+pc;Z_k]@2W,コロナ,Coronavirus (Slang),,,,,Japanese::Nouns
+Q3VpBeLjb%,シーズン,"Season (of TV, of a sport, etc)",,,,,Japanese::Nouns
+bpk;ep!lp#,番組&nbsp;,TV Show / Program,,"
+ばんぐみ",,,Japanese::Nouns
+wSUNqw`$9{,テレビ番組 &nbsp;,TV Show,Y,てれびばんぐみ,,,Japanese::Nouns
+"y0j!},Bcpg",ぶん,Sentence,Y,,,,Japanese::Nouns
+"J(w!ATzQ,^",例,Example,Y,れい,,,Japanese::Nouns
+kTb-9L7[zf,例えば,For Example,Y,たとえば,,,Japanese::Adverbs
+yx;o9mFEL,名詞,Noun,Y,めいし,,,Japanese::Nouns
+"vV,E2X|-[E",動詞,Verb,どうし,,,,Japanese::Nouns
+B}FuCXM{-0,形容詞,Adjective,Y,"
+けいようし",,,Japanese::Nouns
+pK~^!G/(yk,反対,Opposite,Y,はんたい,,,Japanese::Nouns
+eE.?v!}.gM,質問,Question,Y,しつもん,,,Japanese::Nouns
