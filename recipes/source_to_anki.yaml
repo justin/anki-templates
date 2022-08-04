@@ -2,7 +2,6 @@
     source:
       - src/data/Vocabulary.csv
       - src/data/Japanese - Kanji.csv
-      - src/data/kanji_radicals.csv
     columns: [guid]
 
 - build_parts:
@@ -12,10 +11,6 @@
     - note_models_from_yaml_part:
         part_id: Japanese - Kanji
         file: src/note_models/Japanese - Kanji/Japanese - Kanji.yaml
-    - note_models_from_yaml_part:
-        part_id: Japanese - Radicals
-        file: src/note_models/Radicals/model.yaml
-
     - headers_from_yaml_part:
         part_id: deck_headers
         file: src/headers/default.yaml
@@ -34,13 +29,10 @@
               - file: src/data/Verb Conjugations.csv
           - file: src/data/Japanese - Kanji.csv
             note_model: Japanese - Kanji
-          - file: src/data/kanji_radicals.csv
-            note_model: Japanese - Radicals
         note_model_mappings:
           - note_models:
               - Vocabulary
               - Japanese - Kanji
-              - Japanese - Radicals
 
 - generate_crowd_anki:
     folder: build/Japanese
@@ -50,7 +42,6 @@
       parts:
         - part_id: Vocabulary
         - part_id: Japanese - Kanji
-        - part_id: Japanese - Radicals
     headers: deck_headers
     media:
       parts:

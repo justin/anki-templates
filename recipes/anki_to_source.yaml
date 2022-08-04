@@ -28,10 +28,7 @@
           - file: src/data/Verb Conjugations.csv
       - file: src/data/Japanese - Kanji.csv
         note_model: Japanese - Kanji
-      - file: src/data/kanji_radicals.csv
-        note_model: Japanese - Radicals
     note_model_mappings:
       - note_models:
           - Vocabulary
           - Japanese - Kanji
-          - Japanese - Radicals
