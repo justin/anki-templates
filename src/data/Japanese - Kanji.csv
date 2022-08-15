@@ -15,14 +15,14 @@ o)W>E]rEsQ,万,"10,000 / Ten thousand",まん　ばん,,"10,000 is a five digit 
 h;kp1+|2<$,円,Yen / Circle,えん,まる,This is the shape of a circle.,,14,Japanese::Kanji::Grade_1
 t`[`O$C<!;,口,Mouth,こう　く,くち　ぐち,This is the shape of a mouth.,,15,Japanese::Kanji::Grade_1
 eB_=GbpfvS,目,Eye,もく　ぼく,"め, ま",This is the shape of an eye.,,16,"Japanese::Kanji::Grade_1, leech"
-m+aU`?:6j!,日,Day / Sun,にち　にっ　じっ,び　か　ひ,This is the shape of the sun.,,17,"Japanese::Kanji::Grade_1, leech"
+m+aU`?:6j!,日,Day / Sun,にち　にっ　じっ,び　か　ひ,This is the shape of the sun.,,17,Japanese::Kanji::Grade_1
 vH#xQ?<~$%,月,moon,かつ　げつ,つき,This is the shape of a crescent moon.,,18,"Genki, Japanese::Kanji::Grade_1, Kanji_Practice, leech, lesson-4, 人_and_月"
 OUXF>p[qd6,火,fire,カ,"ひ, -び, ほ-",This is the shape of fire.,,19,"Genki, Japanese::Kanji::Grade_1, Kanji_Practice, lesson-4, 火_and_水"
 zzD>]b3EJ?,木,Tree,もく　ぼく,"き, こ-",This is the shape of a tree.,,20,"Genki, Japanese::Kanji::Grade_1, Kanji_Practice, leech, lesson-4, 木"
 "ozm,1nYnbo",水,water,スイ,"みず, みず-",,,21,"Genki, Japanese::Kanji::Grade_1, Kanji_Practice, lesson-4, 火_and_水"
 E{qExn|jQ>,金,Metal / Gold,"キン, コン","かね, かな-",It looks like a mountain which might have gold in it.,,22,Japanese::Kanji::Grade_1
-v##n?p^AKB,土,Soil,つち,,It looks like a plant bud sprouting from the soil.,,23,"Japanese::Kanji::Grade_1, leech"
-yV?XbNHNW:,曜,Weekday,よう,,,,24,leech
+v##n?p^AKB,土,Soil,つち,,It looks like a plant bud sprouting from the soil.,,23,Japanese::Kanji::Grade_1
+yV?XbNHNW:,曜,Weekday,よう,,,,24,
 Ih6vCj(-Bq,本,Book,ほん ぼん,もと,,,25,Japanese::Kanji::Grade_1
 A(5A/Sn?q+,人,person,じん　にん,ひと,It looks like a person standing with two legs apart.,,26,Japanese::Kanji::Grade_1
 D_*6.0y$$K,今,Now,"コン, キン",いま,,,27,"Genki, Kanji_Practice, lesson-5, 今_and_田"
@@ -33,8 +33,8 @@ zhX[h{nD5n,刀,Sword,トウ,"かたな, そり",It is in the shape of a hatchet 
 hb<a8$]/kE,分,"minute (unit of time) / part, portion, or share","ブン, フン, ブ","わける, わけ, わかれる, わかる, わかつ",,,32,
 g]18IQUU5g,上,Top / Above / On,うえ,,It is pointing at a line above the surface.,,33,"Japanese::Kanji::Grade_1, leech"
 "b`,Uvbi0!?",下,under / down,"カ, ゲ",した,It is pointing at a line below the surface.,,34,"Genki, Japanese::Kanji::Grade_1, leech, lesson-4, Location_Words"
-"PSpiM0W;,w",中,"inside, middle, mean, center",チュウ,"なか, うち, あた.る",,,35,"Genki, Japanese::Kanji::Grade_1, leech, lesson-4, Location_Words"
-l_B8l(iuIh,外,outside,"ガイ, ゲ","そと, ほか, はず.す, はず.れる, と-",It looks like a guy smoking outside.,,36,leech
+"PSpiM0W;,w",中,"inside, middle, mean, center",チュウ,"なか, うち, あた.る",,,35,"Genki, Japanese::Kanji::Grade_1, lesson-4, Location_Words"
+l_B8l(iuIh,外,outside,"ガイ, ゲ","そと, ほか, はず.す, はず.れる, と-",It looks like a guy smoking outside.,,36,
 d<&!tNIX9M,右,right,"ウ, ユウ",みぎ,,,37,Japanese::Kanji::Grade_1
 Hxuk8;LU{p,工,"craft, construction, katakana e radical (no. 48)","コウ, ク, グ",こう、く,,,38,leech
 kK4vszz-l$,左,left,"サ, シャ",ひだり,,,39,"Genki, Japanese::Kanji::Grade_1, leech, lesson-4, Location_Words"
@@ -42,7 +42,7 @@ I?y;<:wc%9,前,before / front,ゼン,まえ,,,40,"Genki, leech, lesson-4, Locati
 sKELVitfkq,後,"Behind, back, after","ゴ, コウ","のち, うし.ろ, うしろ, あと, おく.れる",,,41,leech
 LwXP4&eu4:,午,Noon,ゴ,うま,,,42,leech
 l[DBINh$U4,門,Gate,モン,"かど, と",This is the shape of a gate.,,43,
-"oAd$bXJ?,k",間,Between,あいだ,,You can see the sun (日）between the gates (門）,,44,"Genki, leech, lesson-4, Location_Words"
+"oAd$bXJ?,k",間,Between,あいだ,,You can see the sun (日）between the gates (門）,,44,"Genki, lesson-4, Location_Words"
 uGh8@c6I3z,東,East,トウ,ひがし,,,45,leech
 O|+:ln}Ju%,西,West,,にし,,,46,
 oiqL!!RhzG,南,South,"ナン, ナ",みなみ,,,47,leech
@@ -70,7 +70,7 @@ JS=A7c_2K*,草,Grass,ソウ,くさ,,Any type of grass or weed.,,"Japanese::Kanji
 y&]h?N$@ou,手,Hand,シュ,て、た,,,,Japanese::Kanji::Grade_1
 n~:E?=vIj[,文,Letter,ブン、モン,ふみ,,,,"Japanese::Kanji::Grade_1, leech"
 y;4=vls#-4,早,Early / Fast,ソウ、 サッ,はや.い、はや.まる、 はや.める,,,,"Japanese::Kanji::Grade_1, leech"
-Pj60dS9oYw,村,Village,ソン,むら,There is a village beyond the tree （木）,,,"Japanese::Kanji::Grade_1, leech"
+Pj60dS9oYw,村,Village,ソン,むら,There is a village beyond the tree （木）,,,Japanese::Kanji::Grade_1
 eQ=QY.4TI*,林,Woods / Small forest,リン,はやし,Two trees （木）become a small forest.,,,"Japanese::Kanji::Grade_1, leech"
 M9.j#^]k4?,校,School,コウ,"<span style=""color: rgb(34, 34, 34);"">こう</span>","It features six （六） wooden （木）crosses （
 
@@ -90,8 +90,8 @@ sy9$Apanf?,白,White,ハク、ビャク,しろ、しら、しろーい,,,,Japane
 sYFoXOt]3W,石,Stone,セキ、シャク、コク,いし,,,,Japanese::Kanji::Grade_1
 o6$`UxV(K~,空,Sky,クウ,そら、から、あ-く、あ-ける,,,,"Japanese::Kanji::Grade_1, leech"
 G9T+dVv6yL,立,Stand,リツ、 リュウ,たつ、たてる,,,,Japanese::Kanji::Grade_1
-t*>>XLmz!Y,竹,Bamboo,チク,たけ,,,,"Japanese::Kanji::Grade_1, leech"
-E}k/@TS3a3,糸,Thread,シ,いと,,,,"Japanese::Kanji::Grade_1, leech"
+t*>>XLmz!Y,竹,Bamboo,チク,たけ,,,,Japanese::Kanji::Grade_1
+E}k/@TS3a3,糸,Thread,シ,いと,,,,Japanese::Kanji::Grade_1
 JqhHyy>ZUY,耳,Ear,ジ,みみ,,,,Japanese::Kanji::Grade_1
 ge`Kp6myU~,虫,Insect,チュウ,むし,,,,Japanese::Kanji::Grade_1
 z3#2_b[aD5,見,See,ケン,みる,,,,"Japanese::Kanji::Grade_1, leech"
@@ -115,7 +115,7 @@ Ow&Vg@i`.s,内,"House, Home, Inside, Within, Between, Among","ない, だい",�
 Ch=6z`[*t,切,"Cut, Cutoff, Be Sharp","せつ, さい","き.る, -き.る, き.り, -き.り, -ぎ.り, き.れる, -き.れる, き.れ, -き.れ, -ぎ.れ",,,,"Japanese::Kanji::Grade_2, leech"
 "B-,vH+[S#m",午,"Noon, Sign Of The Horse, 11am-1pm, Seventh Sign Of Chinese Zodiac",ご,うま,"Let's call the single line (upper left corner) a left sock. Thus: Every NOON, I hang my left sock out to dry.",,,"Japanese::Kanji::Grade_2, leech"
 bjt{SAM-;q,友,Friend,ゆう,とも,,,,"Japanese::Kanji::Grade_2, leech"
-FMYnxz?NUn,太,"Plump, Thick, Big Around","たい, た","ふと.い, ふと.る",,,,"Japanese::Kanji::Grade_2, leech"
+FMYnxz?NUn,太,"Plump, Thick, Big Around","たい, た","ふと.い, ふと.る",,,,Japanese::Kanji::Grade_2
 B#Fgwc./[z,少,"Few, Little",しょう,"すく.ない, すこ.し",,,,Japanese::Kanji::Grade_2
 dtXisDv9<.,引,"Pull, Tug, Jerk, Admit, Install, Quote, Refer To",いん,"ひく, ひき, ひき-, -びき, ひける",,,,"Japanese::Kanji::Grade_2, leech"
 k``6cB[9#i,心,"Heart, Mind, Spirit, Heart Radical (no. 61)",しん,"こころ, -ごころ",,,,Japanese::Kanji::Grade_2
@@ -218,7 +218,7 @@ Ll~2}kPP[K,鳥,"Bird, Chicken",ちょう,とり,,,,"Japanese::Kanji::Grade_2, le
 K{]oaUJ[iL,黄,Yellow,"こう, おう","き, こ-",,,,Japanese::Kanji::Grade_2
 j0$6BAl]!9,黒,Black,こく,"くろ, くろ.ずむ, くろ.い",,,,Japanese::Kanji::Grade_2
 "G/y%!il3,{",馬,Horse,ば,"うま, うま-, ま",,,,"Japanese::Kanji::Grade_2, leech"
-QZUw?eNjWm,場,"Location, Place","じょう, ちょう",ば,,,,Japanese::Kanji::Grade_2
+QZUw?eNjWm,場,"Location, Place","じょう, ちょう",ば,,,,"Japanese::Kanji::Grade_2, leech"
 s*8*@uv2.c,朝,"Morning, Dynasty, Regime, Epoch, Period, (north) Korea",ちょう,あさ,,,,Japanese::Kanji::Grade_2
 y)6iVB9[%b,番,"Turn, Number In A Series",ばん,つが.い,,,,"Japanese::Kanji::Grade_2, leech"
 vkQHL:A2Mf,答,"Solution, Answer",とう,"こたえる, こたえ",,,,"Japanese::Kanji::Grade_2, Japanese::Nouns"
@@ -226,7 +226,7 @@ Cqeq|^Pe`$,絵,"Picture, Drawing, Painting, Sketch","かい, え",,,,,"Japanese:
 pGRC2`G9r},買,Buy,ばい,か.う,,,,Japanese::Kanji::Grade_2
 JqTP[G@]8g,道,"Road-way, Street, District, Journey, Course, Moral, Teachings","どう, とう","みち, いう",,,,"Japanese::Kanji::Grade_2, leech"
 o&E758^Ml~,間,"Interval, Space","かん, けん","あいだ, ま, あい",,,,Japanese::Kanji::Grade_2
-tX4mTp47=j,雲,Cloud,うん,"くも, -ぐも",,,,Japanese::Kanji::Grade_2
+tX4mTp47=j,雲,Cloud,うん,"くも, -ぐも",,,,"Japanese::Kanji::Grade_2, leech"
 xrpTa+eoMv,数,"Number, Strength, Fate, Law, Figures","すう, す, さく, そく, しゅ","かず, かぞ.える, しばしば, せ.める, わずらわ.しい",,,,"Japanese::Kanji::Grade_2, leech"
 npn${FqPxF,楽,"Music, Comfort, Ease","がく, らく, ごう","たの.しい, たの.しむ, この.む",,,,Japanese::Kanji::Grade_2
 A@C<:+3Lf#,話,"Tale, Talk",わ,"はな.す, はなし",,,,Japanese::Kanji::Grade_2
