@@ -212,7 +212,7 @@ z+hrtHFuBC,ハンバーガー,hamburger,Y,,,,Genki
 klmr#Z0lof,一つ,One thing,Y,ひとつ,,,"Genki, Kanji_Practice, leech, 一_and_二"
 P:?<pvV*;9,～ぐらい,About (an approximate measurement),Y,,,,"Adverbs_and_Expressions, Genki, lesson-4"
 e4Dd[Pa6Xy,ごめんなさい,I'm sorry.,Y,,,,"Adverbs_and_Expressions, Genki, lesson-4"
-j]|ltJrvR$,だから,so; therefore,Y,,,,"Adverbs_and_Expressions, Genki, lesson-4"
+j]|ltJrvR$,(だ)から,So / Therefore,,(だ)から,,A natural result or action for me.,"Adverbs_and_Expressions, Genki, Japanese::Conjunctions, lesson-4"
 l-0W.H`P/p,こくばん,blackboard,Y,,,,"Genki, Useful_Expressions"
 Ml<q`{[;;Y,でんき,(electric) light,Y,,,,"Genki, leech, Useful_Expressions"
 J%g-WohpUs,ドア,door (western-style),Y,,,,"Genki, Useful_Expressions"
@@ -262,7 +262,7 @@ z/a<EDK9Pw,朝食,breakfast (at a hotel),Y,ちょうしょく,,More formal / lik
 o+5$T@*jdD,12月,December,Y,じゅうにがつ,,,"Genki, Japanese::Counters::月, lesson-4, Months, Useful_Expressions"
 g8O]BW+5>t,コンサート,concert,Y,,,,"Genki, Katakana_Practice, lesson-5, Match_the_Words"
 hLbM=V~z1M,カフェ,cafe,Y,,,,"Genki, Katakana_Practice, lesson-5, Match_the_Words"
-BbR75jhoLZ,クラシック,classical music,Y,,,,"Genki, Katakana_Practice, lesson-5, Match_the_Words"
+BbR75jhoLZ,クラシック,classical music,Y,,,,"Genki, Japanese::Katakana, Japanese::Music, Japanese::Nouns, Katakana_Practice, lesson-5, Match_the_Words"
 Je[mc^]+r%,ケーキ,cake,Y,ケーキ,,,"Genki, Katakana_Practice, lesson-5, Match_the_Words"
 y#p3qKRtq>,映画,Movie,Y,えいが,,,"Entertainment_and_Sports, Genki"
 Qk&AxB+N0o,音楽,music,Y,おんがく,,,"Entertainment_and_Sports, Genki, leech"
@@ -317,7 +317,7 @@ ygpC}.2V14,1日,1st (of the month),Y,"
 x<[3G2T7d.,３日,3rd (of the month),Y,みっか,,,"Days_1-15, Genki, Japanese::Counters::日, lesson-4, Useful_Expressions"
 "u.I&,FWyS`",四日,4th (of the month),Y,"
 よっか",,,"Days_1-15, Genki, Japanese::Counters::日, lesson-4, Useful_Expressions"
-Ev%J1MBc;K,5日,5th (of the month),Y,いつか,,,"Days_1-15, Genki, Japanese::Counters::日, lesson-4, Useful_Expressions"
+Ev%J1MBc;K,5日,5th (of the month),Y,いつか,,,"Days_1-15, Genki, Japanese::Counters::日, leech, lesson-4, Useful_Expressions"
 LtahqENS1b,6日,6th (of the month),Y,"
 むいか",,,"Days_1-15, Genki, Japanese::Counters::日, lesson-4, Useful_Expressions"
 LQS/(Eh8T/,天皇,Japanese emperor,Y,てんのう,,,"Genki, Kanji_Practice, leech, lesson-5, 気"
@@ -462,7 +462,7 @@ bXvZzaXBqX,西口,west exit,Y,にしぐち,,,"Genki, Kanji_Practice, lesson-6, �
 hcMqsBb[[T,歌,song,Y,うた,,,"Genki, lesson-7"
 E%;is[%Otc,北西,northwest,Y,ほくせい,,,"Genki, Kanji_Practice, leech, lesson-6, 東_and_西"
 e0A0}m8mb0,おじいさん,grandfather; old man,Y,,,,"Genki, lesson-7"
-kJt*B?f/wd,弟,younger brother,Y,おとうと,,,"Genki, lesson-7"
+kJt*B?f/wd,弟,younger brother,Y,おとうと,,,"Genki, leech, lesson-7"
 hXJ4@WHVhc,西洋,the West,Y,せいよう,,,"Genki, Kanji_Practice, leech, lesson-6, 東_and_西"
 Q@g*=QrRgo,男の人,man,Y,おとこのひと,,,"duplicate, Genki, leech, lesson-7"
 "M,+,k6WJ;u",大変,tough (situation),Y,たいへん（な）,,Also can be used as 'that was not fun',"Genki, lesson-6, な-adjective_and_U-verbs"
@@ -498,7 +498,7 @@ dMtFd*[!R*,会う,to meet,Y,あう,,,"Genki, Kanji_Practice, leech, lesson-7, �
 fUTe[[]9v,会社員,office worker,Y,かいしゃいん,,,"Genki, Kanji_Practice, lesson-7, 会_and_社"
 fXABxvJ9uu,会議,meeting,Y,かいぎ,,,"Genki, Kanji_Practice, leech, lesson-7, 会_and_社"
 fV|O[_V7c+,教会,church,Y,きょうかい,,,"Genki, Kanji_Practice, leech, lesson-7, 会_and_社"
-i^*5f(Lz-E,聞く,to listen,Y,きく,,,"Genki, Kanji_Practice, lesson-8, 員"
+i^*5f(Lz-E,聞く,To Listen / To Hear / To Ask,Y,きく,,,"Genki, Kanji_Practice, lesson-8, 員"
 rW#}t;C0NR,神社,shrine,Y,じんじゃ,,,"duplicate, Genki, Kanji_Practice, lesson-7, 会_and_社"
 l5f~Ls**~$,口,mouth,Y,くち,,,"Genki, Kanji_Practice, lesson-6, 口_and_出"
 b-;.SKF2Q{,社会,society,Y,しゃかい,,,"Genki, Kanji_Practice, leech, lesson-7, 会_and_社"
@@ -529,7 +529,7 @@ MX4L8@*ezX,ゆっくり,slowly; leisurely; unhurriedly,Y,,,,"Adverbs_and_Other_E
 f/O(HNt()(,祖父,my grandfather (formal),Y,そふ,,,"Genki, Kanji_Practice, lesson-7, 父_and_母"
 m/2<oJwR^.,作品,artistic piece,Y,さくひん,,,"Genki, Kanji_Practice, lesson-8, 作"
 Ec&`k[T7Wi,母,mother (formal),Y,はは,,,"duplicate, Genki, Kanji_Practice, lesson-7, 父_and_母"
-ulw4=sH1cG,右折,right turn,Y,うせつ,,,"Genki, Kanji_Practice, lesson-6, 右_and_左"
+ulw4=sH1cG,右折,right turn,Y,うせつ,,,"Genki, Kanji_Practice, leech, lesson-6, 右_and_左"
 i4|ftV{D-.,お母さん,mother,Y,おかあさん,,,"Genki, Kanji_Practice, lesson-7, 父_and_母"
 nWd1s#<A9y,左右,right and left,Y,さゆう,,,"Genki, Kanji_Practice, lesson-6, 右_and_左"
 ff+9R6VVE},母語,mother tongue,Y,ぼご,,,"Genki, Kanji_Practice, lesson-7, 父_and_母"
@@ -606,7 +606,7 @@ m|~Hei[2$m,外国人,foreigner,Y,がいこくじん,,,"Genki, Kanji_Practice, le
 ivw*7GOb6Y,文化,culture,Y,ぶんか,,,"Genki, Kanji_Practice, leech, lesson-7, 語_and_文"
 FCcmyWCkR),外,outside,Y,そと,,,"Genki, Kanji_Practice, lesson-6, 外_and_国"
 w>JmqeS-Y,文法,grammar,Y,ぶんぽう,,,"Genki, Kanji_Practice, lesson-7, 語_and_文"
-pDJE7FwFol,海外,overseas,Y,かいがい,,,"Genki, Kanji_Practice, lesson-6, 外_and_国"
+pDJE7FwFol,海外,overseas,Y,かいがい,,,"Genki, Kanji_Practice, leech, lesson-6, 外_and_国"
 o%`d{tMBhu,読み物,reading matter; reading material,Y,よみもの,,,"Genki, Kanji_Practice, lesson-8, 休"
 ufF2ce|D_|,耳,ear,Y,みみ,,,"Genki, lesson-7, Parts_of_the_Body, Useful_Expressions"
 wl-xS3N#-@,国,country,Y,くに,,,"duplicate, Genki, Kanji_Practice, lesson-6, 外_and_国"
@@ -636,7 +636,7 @@ cogpS561SC,おしり,ass / bottom / buttocks,Y,,,,"Genki, lesson-7, Parts_of_the
 vC>ll|mv=N,次回,next time,Y,じかい,,,"Genki, Kanji_Practice, leech, lesson-8, 思"
 g8.Mwyp4hw,足,foot,Y,あし,,,"duplicate, Genki, lesson-7, Parts_of_the_Body, Useful_Expressions"
 r{.UXOc`9=,何,what,Y,なに,,,"Genki, Kanji_Practice, lesson-8, 思"
-MAN^V2p6.|,帰る,to return,Y,かえる,,,"Genki, Kanji_Practice, lesson-7, 帰_and_入"
+MAN^V2p6.|,帰る,To go back / To return,Y,かえる,,,"Genki, Kanji_Practice, lesson-7, 帰_and_入"
 fAnU3p@tq6,何時,What time?,Y,なんじ,,,"Genki, Japanese::Phrases, Kanji_Practice, lesson-8, 思"
 eLZGdG[1~6,帰国,returning to one's country,Y,きこく,,,"Genki, Kanji_Practice, leech, lesson-7, 帰_and_入"
 cVZvD3S*|w,何人,how many people,Y,なんにん,,,"Genki, Kanji_Practice, lesson-8, 思"
@@ -723,7 +723,7 @@ gssq;l(e&T,喜ぶ,to be glad,Y,よろこぶ,,,"Emotions, Japanese::Verbs"
 yAMcRFw{g=,怒る,to get angry,Y,おこる,,,"Emotions, Japanese::Verbs, leech"
 y:`z0c_?%I,悲しむ,to get sad,Y,かなしむ,,,"Emotions, Japanese::Verbs, leech"
 drFA9%C#+_,楽しむ,to enjoy (oneself),Y,たのしむ,,,"Emotions, Japanese::Verbs"
-x*E$oa*Wg8,妬む,to get jealous,Y,ねたむ ,,,"Emotions, Japanese::Verbs"
+x*E$oa*Wg8,妬む,to get jealous,Y,ねたむ ,,,"Emotions, Japanese::Verbs, leech"
 ptVK;9^ZsO,驚く,to get surprised,Y,おどろく ,,,"Emotions, Japanese::Verbs, leech"
 j*q;U.xdTW,苦しむ,to suffer,Y,くるしむ,,,"Emotions, Japanese::Verbs"
 D!y{K=-S}+,悩む,to worry,Y,なやむ,,,"Emotions, Japanese::Verbs, leech"
@@ -731,10 +731,10 @@ x2wA[aK!(7,戸惑う,to get confused,Y,とまどう,,,"Emotions, Japanese::Verbs
 y92h]nv*Qk,まがる,To turn,Y,,,,Japanese::Verbs
 n9]TidN/ie,風,Wind,Y,かぜ,,,Japanese::Adjectives
 rn-RBYt~_>,太陽,Sun,Y,たいよう,,,Japanese::Adjectives
-u2k+0mO~6*,強い,Strong,Y,つよい,,,Japanese::Adjectives
+u2k+0mO~6*,強い,Strong,Y,つよい,,,"Japanese::Adjectives, leech"
 Bu4S2]P1L_,うわ,Yikes / oops / wow / Argh,Y,,,,Japanese::Expressions
 OZ:B}.dys.,服 ,Clothes (especially western),Y,ふく,,,Japanese::Nouns
-N&Fv!DXy!g,笑う,To laugh,Y,わらう,,,Japanese::Verbs
+N&Fv!DXy!g,笑う,To laugh,Y,わらう,,,"Japanese::Verbs, leech"
 kL;|.C{M[y,いう,"To say / To declare (So and so said, ""blah"")",Y,,,"Also can be used for ""to name/to call""",Japanese::Verbs
 c3oXLkKN64,白い,white,Y,しろい,,,"Genki, lesson-9, Vocabulary, い-adjectives_and_な-adjectives"
 z`|l?.gRN1,地名,place name,Y,ちめい,,,"Genki, Kanji_Practice, leech, lesson-9, 名_and_白"
@@ -771,7 +771,7 @@ AH)&1Mm9k;,単語,word; vocabulary,Y,たんご,,,"Genki, Japanese::Nouns, leech,
 Pvs^53V_2@,午後,P.M.; in the afternoon,Y,ごご,,,"duplicate, Genki, Kanji_Practice, lesson-9, 午"
 "M~,GIPktsI",正午,12PM / Noon,Y,しょうご,,,"Genki, Kanji_Practice, lesson-9, 午"
 BiFw%aqN^4,名前,name,Y,なまえ,,,"Genki, Kanji_Practice, lesson-9, 午"
-yn92H1kYWP,前売り,advance sale,Y,まえうり,,,"Genki, Kanji_Practice, lesson-9, 午"
+yn92H1kYWP,前売り,advance sale,Y,まえうり,,,"Genki, Kanji_Practice, leech, lesson-9, 午"
 p2W<reSI3z,青い,blue,Y,あおい,,,"duplicate, Genki, lesson-9, Vocabulary, い-adjectives_and_な-adjectives"
 ml2sa[J59$,赤い,red,Y,あかい,,,"duplicate, Genki, lesson-9, Vocabulary, い-adjectives_and_な-adjectives"
 "cr,pnGZv,F",黒い,black,Y,くろい,,,"Genki, lesson-9, Vocabulary, い-adjectives_and_な-adjectives"
@@ -780,11 +780,11 @@ v[L^A!5v~K,寂しい,lonely,Y,さびしい,,,"Genki, leech, lesson-9, Vocabulary
 IXYR[@3[a%,意地悪,mean-spirited,Y,いじわる(な),,,"Genki, leech, lesson-9, Vocabulary, い-adjectives_and_な-adjectives"
 Py=^PpO%f<,氏名,full name,Y,しめい,,,"Genki, Kanji_Practice, lesson-9, 名_and_白"
 m4X6;eT:DF,白紙,blank sheet,Y,はくし,,,"Genki, Kanji_Practice, lesson-9, 名_and_白"
-cB;6Dozt?),白鳥,swan,Y,はくちょう,,,"Genki, Kanji_Practice, lesson-9, 名_and_白"
+cB;6Dozt?),白鳥,swan,Y,はくちょう,,,"Genki, Kanji_Practice, leech, lesson-9, 名_and_白"
 bE;.(0Id_R,終わる,(something) ends,Y,おわる,,,"Genki, lesson-9, U-verbs, Vocabulary"
 E89ud7y+:v,始まる,(something) begins,Y,はじまる,,,"Genki, lesson-9, U-verbs, Vocabulary"
 xb)Q.3p!Tk,運動する,to do physical exercises,Y,うんどうする,,,"Genki, lesson-9, U-verbs, Vocabulary"
-L(z)v~VPRv,散歩する,to take a walk,Y,さんぽする,,,"Genki, lesson-9, U-verbs, Vocabulary"
+L(z)v~VPRv,散歩する,to take a walk,Y,さんぽする,,,"Genki, leech, lesson-9, U-verbs, Vocabulary"
 y[-XwZmW&@,辞書,dictionary,Y,じしょ,,,"Genki, Kanji_Practice, lesson-9, 雨"
 dqN<4pd4qG,図書館,library,Y,としょかん,,,"Genki, Kanji_Practice, lesson-9, 雨"
 caBLvV7N!7,友人,friend (formal),Y,ゆうじん,,,"Genki, Kanji_Practice, leech, lesson-9, 雨"
@@ -800,7 +800,7 @@ G(6tr~Hg?U,家,house,Y,いえ,,,"duplicate, Genki, Kanji_Practice, lesson-9, 間
 e+`@5<O1wV,家,house; home,Y,うち,,,"duplicate, Genki, Kanji_Practice, lesson-9, 間_and_家"
 "swO88f@%J,",家内,my wife,Y,かない,,,"Genki, Kanji_Practice, lesson-9, 間_and_家"
 s?V:E~w|a6,十,ten,Y,とお,,,"Genki, lesson-9, Numbers_(to_count_small_items), Vocabulary"
-E^O=NFN%NT,話す,to speak,Y,はなす,,,"Genki, Kanji_Practice, lesson-9, 話_and_少"
+E^O=NFN%NT,話す,To Speak /&nbsp;To Talk,Y,はなす,,,"Genki, Kanji_Practice, lesson-9, 話_and_少"
 "Qm]bCd,h%C",話,talk; story,Y,はなし,,,"Genki, Kanji_Practice, lesson-9, 話_and_少"
 MD:>+doe)_,会話,conversation,Y,かいわ,,,"Genki, Kanji_Practice, lesson-9, 話_and_少"
 tfUs|HIo2;,少ない,few,Y,すくない,,,"Genki, Kanji_Practice, leech, lesson-9, 話_and_少"
@@ -856,7 +856,7 @@ F/{m@$jg|!,<div>さいきん</div>,Recently,Y,,,,lesson-11
 cdt^*5JQE8,<div>芝生</div>,Grass (Lawn),Y,<div>しばふ</div>,,,Japanese::Nouns
 Mal^!|K.H=,おなかがすく,I am hungry,Y,,,,"duplicate, Japanese::Phrases"
 cJ&pwK29-y,歩く,To walk,Y,あるく,,,"duplicate, Japanese::Verbs, leech"
-c><y}2tKR&,掛ける,to put on (e.g. a blanket); to put on top of; to cover; to lay; to spread,Y,かける,,,Japanese::Verbs
+c><y}2tKR&,掛ける,to put on (e.g. a blanket); to put on top of; to cover; to lay; to spread,Y,かける,,,"Japanese::Verbs, leech"
 eCfzi|f(l0,<div>ソファー</div>,Couch / Sofa,Y,,,,Japanese::Nouns
 D@y;~z/UcE,つかっている,Is using,Y,,,,Japanese::Verbs
 ObXfKK$l$],<div>つかう</div>,Use,Y,,,,Japanese::Nouns
@@ -864,7 +864,7 @@ ObXfKK$l$],<div>つかう</div>,Use,Y,,,,Japanese::Nouns
 tTmRZl3-cV,そして,and,Y,,,,"Adverbs_and_Expressions, duplicate, Japanese::Adverbs"
 l(My5=RWj6,それとも,or,Y,,,,"Adverbs_and_Expressions, Japanese::Adverbs, leech"
 qA}&cH=Bgk,それに,besides,Y,,,,"Adverbs_and_Expressions, duplicate, Japanese::Adverbs"
-tjc^T)a8[9,それで,So,Y,,,,"Adverbs_and_Expressions, Japanese::Adverbs, leech"
+tjc^T)a8[9,それで,So,,それで,,A fact that surely happened,"Adverbs_and_Expressions, Japanese::Adverbs, Japanese::Conjunctions, leech"
 OSprcVu?=.,季節,season,Y,きせつ,,,"leech, lesson-10"
 KXi#HrYB#v,春,spring,Y,はる,,,lesson-10
 DFcK{@<FIC,秋,fall,Y,あき,,,"leech, lesson-10"
@@ -896,7 +896,7 @@ GXt4FaI`Km,遅い,slow; late,Y,おそい,,,lesson-10
 h|n=9k=`[b,眠い,sleepy,Y,ねむい,,,lesson-10
 qsdOSR|1%p,簡単,easy; simple,Y,かんたん（な）,,,lesson-10
 Pq$FQBU7{P,かかる,to take (amount of time/money),Y,,,,"leech, lesson-10"
-"k]DB.7,n&Q",泊まる,"to stay (at a hotel, etc) <small>(～に)</small>",Y,とまる,,,lesson-10
+"k]DB.7,n&Q",泊まる,"to stay (at a hotel, etc) <small>(～に)</small>",Y,とまる,,,"leech, lesson-10"
 Jh6wm:^]_O,なる,to become,Y,,,,lesson-10
 C4/T9@HegA,決める,to decide <small>(<em>～を</em>)</small>,Y,きめる,,,lesson-10
 I1C%oWw3/[,ごろごろする,to chill out at home; to stay home and do nothing,Y,,,,lesson-10
@@ -937,12 +937,12 @@ piP-?XF)LS,書道,calligraphy,Y,しょどう,,,lesson-10
 mANnv/*m25,柔道,judo,Y,じゅうどう,,,lesson-10
 oHEuj-lOkj,北海道,Hokkaido,Y,ほっかいどう,,,"duplicate, Japanese::Cities, lesson-10"
 JM7>c{YQHv,雪,snow,Y,ゆき,,,lesson-10
-fuHt.uU4(,新雪,new snow,Y,しんせつ,,,lesson-10
-A>{y]!xu/U,雪だるま,snowman,Y,ゆきだるま,,,lesson-10
+fuHt.uU4(,新雪,new snow,Y,しんせつ,,,"leech, lesson-10"
+A>{y]!xu/U,雪だるま,snowman,Y,ゆきだるま,,,"leech, lesson-10"
 Hx5ekf=5L6,売店,shop; stand,Y,ばいてん,,,"duplicate, lesson-10"
 w~xxn{+2yS,出口,exit,Y,でぐち,,,"duplicate, lesson-10"
 QnNZvQ[yd<,入口,entrance,Y,いりぐち,,,"duplicate, lesson-10"
-nGJR!nbXHb,階段,stairs,Y,かいだん,,,lesson-10
+nGJR!nbXHb,階段,stairs,Y,かいだん,,,"leech, lesson-10"
 ud([Z#8:kU,立つ,to stand,Y,たつ,,,lesson-10
 Q._FYd#h.7,自動車,automobile,Y,じどうしゃ,,,lesson-10
 I15e:PB08},自由,freedom,Y,じゆう,,,"leech, lesson-10"
@@ -961,24 +961,24 @@ bBNV+g@|vf,キャッシュレス,Cashless,Y,,,,Japanese::Nouns
 "iE,b#bAM,R",<div>クレジットカード</div>,Credit Card,Y,,,,Japanese::Nouns
 gae-=?Sipl,かわいそう,Poor / Pity,Y,,,,Japanese::Nouns
 jg^P&?q.r~,きめる,To decide / To determine,Y,,,,Japanese::Verbs
-xh(*I0&cYw,ラテ,Latte,Y,,,,Japanese::Starbucks
-tw=i|?Ai2.,フラペチーノ,Frappucinno,Y,,,,Japanese::Starbucks
-"r,1^ZC`dw(",マキアート,Machiato,Y,,,,Japanese::Starbucks
+xh(*I0&cYw,ラテ,Latte,,,,,Japanese::Starbucks
+tw=i|?Ai2.,フラペチーノ,Frappucinno,,,,,Japanese::Starbucks
+"r,1^ZC`dw(",マキアート,Machiato,<div><br></div>,,,,Japanese::Starbucks
 jf~YEar5<B,ティー,Tea,,,,,"Japanese::Food, Japanese::Starbucks"
-C<6/W1|)eb,コールドブリューコーヒー,Cold brew coffee,Y,,,,Japanese::Starbucks
+C<6/W1|)eb,コールドブリューコーヒー,Cold brew coffee,,,,,Japanese::Starbucks
 "w.zWJ=,7Wz",<div>写真家</div>,Photographer,Y,<div>しゃしんか</div>,,,Japanese::Nouns
 BM*#~S^nNE,<div>紅茶</div>,Black tea,Y,<div>こうちゃ</div>,,,Japanese::Nouns
 eT@ko=G?MU,<div>夫</div>,Husband,Y,<div>おっと</div>,,,Japanese::Nouns
-l1R=$fMU`f,<div>主人</div>,Husband (Master),Y,<div>しゅじん</div>,,,Japanese::Nouns
+l1R=$fMU`f,<div>主人</div>,Husband (Master),Y,<div>しゅじん</div>,,,"Japanese::Nouns, leech"
 GfJ.x5av1*,<div>妻</div>,Wife,Y,<div>つま</div>,,,Japanese::Nouns
 O;LGd{6^?A,<div>恥</div>,Shame,Y,<div>はじ</div>,,,Japanese::Nouns
 i3uw;FcNs},ワクワクする!,I'm excited!,Y,,,,Japanese::Expressions
-NniW]H3Qy%,あげる,To Give,Y,,,,Japanese::Verbs
+NniW]H3Qy%,あげる,To Give,Y,,,,"Japanese::Verbs, leech"
 o@?ewRust+,<div>銃</div>,Guns / Arms,Y,<div>じゅう</div>,,,Japanese::Nouns
 NjzKUk8(:z,ワクワク,Excitement,Y,,,,Japanese::Nouns
 A4n0[z:v<B,お菓子,snacks; sweets,Y,おかし,,,lesson-11
 n6IVCFo@Bz,お祭り,festival,Y,おまつり,,,"leech, lesson-11"
-y5UdslewO.,おもちゃ,toy,Y,,,,"Japanese::Nouns, lesson-11"
+y5UdslewO.,おもちゃ,toy,Y,,,,"Japanese::Nouns, leech, lesson-11"
 sQ|)!(O7b),温泉,spa; hot spring,Y,おんせん,,,lesson-11
 o7Zl.?]<6w,川,river,Y,かわ,,,lesson-11
 hJLHyt(6bu,キャンプ,camp,Y,,,,lesson-11
@@ -1005,15 +1005,15 @@ vhVw&ANB8G,夢,dream,Y,ゆめ,,,lesson-11
 "Pya:6,)7i(",ルームメート,roommate,Y,,,,lesson-11
 ~JQ4JI`xg,近所,neighborhood,Y,きんじょ,,,lesson-11
 psO9zudHql,中近東,the Middle and Near East,Y,ちゅうきんとう,,,"leech, lesson-11"
-zV#KJil=pu,明るい,cheerful; bright,Y,あかるい,,,lesson-11
+zV#KJil=pu,明るい,cheerful; bright,Y,あかるい,,,"leech, lesson-11"
 xDR6U*96gV,説明,explanation,Y,せつめい,,,lesson-11
 c>y)2ShDjg,発明,invention,Y,はつめい,,,lesson-11
 N9S.|8);6;,文明,civilization,Y,ぶんめい,,,"leech, lesson-11"
 oWJ1:wojzH,重病,serious illness,Y,じゅうびょう,,,lesson-11
-PTXS5><RQM,急病,sudden illness,Y,きゅうびょう,,,lesson-11
+PTXS5><RQM,急病,sudden illness,Y,きゅうびょう,,,"leech, lesson-11"
 HM9uy$4Dm@,大学院,graduate school,Y,だいがくいん,,,lesson-11
 jh>9o$El-T,うそをつく,to tell a lie,Y,,,,lesson-11
-Mrt/-::w5!,飼う,to own (a pet),Y,かう,,,lesson-11
+Mrt/-::w5!,飼う,to own (a pet),Y,かう,,,"leech, lesson-11"
 hXJ3;MyLq^,サボる,to cut (classes),Y,,,,lesson-11
 KlfIIP{9^I,取る,to take (a class); to get (a grade),Y,とる,,,lesson-11
 uG3nG5jV:(,習う,to learn,Y,ならう,,,lesson-11
@@ -1026,14 +1026,14 @@ LF1u|dFLyQ,ダイエットする,to go on a diet,Y,,,,lesson-11
 Egp%A0&@V!,遅刻する,to be late (for an appointment),Y,ちこくする,,,"leech, lesson-11"
 CmYs#NeY&2,留学する,to study abroad,Y,りゅうがくする,,,lesson-11
 J6a5Nq0vJ4,映画館,movie theater,Y,えいがかん,,,lesson-11
-gnBi{3EabL,映る,to be reflected,Y,うつる,,,lesson-11
+gnBi{3EabL,映る,to be reflected,Y,うつる,,,"leech, lesson-11"
 J*Qc[*@_F.,画家,painter,Y,がか,,,lesson-11
 P2(S2X;=2z,計画,plan,Y,けいかく,,,"leech, lesson-11"
 f2t+kKyu(~,漫画,comic / manga,Y,まんが,,,lesson-11
 o1@dJcfCh:,国歌,national anthem,Y,こっか,,,lesson-11
 dQaM(pkm#b,歌詞,lyrics,Y,かし,,,lesson-11
 K<_[p[y:WZ,後,after (an event),Y,あと,,,lesson-11
-BsUjlFn!/3,出身,coming from,Y,しゅっしん,,,lesson-11
+BsUjlFn!/3,出身,coming from,Y,しゅっしん,,,"leech, lesson-11"
 C_[H+7>0wn,～だけ,just...; only...,Y,,,,lesson-11
 Q?+w{QZya<,～点,...points,Y,～てん,,,lesson-11
 m`$zKU;%xa,久しぶり,it has been a long time,Y,ひさしぶり,,,"leech, lesson-11"
@@ -1058,7 +1058,7 @@ gux6YX_!}N,消防士,firefighter,Y,しょうぼうし,,,lesson-11
 FP+1JhLQx+,漫画家,cartoonist,Y,まんがか,,,lesson-11
 svW>ZXWdMA,宇宙飛行士,astronaut,Y,うちゅうひこうし,,,lesson-11
 P)CU595{xY,野球選手,baseball player,Y,やきゅうせんしゅ,,,lesson-11
-qIuk_hL>?i,大統領,president of a country,Y,だいとうりょう,,,lesson-11
+qIuk_hL>?i,大統領,president of a country,Y,だいとうりょう,,,"leech, lesson-11"
 g_8K-zErm9,強情な,obstinate,Y,ごうじょうな,,,"leech, lesson-11"
 D<$:Xty/K},強盗,robbery,Y,ごうとう,,,lesson-11
 "m`iBC+pO:,",強力な,powerful,Y,きょうりょくな,,,"leech, lesson-11"
@@ -1071,7 +1071,7 @@ yzAS$hZw5w,のど, throat,Y,,,,lesson-12
 H1Y2kpht<X,インフルエンザ, influenza/flu,,,,,lesson-12
 n$5v>kgeK~,風邪,(common) cold,Y,かぜ,,,lesson-12
 O7TZ((5FwF,せき, cough,Y,,,,lesson-12
-bRVtZPc^~Z,二日酔い, hangover,Y,ふつかよい,,,lesson-12
+bRVtZPc^~Z,二日酔い, hangover,Y,ふつかよい,,,"leech, lesson-12"
 hTZ$#qle9D,ホームシック, homesickness,,,,,lesson-12
 ri$7w>M(C-,アレルギー, allergy,,,,,lesson-12
 joSc;/DY<O,ジュース, juice,,,,,lesson-12
@@ -1096,11 +1096,11 @@ Q79yd}X@Ah,甘い, sweet,Y,あまい,,,lesson-12
 KG(VW)|Ynn,多い, there are many,Y,おおい,,,lesson-12
 PLqp;rH-:/,素敵, nice,Y,すてき（な）,,,lesson-12
 "x]$CzoFN^,",風邪をひく, to catch a cold,Y,かぜをひく,,,lesson-12
-lO}_tfCr{_,熱がある, to have a fever,Y,ねつがある,,,lesson-12
+lO}_tfCr{_,熱がある, to have a fever,Y,ねつがある,,,"leech, lesson-12"
 Q^$vS<sUNt,のどが渇く, to become thirsty,Y,のどがかわく,,,lesson-12
 HiW>VA>o]x,払う, to pay <small>(～を)</small>,Y,はらう,,,lesson-12
-A_6TQHKz6_,なくす, to lose <small>(～を)</small>,Y,,,,lesson-12
-p&uvSr/>U1,興味がある, to be interested (in...) <small>(<em>topic</em> に)</small>,Y,きょうみがある,,,lesson-12
+A_6TQHKz6_,なくす, to lose <small>(～を)</small>,Y,,,,"leech, lesson-12"
+p&uvSr/>U1,興味がある, to be interested (in...) <small>(<em>topic</em> に)</small>,Y,きょうみがある,,,"leech, lesson-12"
 O)PzG~!zZB,せきが出る, to cough,Y,せきがでる,,,lesson-12
 MgR=Hve.jB,緊張する, to get nervous,Y,きんちょうする,,,lesson-12
 n51D4Or`hw,心配する, to worry,Y,しんぱいする,,,lesson-12
@@ -1116,19 +1116,19 @@ P3rIp6Ck;+,お大事に, Get well soon.,Y,おだいじに,,,lesson-12
 I[R/Qpc)Vl,元気がない, don't look well,Y,げんきがない,,,lesson-12
 AE.Hoq$Q@c,できるだけ, as much as possible,Y,,,,lesson-12
 Pk1y^i9!ug,多分, probably/maybe,Y,たぶん,,,lesson-12
-p[xYqig8m<,もうすぐ, very soon/in a few moments/days,Y,,,,lesson-12
+p[xYqig8m<,もうすぐ, very soon/in a few moments/days,Y,,,,"leech, lesson-12"
 ftpi0;;_(~,初めて, for the first time,Y,はじめて,,,lesson-12
 Js8KKq32|H,二三日, for two to three days,Y,にさんにち,,,lesson-12
 pa`3znJBv+,同じ, same,Y,おなじ,,,lesson-12
 F&7j;)4[W+,早起きする, to get up early,Y,はやおきする,,,lesson-12
-Mx6A8f#-J?,早朝, early morning,Y,そうちょう,,,lesson-12
+Mx6A8f#-J?,早朝, early morning,Y,そうちょう,,,"leech, lesson-12"
 QDPI?s?-QM,起きる, to get up,Y,おきる,,,lesson-12
 O3B*hPuoF^,起こす, to wake someone up,Y,おこす,,,lesson-12
 m~|Vkg4-]c,再起動, reboot,Y,さいきどう,,,lesson-12
 q(SI4iWNlq,牛肉, beef,Y,ぎゅうにく,,,lesson-12
 GVzOm>;qBd,子牛, calf/veal,Y,こうし,,,lesson-12
 Mjz~RUb0t5,大使, ambassador,Y,たいし,,,lesson-12
-b.P@1M/2hi,使用中," ""Occupied""",Y,しようちゅう,,,lesson-12
+b.P@1M/2hi,使用中," ""Occupied""",Y,しようちゅう,,,"leech, lesson-12"
 p}v_(6:#wZ,お使い, errand,Y,おつかい,,,lesson-12
 zn!N):yDtH,労働, labor,Y,ろうどう,,,lesson-12
 j`VoY$cohQ,連れて帰る, to bring (a person) back,Y,つれてかえる,,,lesson-12
@@ -1143,7 +1143,7 @@ uTXt-(IGe6,手術, operation,Y,しゅじゅつ,,,lesson-12
 x~wGl9Omf:,体温計, thermometer,Y,たいおんけい,,,lesson-12
 eJy:m^z_Ai,別れる, to separate,Y,わかれる,,,lesson-12
 H_M|*8yDe:,特別な, special,Y,とくべつな,,,lesson-12
-ft>JlTnk0T,差別, discrimination,Y,さべつ,,,lesson-12
+ft>JlTnk0T,差別, discrimination,Y,さべつ,,,"leech, lesson-12"
 w-%iym2v-G,別々に, separately,Y,べつべつに,,,lesson-12
 :Ax#[*D<x,一度, once,Y,いちど,,,lesson-12
 zTFLJ[N[dD,温度, temperature,Y,おんど,,,lesson-12
@@ -1153,7 +1153,7 @@ ba&.lf)j#(,青年, youth,Y,せいねん,,,lesson-12
 sR7/RBdEbo,青空, blue sky,Y,あおぞら,,,lesson-12
 M<~oEmu!}<,青信号, green light,Y,あおしんごう,,,lesson-12
 BW?3>4o#a5,景色, scenery,Y,けしき,,,lesson-12
-xbdF@pJH~o,特色, characteristic,Y,とくしょく,,,lesson-12
+xbdF@pJH~o,特色, characteristic,Y,とくしょく,,,"leech, lesson-12"
 dbJE$_yX@],大会,Tournament,Y,たいかい,,,Japanese::Nouns
 c0?C!`#@~[,血,Blood,Y,ち,,,Japanese::Nouns
 z4I4lr7[v9,ライン,Line,,,,,"Japanese::Katakana, Japanese::Names"
@@ -1178,17 +1178,13 @@ u_`RTU]TJ1,空事,Lie,Y,そらごと,,,Japanese::Nouns
 Gu~.i{WV]5,ハードコア,Hardcore (Music),,,,,"Japanese::Katakana, Japanese::Music, Japanese::Nouns"
 dKaGVbC&#r,オルタナティブ,Alternative (Music),,,,,"Japanese::Katakana, Japanese::Music, Japanese::Nouns"
 Q(&v!3e0tU,カントリ,Country (Music),,,,,"Japanese::Katakana, Japanese::Music, Japanese::Nouns"
-rXDrfyg-5%,クラシック,Classic (Music),,,,,"Japanese::Katakana, Japanese::Music, Japanese::Nouns"
 oTv*.5(upA,サンバ,Samba (Music),,,,,"Japanese::Katakana, Japanese::Music, Japanese::Nouns"
 b4~mEF}@1E,ブルース,Blues (Music),,,,,"Japanese::Katakana, Japanese::Music, Japanese::Nouns"
 KH=sx`zcT%,ソウル,Soul (Music),,,,,"Japanese::Katakana, Japanese::Music, Japanese::Nouns"
 FxnB+DNUl;,上る,To go up / To Climb,,のぼる,,,"Genki, Kanji_Practice, lesson-4, 曜"
 jk_._<LsBn,いる,There is (a person) / is in...; stays at...,,いる,,,"Genki, lesson-4, U-verbs_and_Ru-verbsz"
 skGutDC[%9,行く,To Go,,いく,,,"Genki, Kanji_Practice, lesson-5, U_Verb, 見_and_行"
-v).]7)jXt},帰る,To Go Back; To Return,,かえる,,,"Genki, U-verbs, U_Verb"
-hv)-@VmQUQ,聞く,To Listen / To Hear / To Ask,,きく,,,"Genki, U-verbs, U_Verb"
 GL4`piv5L^,飲む,To Drink,,のむ,,,"Genki, Kanji_Practice, lesson-5, U_Verb, 食_and_飲"
-z.ryj{yTL,話す,To Speak /&nbsp;To Talk,,はなす,,,"Genki, U-verbs, U_Verb"
 O}PIf&MSYz,読む,To read,,よむ,,,"Genki, U-verbs"
 qn/Uy?Wh^|,食べる,To Eat,,たべる,,,"Genki, Kanji_Practice, lesson-5, 食_and_飲"
 FTGn|7nsww,寝る,To sleep / To go to sleep,,ねる,,,"Genki, Ru-verbs_and_Irregular_verbs"
@@ -1209,13 +1205,11 @@ lLP9aKfT.r,やる,to do / to perform,,やる,,,"Genki, lesson-5, Verbs_and_Expre
 pxy`n*a_9;,出かける,to go out,,でかける,,,"Genki, lesson-5, Verbs_and_Expressions"
 tzkC^C)Uvt,遊ぶ,to play; to spend time pleasantly; to hang out; to have fun,,あそぶ,,,"Genki, lesson-6, な-adjective_and_U-verbs"
 L$:I+]aW=~,急ぐ,to hurry,,いそぐ,,,"Genki, lesson-6, な-adjective_and_U-verbs"
-hBq:|$^xz=,お風呂に入る,to take a bath,,おふろにはいる,,,"Genki, lesson-6, な-adjective_and_U-verbs"
 Ngq>DxgV3q,返す,to return (a thing),,かえす,,,"Genki, lesson-6, な-adjective_and_U-verbs"
 {vel9O9iz,消す,to turn off; to erase,,けす,,,"Genki, lesson-6, な-adjective_and_U-verbs"
 O6;k-ux9Qw,死ぬ,to die,,しぬ,,,"Genki, lesson-6, な-adjective_and_U-verbs"
 e>l:NWGjaL,座る,to sit down,,すわる,,,"Genki, lesson-6, な-adjective_and_U-verbs"
 NyO$zD1dNR,立つ,to stand up,,たつ,,,"Genki, lesson-6, な-adjective_and_U-verbs"
-PW4CBO8T/w,たばこを吸う,to smoke,,たばこをすう,,,"Genki, lesson-6, な-adjective_and_U-verbs"
 L-#y66s}BX,使う,to use,,つかう,,,"Genki, lesson-6, な-adjective_and_U-verbs"
 G]S.5QZ8tI,手伝う,to help,,てつだう,,,"Genki, lesson-6, な-adjective_and_U-verbs"
 M|<8pJl}~p,入る,to enter,,はいる,,,"Genki, lesson-6, な-adjective_and_U-verbs"
@@ -1250,7 +1244,7 @@ wSUNqw`$9{,テレビ番組 &nbsp;,TV Show,Y,てれびばんぐみ,,,Japanese::No
 "J(w!ATzQ,^",例,Example,Y,れい,,,Japanese::Nouns
 kTb-9L7[zf,例えば,For Example,Y,たとえば,,,Japanese::Adverbs
 yx;o9mFEL,名詞,Noun,Y,めいし,,,Japanese::Nouns
-"vV,E2X|-[E",動詞,Verb,どうし,,,,Japanese::Nouns
+"vV,E2X|-[E",動詞,Verb,どうし,動詞[どうし],,,Japanese::Nouns
 B}FuCXM{-0,形容詞,Adjective,Y,"
 けいようし",,,Japanese::Nouns
 pK~^!G/(yk,反対,Opposite,Y,はんたい,,,Japanese::Nouns
@@ -1258,3 +1252,7 @@ eE.?v!}.gM,質問,Question,Y,しつもん,,,Japanese::Nouns
 "K-G)Rek,|H","<span style=""color: rgb(34, 34, 34); background-color: rgb(255, 255, 255);"">働</span><span style=""color: rgb(34, 34, 34);"">く</span>",To work / to labor&nbsp;,Y,"<span style=""color: rgb(34, 34, 34);"">働[</span><span style=""color: rgb(34, 34, 34);""><span style=""background-color: rgb(255, 255, 255);"">はたら]</span>く</span>",,,Japanese::Verbs
 y>Y-[*owjz,動く,To move / To operate&nbsp;,Y,動[うご]く,,,Japanese::Verbs
 cCr+tRg!eX,起きる,to get up,,起[お]きる,,,"Genki, Ru-verbs_and_Irregular_verbs"
+M5a*dWan>i,そこで,So / therefore,,そこで,,An action to solve a problem,Japanese::Conjunctions
+pS)9(dH8Xc,すると,"""And then"" / Thereupon / Hereupon",,すると,,The next event happened immediately after,Japanese::Conjunctions
+"H,H1Mm8{By",できる,"to be able (in a position) to do, to be up to the task",Y,できる,,,Japanese::Verbs
+"Iu,h.tNc/n",なので,Because / As / Since,,なので,,,Japanese::Conjunctions
